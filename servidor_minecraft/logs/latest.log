@@ -264,3 +264,26 @@
 [06Dec2024 01:20:01.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Getting an Upgrade]
 [06Dec2024 01:20:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
 [06Dec2024 01:21:34.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[06Dec2024 01:23:22.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[06Dec2024 01:24:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[06Dec2024 01:25:34.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Monster Hunter]
+[06Dec2024 01:25:50.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Isn't It Iron Pick]
+[06Dec2024 01:27:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.infection
+[06Dec2024 01:27:14.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=33, z=15} BlockPos{x=6, y=31, z=0}
+[06Dec2024 01:27:14.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=33, z=15} BlockPos{x=6, y=32, z=0}
+[06Dec2024 01:27:15.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Eduardo171'/3823, l='ServerLevel[world]', x=133.46, y=64.00, z=0.70] died: Zombie Player was slain by rexsel
+[06Dec2024 01:27:16.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=33, z=15} BlockPos{x=7, y=32, z=-1}
+[06Dec2024 01:28:07.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=33, z=15} BlockPos{x=3, y=30, z=-1}
+[06Dec2024 01:28:07.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=33, z=15} BlockPos{x=3, y=31, z=-1}
+[06Dec2024 01:28:08.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=33, z=15} BlockPos{x=3, y=33, z=-2}
+[06Dec2024 01:28:22.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eduardo171> ia me tengo que ir :(
+[06Dec2024 01:28:50.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[06Dec2024 01:28:50.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[06Dec2024 01:30:32.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Acquire Hardware]
+[06Dec2024 01:32:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Isn't It Iron Pick]
+[06Dec2024 01:34:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[06Dec2024 01:36:48.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Diamonds!]
+[06Dec2024 01:37:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Spectator Mode]
+[06Dec2024 01:39:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[06Dec2024 01:40:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
+[06Dec2024 01:40:39.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/10704, l='ServerLevel[world]', x=135.49, y=72.00, z=3.02] died: Zombie Player was slain by rexsel
