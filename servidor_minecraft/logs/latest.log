@@ -287,3 +287,14 @@
 [06Dec2024 01:39:12.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
 [06Dec2024 01:40:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
 [06Dec2024 01:40:39.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/10704, l='ServerLevel[world]', x=135.49, y=72.00, z=3.02] died: Zombie Player was slain by rexsel
+[06Dec2024 01:44:56.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[06Dec2024 01:49:59.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[06Dec2024 01:50:07.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[06Dec2024 01:50:18.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Timed out
+[06Dec2024 01:50:18.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[06Dec2024 01:50:29.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:48388] logged in with entity id 16828 at (173.55654927485736, 64.02442408821369, -242.29521871798272)
+[06Dec2024 01:50:29.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[06Dec2024 01:50:48.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[06Dec2024 01:52:16.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/16835, l='ServerLevel[world]', x=182.99, y=63.00, z=-241.31] died: Zombie Player was slain by tiliaso_01
+[06Dec2024 01:52:22.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/17105, l='ServerLevel[world]', x=182.70, y=63.00, z=-240.90] died: Zombie Player was slain by tiliaso_01
+[06Dec2024 01:52:29.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/16836, l='ServerLevel[world]', x=182.55, y=63.00, z=-241.00] died: Zombie Player was slain by tiliaso_01
