@@ -298,3 +298,14 @@
 [06Dec2024 01:52:16.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/16835, l='ServerLevel[world]', x=182.99, y=63.00, z=-241.31] died: Zombie Player was slain by tiliaso_01
 [06Dec2024 01:52:22.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/17105, l='ServerLevel[world]', x=182.70, y=63.00, z=-240.90] died: Zombie Player was slain by tiliaso_01
 [06Dec2024 01:52:29.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/16836, l='ServerLevel[world]', x=182.55, y=63.00, z=-241.00] died: Zombie Player was slain by tiliaso_01
+[06Dec2024 02:06:05.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[06Dec2024 02:06:55.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [A Cut Above the Rest]
+[06Dec2024 02:07:13.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [A Cut Above the Rest]
+[06Dec2024 02:07:17.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[06Dec2024 02:07:27.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[06Dec2024 02:07:29.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[06Dec2024 02:08:28.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[06Dec2024 02:08:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Burying the Hatchet]
+[06Dec2024 02:09:32.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Burying the Hatchet]
+[06Dec2024 02:09:33.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[06Dec2024 02:09:52.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by tiliaso_01
