@@ -173,6 +173,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "stray_skull": "2024-12-09 04:10:24 +0000",
       "zombie_head": "2024-12-07 05:51:34 +0000",
       "wither_skeleton_skull": "2024-12-07 06:42:56 +0000"
     },

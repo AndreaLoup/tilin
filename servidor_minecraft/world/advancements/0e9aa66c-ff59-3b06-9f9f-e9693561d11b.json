@@ -3983,6 +3983,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2024-12-09 04:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-09 03:04:08 +0000"

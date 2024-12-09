@@ -1635,6 +1635,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-09 04:13:51 +0000",
       "baked_potato": "2024-12-09 03:49:00 +0000",
       "bread": "2024-12-09 02:11:24 +0000"
     },
@@ -2312,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-09 04:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 03:59:15 +0000"
@@ -2321,6 +2328,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-09 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-09 04:12:43 +0000"
     },
     "done": true
   },
@@ -2397,6 +2410,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-09 04:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2024-12-09 03:47:22 +0000"
@@ -2451,6 +2470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-09 04:12:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
@@ -2463,9 +2488,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-09 04:12:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_warhammer": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-09 04:12:50 +0000"
     },
     "done": true
   },
@@ -2478,6 +2515,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-09 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-09 04:12:50 +0000"
     },
     "done": true
   },
@@ -2514,6 +2557,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-09 03:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-09 04:12:20 +0000"
     },
     "done": true
   },
@@ -2625,6 +2674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-09 04:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-09 03:05:21 +0000"
@@ -2634,6 +2689,12 @@
   "spartanweaponry:recipes/silver_longbow": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-09 04:09:23 +0000"
     },
     "done": true
   },
@@ -2697,6 +2758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-09 04:12:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-09 03:05:21 +0000"
@@ -2712,6 +2779,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 04:09:23 +0000"
     },
     "done": true
   },
