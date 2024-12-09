@@ -20,6 +20,7 @@
       "minecraft:snowy_plains": "2024-12-07 06:14:09 +0000",
       "minecraft:stony_shore": "2024-12-09 02:53:48 +0000",
       "minecraft:snowy_taiga": "2024-12-07 05:46:02 +0000",
+      "minecraft:dripstone_caves": "2024-12-09 03:04:19 +0000",
       "minecraft:swamp": "2024-12-07 06:11:34 +0000",
       "minecraft:forest": "2024-12-09 02:56:19 +0000",
       "minecraft:ice_spikes": "2024-12-09 01:03:20 +0000",
@@ -3799,6 +3800,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-09 03:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-09 02:45:29 +0000"
@@ -3865,6 +3872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-09 03:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-09 02:55:19 +0000"
@@ -3898,6 +3911,12 @@
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2024-12-09 02:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-09 03:04:08 +0000"
     },
     "done": true
   },
