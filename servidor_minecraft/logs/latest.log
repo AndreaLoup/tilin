@@ -1406,3 +1406,43 @@
 [09Dec2024 03:38:50.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
 [09Dec2024 03:38:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no mames
 [09Dec2024 03:39:05.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a reiniciar
+[09Dec2024 03:39:20.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[09Dec2024 03:39:20.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[09Dec2024 03:43:07.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
+[09Dec2024 03:43:40.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Emily_OvO[/[::1]:41842] logged in with entity id 93985 at (-7.5, 72.0, 10.5)
+[09Dec2024 03:43:40.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emily_OvO joined the game
+[09Dec2024 03:43:40.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emily_OvO has made the advancement [Ice and Fire]
+[09Dec2024 03:43:46.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Emily_OvO to rexsel]
+[09Dec2024 03:44:00.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 03:44:10.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 03:44:23.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Reaping What You Sow]
+[09Dec2024 03:44:24.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:44:47.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/94275, l='ServerLevel[world]', x=702.59, y=77.00, z=-574.02] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:44:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:45:28.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/94407, l='ServerLevel[world]', x=722.24, y=59.18, z=-574.60] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:46:23.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/[::1]:56478] logged in with entity id 94759 at (713.2582378292147, 83.0, -603.0477326709895)
+[09Dec2024 03:46:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[09Dec2024 03:46:48.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya volvi
+[09Dec2024 03:46:57.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emily_OvO was slain by Eduardo171
+[09Dec2024 03:47:08.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> :O
+[09Dec2024 03:47:08.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Emily_OvO to rexsel]
+[09Dec2024 03:47:39.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tu hermana es vieja we rexsel?
+[09Dec2024 03:47:46.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pense que era hermano
+[09Dec2024 03:47:47.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> xd
+[09Dec2024 03:47:57.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:48:07.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Emily_OvO has made the advancement [Sweet Dreams]
+[09Dec2024 03:48:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was doomed to fall by Zombified Piglin
+[09Dec2024 03:48:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:48:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Stone Age]
+[09Dec2024 03:48:26.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/95767, l='ServerLevel[world]', x=725.30, y=58.00, z=-570.53] died: Zombie Player fell from a high place
+[09Dec2024 03:49:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que mas refuerzo rexsel
+[09Dec2024 03:49:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by elikernomamahuev
+[09Dec2024 03:49:08.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 surcumb to the infection
+[09Dec2024 03:49:17.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:49:17.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:49:17.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[09Dec2024 03:49:25.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:49:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:49:26.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Eduardo171'/95963, l='ServerLevel[world]', x=732.59, y=78.96, z=-604.31] died: Zombie Player was slain by elikernomamahuev
+[09Dec2024 03:49:29.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/96280, l='ServerLevel[world]', x=726.70, y=58.00, z=-569.62] died: Zombie Player fell from a high place
+[09Dec2024 03:49:29.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
