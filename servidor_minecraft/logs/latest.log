@@ -424,3 +424,76 @@
 [09Dec2024 02:06:22.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: You logged in from another location
 [09Dec2024 02:06:22.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
 [09Dec2024 02:06:22.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:54246] logged in with entity id 47151 at (726.6999999880791, 56.0, -608.3000000119209)
+[09Dec2024 02:06:22.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[09Dec2024 02:06:26.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 02:06:26.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 02:06:42.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: You logged in from another location
+[09Dec2024 02:06:42.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[09Dec2024 02:06:42.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:36358] logged in with entity id 47244 at (726.6999999880791, 56.0, -608.3000000119209)
+[09Dec2024 02:06:42.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[09Dec2024 02:06:46.973] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/47166, l='ServerLevel[world]', x=725.79, y=56.00, z=-608.40] died: Zombie Player was doomed to fall by rexsel
+[09Dec2024 02:06:49.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> QWEQEW
+[09Dec2024 02:06:51.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> QQQW
+[09Dec2024 02:06:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> Q
+[09Dec2024 02:06:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> QWEQEW
+[09Dec2024 02:06:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> QWEQEW
+[09Dec2024 02:06:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> QWEQEQW
+[09Dec2024 02:06:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> QQW
+[09Dec2024 02:07:12.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Timed out
+[09Dec2024 02:07:12.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[09Dec2024 02:07:35.800] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1af60579[id=<null>,name=tiliaso_01,properties={},legacy=false] (/[::1]:46952) lost connection: Timed out
+[09Dec2024 02:07:48.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 02:07:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 02:07:57.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:60750] logged in with entity id 47485 at (726.6999999880791, 56.0, -608.3000000119209)
+[09Dec2024 02:07:57.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[09Dec2024 02:09:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [The Fourth Horseman]
+[09Dec2024 02:12:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 02:12:26.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 02:12:35.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ADAWD
+[09Dec2024 02:12:37.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ASD
+[09Dec2024 02:12:38.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> A
+[09Dec2024 02:12:41.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ADADATSDA
+[09Dec2024 02:12:42.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ASDASAD
+[09Dec2024 02:12:43.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ASDADSA
+[09Dec2024 02:12:44.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> A
+[09Dec2024 02:12:56.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[09Dec2024 02:13:12.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Timed out
+[09Dec2024 02:13:12.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[09Dec2024 02:13:22.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:40186] logged in with entity id 49013 at (726.5863402449089, 77.0, -613.4829565159007)
+[09Dec2024 02:13:22.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[09Dec2024 02:16:13.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was doomed to fall by tiliaso_01
+[09Dec2024 02:16:14.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 02:16:57.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Gamerule randomTickSpeed is now set to: 10]
+[09Dec2024 02:17:20.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 fell from a high place
+[09Dec2024 02:17:20.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 surcumb to the infection
+[09Dec2024 02:17:37.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Zombie Player
+[09Dec2024 02:17:37.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 surcumb to the infection
+[09Dec2024 02:18:27.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/47466, l='ServerLevel[world]', x=726.70, y=56.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 02:18:30.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by rexsel
+[09Dec2024 02:18:30.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 02:18:43.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie Player
+[09Dec2024 02:18:49.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/50539, l='ServerLevel[world]', x=726.70, y=57.00, z=-602.30] died: Zombie Player was slain by Eduardo171
+[09Dec2024 02:19:01.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Eduardo171'/50324, l='ServerLevel[world]', x=726.15, y=56.00, z=-608.43] died: Zombie Player was slain by Eduardo171
+[09Dec2024 02:19:23.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/47118, l='ServerLevel[world]', x=725.70, y=55.00, z=-609.30] died: Zombie Player was slain by Eduardo171
+[09Dec2024 02:19:26.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/47109, l='ServerLevel[world]', x=726.51, y=56.00, z=-608.51] died: Zombie Player was slain by Eduardo171
+[09Dec2024 02:19:28.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/48577, l='ServerLevel[world]', x=725.70, y=55.00, z=-609.30] died: Zombie Player was slain by Eduardo171
+[09Dec2024 02:19:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by tiliaso_01
+[09Dec2024 02:19:52.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 surcumb to the infection
+[09Dec2024 02:19:54.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Eduardo171'/50827, l='ServerLevel[world]', x=724.85, y=78.00, z=-591.31] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 02:20:36.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by tiliaso_01
+[09Dec2024 02:20:46.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by tiliaso_01
+[09Dec2024 02:20:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[09Dec2024 02:21:14.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/51091, l='ServerLevel[world]', x=725.73, y=56.00, z=-608.73] died: Zombie Player was slain by rexsel
+[09Dec2024 02:22:14.780] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:15.098] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:15.398] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:15.690] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:16.006] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:16.337] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:16.688] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:17.075] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:17.428] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:18.881] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:19.226] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Eduardo171" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=725, y=79, z=-593}] too quickly!
+[09Dec2024 02:22:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [What a Deal!]
+[09Dec2024 02:26:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
