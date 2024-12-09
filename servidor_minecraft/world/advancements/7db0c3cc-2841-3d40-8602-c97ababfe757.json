@@ -1638,7 +1638,8 @@
       "cooked_mutton": "2024-12-09 04:46:33 +0000",
       "cooked_beef": "2024-12-09 04:13:51 +0000",
       "baked_potato": "2024-12-09 03:49:00 +0000",
-      "bread": "2024-12-09 02:11:24 +0000"
+      "bread": "2024-12-09 02:11:24 +0000",
+      "rotten_flesh": "2024-12-09 05:06:06 +0000"
     },
     "done": false
   },
@@ -2382,6 +2383,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "creeper_head": "2024-12-09 05:18:24 +0000",
       "stray_skull": "2024-12-09 04:07:23 +0000",
       "zombie_head": "2024-12-09 03:48:12 +0000"
     },
@@ -2618,6 +2620,12 @@
   "spartanweaponry:recipes/silver_battleaxe": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-09 05:18:24 +0000"
     },
     "done": true
   },

@@ -250,6 +250,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-09 01:12:54 +0000",
       "minecraft:spider": "2024-12-09 02:51:28 +0000",
+      "minecraft:creeper": "2024-12-09 04:49:32 +0000",
       "minecraft:zombified_piglin": "2024-12-09 03:16:40 +0000",
       "minecraft:silverfish": "2024-12-09 04:04:13 +0000",
       "minecraft:zombie": "2024-12-07 05:53:08 +0000",
@@ -1198,6 +1199,7 @@
     "criteria": {
       "baked_potato": "2024-12-09 03:56:28 +0000",
       "beetroot_soup": "2024-12-09 01:42:11 +0000",
+      "potato": "2024-12-09 05:13:03 +0000",
       "golden_apple": "2024-12-07 06:43:21 +0000",
       "bread": "2024-12-09 01:25:22 +0000",
       "golden_carrot": "2024-12-07 06:51:28 +0000",
@@ -1752,6 +1754,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-09 04:51:02 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_cracked_deepslate_bricks": {
     "criteria": {
       "has_item": "2024-12-09 00:49:01 +0000"
@@ -2016,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-09 04:51:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_javelin": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 04:38:02 +0000"
@@ -2274,6 +2288,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2024-12-09 05:10:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-09 04:37:55 +0000"
@@ -2343,6 +2363,12 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2024-12-09 02:02:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2024-12-09 05:10:53 +0000"
     },
     "done": true
   },
@@ -3822,6 +3848,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 04:51:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 01:18:01 +0000"
@@ -3933,6 +3965,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-09 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2024-12-09 05:10:53 +0000"
     },
     "done": true
   },
@@ -4161,6 +4199,12 @@
   "spartanweaponry:recipes/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2024-12-09 01:18:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2024-12-09 05:10:53 +0000"
     },
     "done": true
   },
