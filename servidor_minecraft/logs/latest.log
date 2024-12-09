@@ -288,3 +288,105 @@
 [09Dec2024 01:13:35.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
 [09Dec2024 01:13:40.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
 [09Dec2024 01:15:12.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/19313, l='ServerLevel[world]', x=245.71, y=72.00, z=-1081.24] died: Zombie Player was blown up by Creeper
+[09Dec2024 01:15:33.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:16:35.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Hot Stuff]
+[09Dec2024 01:17:12.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Stone Age]
+[09Dec2024 01:18:07.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Diamonds!]
+[09Dec2024 01:18:51.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Isn't It Iron Pick]
+[09Dec2024 01:19:57.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Getting an Upgrade]
+[09Dec2024 01:20:05.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Ice Dragon
+[09Dec2024 01:20:05.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:20:19.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was turned to ice by Ice Dragon
+[09Dec2024 01:20:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Ice Dragon
+[09Dec2024 01:20:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Ice Dragon
+[09Dec2024 01:21:05.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was turned to ice by Ice Dragon
+[09Dec2024 01:21:11.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[09Dec2024 01:21:20.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 walked into a cactus whilst trying to escape Ice Dragon
+[09Dec2024 01:23:49.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Diamonds!]
+[09Dec2024 01:23:51.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 01:26:52.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1750, l='ServerLevel[world]', x=670.40, y=67.00, z=-537.26] died, message: 'death.attack.infection'
+[09Dec2024 01:27:17.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Book of Monsters]
+[09Dec2024 01:27:26.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Would you Like to Know More?]
+[09Dec2024 01:27:50.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Tie me to the Mast]
+[09Dec2024 01:28:04.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[09Dec2024 01:28:40.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 01:28:52.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 01:30:36.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Sweet Dreams]
+[09Dec2024 01:30:38.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rexsel> zzzz
+[09Dec2024 01:31:59.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 01:32:04.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32414, l='ServerLevel[world]', x=729.64, y=82.00, z=-595.82] died, message: 'Villager was eliminated by rexsel'
+[09Dec2024 01:32:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 01:32:34.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 01:32:34.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 01:32:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:32:40.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:32:53.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/32562, l='ServerLevel[world]', x=724.53, y=78.91, z=-593.86] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 01:33:21.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by tiliaso_01
+[09Dec2024 01:33:21.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 01:33:31.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/32694, l='ServerLevel[world]', x=729.25, y=78.00, z=-591.68] died: Zombie Player was slain by rexsel
+[09Dec2024 01:33:58.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:33:58.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:35:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Not Today, Thank You]
+[09Dec2024 01:35:20.628] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1781, l='ServerLevel[world]', x=687.36, y=70.00, z=-569.62] died, message: 'Farmer was slain by Zombie Player'
+[09Dec2024 01:35:50.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was turned to ice by Ice Dragon
+[09Dec2024 01:36:06.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 01:36:14.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 01:36:38.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/32528, l='ServerLevel[world]', x=625.36, y=63.00, z=-509.36] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 01:36:48.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was pricked to death
+[09Dec2024 01:39:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [What a Deal!]
+[09Dec2024 01:42:10.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 tried to swim in lava
+[09Dec2024 01:42:22.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> }
+[09Dec2024 01:43:31.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 01:43:31.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 01:44:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:47:17.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/[::1]:60844] logged in with entity id 40683 at (-1.5, 68.0, -5.5)
+[09Dec2024 01:47:17.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[09Dec2024 01:47:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Ice and Fire]
+[09Dec2024 01:47:23.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 01:47:23.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 01:47:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[09Dec2024 01:47:34.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Sweet Dreams]
+[09Dec2024 01:48:03.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Isn't It Iron Pick]
+[09Dec2024 01:48:04.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Suit Up]
+[09Dec2024 01:48:21.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/40820, l='ServerLevel[world]', x=732.48, y=78.00, z=-583.00] died: Zombie Player was slain by rexsel
+[09Dec2024 01:49:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Monster Hunter]
+[09Dec2024 01:49:52.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:49:52.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:50:12.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:50:12.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:50:34.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:50:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:50:49.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: You logged in from another location
+[09Dec2024 01:50:49.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[09Dec2024 01:50:49.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:58378] logged in with entity id 41664 at (722.5, 82.0, -597.5)
+[09Dec2024 01:50:49.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[09Dec2024 01:51:04.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> pe
+[09Dec2024 01:51:19.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Timed out
+[09Dec2024 01:51:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[09Dec2024 01:51:55.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:42766] logged in with entity id 41954 at (722.5, 82.0, -597.5)
+[09Dec2024 01:51:55.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[09Dec2024 01:52:34.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:52:34.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:53:05.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 01:53:10.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 01:53:22.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 01:53:47.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/42291, l='ServerLevel[world]', x=725.30, y=69.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 01:53:48.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/41441, l='ServerLevel[world]', x=733.39, y=80.00, z=-570.49] died: Zombie Player was slain by Eduardo171
+[09Dec2024 01:54:06.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by rexsel
+[09Dec2024 01:54:10.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 01:54:22.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[09Dec2024 01:54:22.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:54:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 01:54:35.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Eduardo171
+[09Dec2024 01:54:36.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:54:40.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: Timed out
+[09Dec2024 01:54:40.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[09Dec2024 01:54:52.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:34312] logged in with entity id 42799 at (727.2543962734518, 79.02442408821369, -589.3955701245939)
+[09Dec2024 01:54:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[09Dec2024 01:55:16.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tiliaso_01 lost connection: You logged in from another location
+[09Dec2024 01:55:16.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 left the game
+[09Dec2024 01:55:16.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tiliaso_01[/[::1]:52874] logged in with entity id 42854 at (727.2543962734518, 79.02442408821369, -589.3955701245939)
+[09Dec2024 01:55:16.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 joined the game
+[09Dec2024 01:55:33.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Eduardo171'/42607, l='ServerLevel[world]', x=719.38, y=78.00, z=-581.37] died: Zombie Player was slain by rexsel
+[09Dec2024 01:55:41.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 01:55:56.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
