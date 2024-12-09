@@ -1258,3 +1258,151 @@
 [09Dec2024 03:28:54.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
 [09Dec2024 03:28:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> nooo
 [09Dec2024 03:29:01.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> la put
+[09Dec2024 03:29:30.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 03:29:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 03:29:43.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:29:43.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:29:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a
+[09Dec2024 03:29:52.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no pues
+[09Dec2024 03:30:00.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pongan lava
+[09Dec2024 03:30:02.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> lava
+[09Dec2024 03:30:04.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> callate rexle
+[09Dec2024 03:30:05.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> asi bien easy
+[09Dec2024 03:30:14.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> checa la coas de farmeo
+[09Dec2024 03:30:21.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> NO PUE
+[09Dec2024 03:30:22.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:30:26.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> SI SON MUCHOS
+[09Dec2024 03:30:34.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-596} BlockPos{x=713, y=80, z=-596}
+[09Dec2024 03:30:34.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-596} BlockPos{x=713, y=80, z=-596}
+[09Dec2024 03:30:34.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-596} BlockPos{x=713, y=80, z=-596}
+[09Dec2024 03:30:45.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-603} BlockPos{x=713, y=80, z=-603}
+[09Dec2024 03:30:45.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-603} BlockPos{x=713, y=80, z=-603}
+[09Dec2024 03:30:45.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-603} BlockPos{x=713, y=80, z=-603}
+[09Dec2024 03:30:45.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-603} BlockPos{x=713, y=80, z=-603}
+[09Dec2024 03:30:45.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-603} BlockPos{x=713, y=80, z=-603}
+[09Dec2024 03:30:45.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-603} BlockPos{x=713, y=80, z=-603}
+[09Dec2024 03:30:45.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-603} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:30:45.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-603} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:30:45.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-603} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:30:52.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:30:52.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:30:59.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> q
+[09Dec2024 03:31:10.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> puta
+[09Dec2024 03:31:19.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89002, l='ServerLevel[world]', x=725.30, y=57.00, z=-608.69] died: Zombie Player was doomed to fall by tiliaso_01
+[09Dec2024 03:31:19.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88496, l='ServerLevel[world]', x=727.68, y=80.00, z=-574.41] died: Zombie Player was slain by rexsel
+[09Dec2024 03:31:20.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ME INFECTE
+[09Dec2024 03:31:24.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was doomed to fall by Zombie
+[09Dec2024 03:31:24.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev surcumb to the infection
+[09Dec2024 03:31:24.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 03:31:24.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 03:31:43.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:31:43.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:31:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:31:48.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:31:48.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:31:50.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[09Dec2024 03:31:50.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[09Dec2024 03:31:53.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:31:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:31:54.130] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88322, l='ServerLevel[world]', x=726.21, y=57.00, z=-608.49] died: Zombie Player was squished too much
+[09Dec2024 03:31:57.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88281, l='ServerLevel[world]', x=726.70, y=57.00, z=-608.61] died: Zombie Player was squished too much
+[09Dec2024 03:31:59.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:31:59.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:02.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88429, l='ServerLevel[world]', x=726.70, y=57.00, z=-608.68] died: Zombie Player was squished too much
+[09Dec2024 03:32:08.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89110, l='ServerLevel[world]', x=726.70, y=57.00, z=-608.30] died: Zombie Player was squished too much
+[09Dec2024 03:32:09.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/[::1]:38816] logged in with entity id 89495 at (725.6754635784248, 78.0, -592.9596010695196)
+[09Dec2024 03:32:09.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[09Dec2024 03:32:09.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> verga mira el coso de farmeo de sombie
+[09Dec2024 03:32:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 03:32:13.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 03:32:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> 10 de 10
+[09Dec2024 03:32:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> anda lleno
+[09Dec2024 03:32:19.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> malditos time out
+[09Dec2024 03:32:20.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:32:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:25.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:32:25.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:30.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:32:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:33.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88183, l='ServerLevel[world]', x=725.80, y=57.00, z=-609.43] died: Zombie Player was squished too much
+[09Dec2024 03:32:34.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:32:34.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:36.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88772, l='ServerLevel[world]', x=726.70, y=57.00, z=-608.30] died: Zombie Player was squished too much
+[09Dec2024 03:32:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:32:39.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:40.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 03:32:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:32:44.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:49.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:32:49.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:54.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[09Dec2024 03:32:54.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:32:56.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88260, l='ServerLevel[world]', x=726.68, y=57.00, z=-608.85] died: Zombie Player was squished too much
+[09Dec2024 03:32:59.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/89266, l='ServerLevel[world]', x=723.46, y=78.00, z=-578.21] died: Zombie Player was eliminated by rexsel
+[09Dec2024 03:33:09.154] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88344, l='ServerLevel[world]', x=726.48, y=77.94, z=-589.52] died: Zombie Player was taken down by rexsel
+[09Dec2024 03:33:10.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89597, l='ServerLevel[world]', x=725.79, y=57.00, z=-609.70] died: Zombie Player was squished too much
+[09Dec2024 03:33:12.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88388, l='ServerLevel[world]', x=733.33, y=78.00, z=-593.80] died: Zombie Player was eliminated by rexsel
+[09Dec2024 03:33:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no ma
+[09Dec2024 03:33:14.834] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/88699, l='ServerLevel[world]', x=729.84, y=78.00, z=-585.71] died: Zombie Player was annihilated by rexsel
+[09Dec2024 03:33:17.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/89511, l='ServerLevel[world]', x=725.30, y=78.00, z=-583.06] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:33:21.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> mira
+[09Dec2024 03:33:29.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ven
+[09Dec2024 03:33:32.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> mira
+[09Dec2024 03:33:38.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya le mandamos el paquete del yupi negro @pilin
+[09Dec2024 03:33:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya termine mi chamba rexsel
+[09Dec2024 03:33:58.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y me recompenza
+[09Dec2024 03:34:00.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ?
+[09Dec2024 03:34:06.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[09Dec2024 03:34:15.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/87890, l='ServerLevel[world]', x=726.04, y=57.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:22.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89676, l='ServerLevel[world]', x=725.75, y=57.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:26.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89814, l='ServerLevel[world]', x=725.30, y=57.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:28.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89331, l='ServerLevel[world]', x=725.43, y=57.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:30.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89547, l='ServerLevel[world]', x=726.26, y=57.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 03:34:33.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89628, l='ServerLevel[world]', x=725.33, y=57.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:36.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya termine
+[09Dec2024 03:34:38.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> cait
+[09Dec2024 03:34:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y mi recompenza
+[09Dec2024 03:34:40.054] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89749, l='ServerLevel[world]', x=725.94, y=57.00, z=-608.31] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:41.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89442, l='ServerLevel[world]', x=726.03, y=57.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:47.105] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elikernomamahuev'/86957, l='ServerLevel[world]', x=725.51, y=57.00, z=-608.33] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:50.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89716, l='ServerLevel[world]', x=726.44, y=57.00, z=-608.30] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no pue
+[09Dec2024 03:34:51.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/89524, l='ServerLevel[world]', x=726.13, y=57.00, z=-608.39] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:34:54.656] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elikernomamahuev'/89262, l='ServerLevel[world]', x=726.32, y=57.00, z=-608.35] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:35:00.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no pue
+[09Dec2024 03:35:02.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya void
+[09Dec2024 03:35:17.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by tiliaso_01
+[09Dec2024 03:35:20.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ai
+[09Dec2024 03:35:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> nooo otro time out
+[09Dec2024 03:35:39.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[09Dec2024 03:35:39.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[09Dec2024 03:35:55.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:36:08.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/[::1]:53350] logged in with entity id 92078 at (713.2582378292147, 83.0, -603.0477326709895)
+[09Dec2024 03:36:08.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[09Dec2024 03:36:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[09Dec2024 03:36:17.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/91978, l='ServerLevel[world]', x=723.79, y=80.00, z=-575.54] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 03:36:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> muero y me saca
+[09Dec2024 03:36:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no pues
+[09Dec2024 03:36:34.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:36:39.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[09Dec2024 03:36:39.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[09Dec2024 03:36:45.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/92216, l='ServerLevel[world]', x=99.70, y=29.00, z=-64.35] died: Zombie Player tried to swim in lava
+[09Dec2024 03:36:48.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Eduardo171
+[09Dec2024 03:36:48.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 03:36:58.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/92347, l='ServerLevel[world]', x=726.29, y=82.00, z=-594.32] died: Zombie Player was slain by Eduardo171
+[09Dec2024 03:37:18.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/[::1]:47972] logged in with entity id 92429 at (713.2582378292147, 83.0, -603.0477326709895)
+[09Dec2024 03:37:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[09Dec2024 03:37:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by rexsel
+[09Dec2024 03:37:22.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 surcumb to the infection
+[09Dec2024 03:37:28.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[09Dec2024 03:37:30.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> la ptm
+[09Dec2024 03:37:32.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> otra vez
+[09Dec2024 03:37:35.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Eduardo171'/92453, l='ServerLevel[world]', x=720.65, y=78.00, z=-583.70] died: Zombie Player was slain by rexsel
+[09Dec2024 03:37:48.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[09Dec2024 03:37:48.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[09Dec2024 03:37:57.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/92113, l='ServerLevel[world]', x=726.70, y=57.00, z=-569.30] died: Zombie Player was doomed to fall by tiliaso_01
+[09Dec2024 03:38:50.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/[::1]:56452] logged in with entity id 92940 at (713.2582378292147, 83.0, -603.0477326709895)
+[09Dec2024 03:38:50.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[09Dec2024 03:38:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no mames
+[09Dec2024 03:39:05.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> voy a reiniciar
