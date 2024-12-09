@@ -57,6 +57,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-09 00:53:32 +0000",
+      "minecraft:spider": "2024-12-09 00:53:34 +0000",
       "minecraft:creeper": "2024-12-07 06:32:58 +0000",
       "minecraft:zombie": "2024-12-07 05:47:41 +0000",
       "minecraft:zombie_villager": "2024-12-07 06:03:39 +0000"
@@ -2514,6 +2516,30 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-07 06:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-09 00:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-09 00:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-09 00:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-09 00:54:32 +0000"
     },
     "done": true
   },

@@ -257,3 +257,16 @@
 [09Dec2024 00:52:21.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/3826, l='ServerLevel[world]', x=714.69, y=78.00, z=-599.37] died: Zombie Player was taken down by rexsel
 [09Dec2024 00:53:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Spider
 [09Dec2024 00:53:26.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1749, l='ServerLevel[world]', x=701.30, y=70.00, z=-537.30] died, message: 'Villager was slain by Zombie'
+[09Dec2024 00:55:02.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Take Aim]
+[09Dec2024 00:56:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 00:56:35.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 00:56:43.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[09Dec2024 00:56:51.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/6814, l='ServerLevel[world]', x=722.79, y=78.00, z=-588.32] died: Zombie Player was shot by tiliaso_01
+[09Dec2024 00:56:53.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/6759, l='ServerLevel[world]', x=719.79, y=78.00, z=-587.46] died: Zombie Player was shot by tiliaso_01
+[09Dec2024 00:57:14.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 00:57:14.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 00:57:31.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/7014, l='ServerLevel[world]', x=726.53, y=78.00, z=-593.53] died: Zombie Player was slain by tiliaso_01
+[09Dec2024 01:00:52.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[09Dec2024 01:00:52.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 01:03:20.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1725, l='ServerLevel[world]', x=694.83, y=72.00, z=-516.49] died, message: 'death.attack.infection'
+[09Dec2024 01:05:14.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was frozen by Ice Dragon
