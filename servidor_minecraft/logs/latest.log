@@ -613,3 +613,86 @@
 [09Dec2024 03:07:32.368] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
 [09Dec2024 03:07:34.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no toy
 [09Dec2024 03:07:35.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2687ms or 53 ticks behind
+[09Dec2024 03:08:13.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[09Dec2024 03:08:26.617] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:08:26.617] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:08:26.631] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:08:26.632] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:08:56.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was burnt to a crisp whilst fighting Zombie
+[09Dec2024 03:08:56.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:09:15.783] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:09:15.784] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:09:15.788] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:09:15.789] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:09:28.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by rexsel
+[09Dec2024 03:09:32.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Eduardo171'/79746, l='ServerLevel[world]', x=311.91, y=-27.00, z=166.79] died: Zombie Player was slain by rexsel
+[09Dec2024 03:10:05.817] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:10:05.819] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:10:05.820] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@61787ad0]Can't spawn wave because max cap has been reached
+[09Dec2024 03:10:05.821] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:10:05.821] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:10:55.789] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:10:55.790] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:10:55.790] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@61787ad0]Can't spawn wave because max cap has been reached
+[09Dec2024 03:10:55.791] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:10:55.792] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 03:12:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> asdada
+[09Dec2024 03:12:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> juepuutaaaw
+[09Dec2024 03:13:34.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/[::1]:52554] logged in with entity id 81123 at (-8.5, 68.0, -6.5)
+[09Dec2024 03:13:34.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[09Dec2024 03:13:34.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Ice and Fire]
+[09Dec2024 03:13:37.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombie
+[09Dec2024 03:13:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 03:13:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> tp
+[09Dec2024 03:13:47.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[09Dec2024 03:13:48.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> pt
+[09Dec2024 03:13:50.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> pt
+[09Dec2024 03:13:50.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[09Dec2024 03:13:52.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> tp
+[09Dec2024 03:13:52.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[09Dec2024 03:14:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> uff q lag
+[09Dec2024 03:14:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Zombie
+[09Dec2024 03:14:15.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya no
+[09Dec2024 03:14:31.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> salen piglins
+[09Dec2024 03:14:43.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ira
+[09Dec2024 03:14:45.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:14:45.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:14:47.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> zombificados
+[09Dec2024 03:14:55.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Suit Up]
+[09Dec2024 03:14:56.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Getting an Upgrade]
+[09Dec2024 03:15:24.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:15:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:15:35.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
+[09Dec2024 03:15:35.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 03:15:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> rexsel mete el mod de magia asi para invocar zombies y luego chaquetiarte
+[09Dec2024 03:15:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> ora puta
+[09Dec2024 03:16:02.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:16:02.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:16:06.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ENDERPEAL
+[09Dec2024 03:16:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was slain by Zombified Piglin
+[09Dec2024 03:16:08.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev surcumb to the infection
+[09Dec2024 03:16:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> NO PUE
+[09Dec2024 03:16:12.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:16:13.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> XD
+[09Dec2024 03:16:20.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [A Cut Above the Rest]
+[09Dec2024 03:16:27.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombified Piglin
+[09Dec2024 03:16:35.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Monster Hunter]
+[09Dec2024 03:16:50.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/82963, l='ServerLevel[world]', x=724.47, y=80.00, z=-570.20] died: Zombie Player was slain by rexsel
+[09Dec2024 03:16:52.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo tambien edualdin
+[09Dec2024 03:16:55.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> bueno
+[09Dec2024 03:16:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> caborca
+[09Dec2024 03:17:01.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Eduardo171'/81787, l='ServerLevel[world]', x=393.01, y=-16.00, z=205.69] died: Zombie Player was slain by Eduardo171
+[09Dec2024 03:17:07.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/83085, l='ServerLevel[world]', x=715.79, y=78.00, z=-600.11] died: Zombie Player was slain by elikernomamahuev
+[09Dec2024 03:17:12.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elikernomamahuev'/83004, l='ServerLevel[world]', x=724.59, y=80.00, z=-569.47] died: Zombie Player was slain by rexsel
+[09Dec2024 03:17:31.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/82789, l='ServerLevel[world]', x=724.42, y=79.00, z=-571.63] died: Zombie Player was slain by elikernomamahuev
+[09Dec2024 03:17:33.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/82679, l='ServerLevel[world]', x=724.89, y=80.00, z=-570.32] died: Zombie Player was slain by elikernomamahuev
+[09Dec2024 03:17:40.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me infecte
+[09Dec2024 03:17:42.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> nuuuuu
+[09Dec2024 03:17:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> i mi pico de diamante
+[09Dec2024 03:17:56.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> en tu culo
+[09Dec2024 03:17:57.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> jijiji
+[09Dec2024 03:17:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Zombified Piglin
+[09Dec2024 03:17:59.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 03:18:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev fell from a high place
+[09Dec2024 03:18:17.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> cual es la contraeña
+[09Dec2024 03:18:24.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Zombie

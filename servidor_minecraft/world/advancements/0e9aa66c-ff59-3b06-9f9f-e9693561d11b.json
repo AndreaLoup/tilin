@@ -67,6 +67,7 @@
       "minecraft:skeleton": "2024-12-09 00:53:32 +0000",
       "minecraft:spider": "2024-12-09 00:53:34 +0000",
       "minecraft:creeper": "2024-12-07 06:32:58 +0000",
+      "minecraft:zombified_piglin": "2024-12-09 03:14:32 +0000",
       "minecraft:stray": "2024-12-09 01:16:19 +0000",
       "minecraft:zombie": "2024-12-07 05:47:41 +0000",
       "minecraft:zombie_villager": "2024-12-07 06:03:39 +0000"
@@ -101,6 +102,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-07 05:47:59 +0000",
       "baked_potato": "2024-12-07 06:15:11 +0000",
+      "potato": "2024-12-09 03:12:30 +0000",
       "rabbit": "2024-12-09 01:41:58 +0000",
       "bread": "2024-12-07 06:29:39 +0000",
       "rotten_flesh": "2024-12-09 00:51:08 +0000",
@@ -3800,6 +3802,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-09 03:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-09 03:04:08 +0000"
@@ -3827,6 +3835,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-09 02:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-09 03:17:19 +0000"
     },
     "done": true
   },
@@ -3923,6 +3937,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-09 02:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-09 03:14:36 +0000"
     },
     "done": true
   },
