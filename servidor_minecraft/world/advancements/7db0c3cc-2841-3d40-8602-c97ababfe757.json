@@ -60,7 +60,10 @@
       "minecraft:skeleton": "2024-12-09 02:03:28 +0000",
       "minecraft:spider": "2024-12-09 02:44:58 +0000",
       "minecraft:creeper": "2024-12-09 02:47:45 +0000",
-      "minecraft:zombie": "2024-12-09 01:49:10 +0000"
+      "minecraft:zombified_piglin": "2024-12-09 03:48:22 +0000",
+      "minecraft:stray": "2024-12-09 04:07:22 +0000",
+      "minecraft:zombie": "2024-12-09 01:49:10 +0000",
+      "minecraft:drowned": "2024-12-09 03:48:41 +0000"
     },
     "done": false
   },
@@ -1632,6 +1635,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-09 03:49:00 +0000",
       "bread": "2024-12-09 02:11:24 +0000"
     },
     "done": false
@@ -2260,9 +2264,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-09 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -2278,9 +2300,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-09 03:59:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-09 03:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -2314,11 +2348,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_quarterstaff": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "stray_skull": "2024-12-09 04:07:23 +0000",
+      "zombie_head": "2024-12-09 03:48:12 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:scythe": {
     "criteria": {
@@ -2329,6 +2382,12 @@
   "spartanweaponry:recipes/silver_battle_hammer": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -2347,6 +2406,12 @@
   "spartanweaponry:recipes/silver_boomerang": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -2389,6 +2454,12 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -2464,6 +2535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_battleaxe": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
@@ -2500,6 +2577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_dagger": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
@@ -2524,9 +2607,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-09 03:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-09 03:59:45 +0000"
     },
     "done": true
   },
@@ -2545,6 +2640,12 @@
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -2572,6 +2673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_tomahawk": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
@@ -2581,6 +2688,12 @@
   "spartanweaponry:recipes/silver_pike": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
     },
     "done": true
   },
@@ -2596,6 +2709,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-09 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-09 02:55:01 +0000"
@@ -2605,6 +2730,12 @@
   "spartanweaponry:recipes/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2024-12-09 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2024-12-09 04:05:12 +0000"
     },
     "done": true
   },
