@@ -8504,3 +8504,1035 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Dec2024 03:18:21.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [09Dec2024 03:18:22.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [09Dec2024 03:18:24.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Zombie
+[09Dec2024 03:18:36.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:37.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:18:38.431] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[09Dec2024 03:18:38.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:38.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:39.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:39.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:18:39.638] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[09Dec2024 03:18:39.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:39.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:39.640] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:39.641] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:39.641] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:39.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:39.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:40.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:40.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/82845, l='ServerLevel[world]', x=725.91, y=57.00, z=-608.86] died: Zombie Player was slain by elikernomamahuev
+[09Dec2024 03:18:40.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:18:40.833] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[09Dec2024 03:18:40.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:40.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:40.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:40.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:40.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/83714, l='ServerLevel[world]', x=725.34, y=57.00, z=-608.34] died: Zombie Player was slain by elikernomamahuev
+[09Dec2024 03:18:40.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:40.836] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:41.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:43.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:43.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:18:43.512] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[09Dec2024 03:18:44.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Dec2024 03:18:44.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:18:44.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elikernomamahuev'/83725, l='ServerLevel[world]', x=726.30, y=57.00, z=-608.99] died: Zombie Player was slain by elikernomamahuev
+[09Dec2024 03:18:44.958] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:18:44.958] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[09Dec2024 03:19:16.086] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.138] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.186] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.235] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.285] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.333] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.386] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.432] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.535] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.588] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.639] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.682] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.735] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.841] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.884] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.937] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:16.980] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:17.054] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:17.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:17.136] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:17.190] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:17.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09Dec2024 03:19:19.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> sisis
+[09Dec2024 03:19:40.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dime la contraseña de la puerta minimo
+[09Dec2024 03:19:43.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> no lo tengo
+[09Dec2024 03:19:47.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a
+[09Dec2024 03:20:02.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Book of Monsters]
+[09Dec2024 03:20:17.247] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:20:24.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:20:24.643] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:20:25.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:20:27.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[09Dec2024 03:21:05.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y los demas aldeanos rexsel?
+[09Dec2024 03:21:06.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[09Dec2024 03:21:15.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no pue
+[09Dec2024 03:21:17.541] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:19.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:20.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:28.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> diles que hagan el polnito y asi tienes varios
+[09Dec2024 03:21:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> con verduras
+[09Dec2024 03:21:50.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:50.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:50.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:50.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:50.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:50.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:50.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:50.425] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:51.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> vavava
+[09Dec2024 03:21:52.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:52.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:52.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:52.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:52.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:52.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:53.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:54.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:54.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:54.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> easy
+[09Dec2024 03:21:55.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:55.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:55.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:55.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:55.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:55.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:55.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:55.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:56.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:56.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:56.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:56.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:57.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:57.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:57.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:58.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:58.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:58.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:58.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:58.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:58.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:59.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:59.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:21:59.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:59.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:59.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:59.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:59.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:21:59.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:01.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:01.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:01.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:01.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:01.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:01.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:01.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:01.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:01.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:02.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:02.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:02.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:02.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:02.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:02.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:04.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:04.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:04.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:04.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:04.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:04.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:04.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:05.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:05.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:05.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:05.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:05.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:05.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:05.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:06.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:06.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:06.692] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:06.692] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:09.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:09.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:09.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:09.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:09.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:09.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:09.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:09.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:09.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:11.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:11.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:11.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:11.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:11.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:11.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:11.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:11.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:13.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:13.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:13.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:13.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:13.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:13.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:13.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:13.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:14.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:14.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:15.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:15.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:15.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:15.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:15.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:17.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:17.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:17.540] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:17.540] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:17.540] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:18.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:18.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:18.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:18.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:18.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:18.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:20.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:20.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:20.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:20.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:20.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:21.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:21.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:21.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:21.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:21.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:21.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:22.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:22.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:22.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:22.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:22.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:22.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:23.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:23.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:24.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:24.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:24.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:24.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-585} BlockPos{x=733, y=81, z=-585}
+[09Dec2024 03:22:24.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:24.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:24.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:24.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:24.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:24.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:24.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:24.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:24.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:25.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=79, z=-585} BlockPos{x=731, y=79, z=-585}
+[09Dec2024 03:22:25.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=79, z=-585} BlockPos{x=731, y=79, z=-585}
+[09Dec2024 03:22:26.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=79, z=-585} BlockPos{x=731, y=79, z=-585}
+[09Dec2024 03:22:26.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=80, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=80, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=80, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=80, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:26.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:26.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:26.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:26.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:26.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:26.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:26.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=80, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:26.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-585} BlockPos{x=733, y=80, z=-585}
+[09Dec2024 03:22:27.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-585} BlockPos{x=736, y=79, z=-585}
+[09Dec2024 03:22:27.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-585} BlockPos{x=736, y=79, z=-585}
+[09Dec2024 03:22:27.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-585} BlockPos{x=736, y=79, z=-585}
+[09Dec2024 03:22:27.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-585} BlockPos{x=736, y=79, z=-585}
+[09Dec2024 03:22:27.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-585} BlockPos{x=736, y=79, z=-585}
+[09Dec2024 03:22:27.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-585} BlockPos{x=736, y=79, z=-585}
+[09Dec2024 03:22:27.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:27.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:27.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:27.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:27.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=79, z=-585} BlockPos{x=735, y=79, z=-585}
+[09Dec2024 03:22:27.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=79, z=-585} BlockPos{x=735, y=79, z=-585}
+[09Dec2024 03:22:28.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=79, z=-585} BlockPos{x=735, y=79, z=-585}
+[09Dec2024 03:22:28.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=79, z=-585} BlockPos{x=735, y=79, z=-585}
+[09Dec2024 03:22:28.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=79, z=-585} BlockPos{x=735, y=79, z=-585}
+[09Dec2024 03:22:28.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:28.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:28.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:28.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:29.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:29.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:29.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:29.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:29.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:31.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:31.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:31.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:32.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:32.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:32.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:32.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:32.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:32.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:33.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:33.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:33.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:33.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:35.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:35.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:35.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:36.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:36.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:36.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:36.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:37.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:37.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:37.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:37.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:37.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:39.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:39.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:39.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:39.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:41.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:41.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:41.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:42.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:22:42.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 03:22:43.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:43.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:43.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:44.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-607} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:44.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-607} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:44.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-607} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:44.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-607} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:44.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-606} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:44.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:44.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[09Dec2024 03:22:44.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:22:44.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-606} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-606} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-606} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-606} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-605} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-605} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-605} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-605} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-605} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-604} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-604} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-604} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-604} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-603} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:22:45.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=79, z=-603} BlockPos{x=738, y=79, z=-608}
+[09Dec2024 03:23:09.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=82, z=-595} BlockPos{x=738, y=81, z=-595}
+[09Dec2024 03:23:09.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=738, y=82, z=-595} BlockPos{x=738, y=81, z=-595}
+[09Dec2024 03:23:26.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Zombie
+[09Dec2024 03:23:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 surcumb to the infection
+[09Dec2024 03:23:29.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-608} BlockPos{x=713, y=80, z=-608}
+[09Dec2024 03:23:29.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-608} BlockPos{x=713, y=80, z=-608}
+[09Dec2024 03:23:32.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:32.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=715, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:33.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=716, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=79, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=80, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=81, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:34.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=717, y=82, z=-608} BlockPos{x=714, y=79, z=-608}
+[09Dec2024 03:23:35.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=79, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:35.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=79, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:35.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=79, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:35.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=79, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:35.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=79, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:35.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=79, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:35.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=79, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:35.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=80, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:35.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=80, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=80, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=80, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=81, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=81, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=81, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=81, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=82, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=82, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=82, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=82, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=82, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=82, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=718, y=82, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=719, y=81, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:36.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=719, y=81, z=-608} BlockPos{x=717, y=79, z=-608}
+[09Dec2024 03:23:39.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=723, y=79, z=-608} BlockPos{x=723, y=78, z=-608}
+[09Dec2024 03:23:39.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=723, y=79, z=-608} BlockPos{x=723, y=78, z=-608}
+[09Dec2024 03:23:39.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=79, z=-608} BlockPos{x=723, y=78, z=-608}
+[09Dec2024 03:23:39.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=79, z=-608} BlockPos{x=723, y=78, z=-608}
+[09Dec2024 03:23:39.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=79, z=-608} BlockPos{x=723, y=78, z=-608}
+[09Dec2024 03:23:39.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=79, z=-608} BlockPos{x=723, y=78, z=-608}
+[09Dec2024 03:23:39.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=79, z=-608} BlockPos{x=723, y=78, z=-608}
+[09Dec2024 03:23:39.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=79, z=-608} BlockPos{x=723, y=78, z=-608}
+[09Dec2024 03:23:40.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=727, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:40.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=728, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=729, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=79, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:41.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:42.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:42.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:42.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=80, z=-608} BlockPos{x=725, y=79, z=-608}
+[09Dec2024 03:23:44.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:44.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:44.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:44.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:44.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:44.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:44.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:44.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:44.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:45.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-608} BlockPos{x=737, y=80, z=-608}
+[09Dec2024 03:23:50.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:23:51.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:23:56.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=82, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=82, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=82, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:56.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=82, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=82, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=734, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=81, z=-608} BlockPos{x=736, y=82, z=-608}
+[09Dec2024 03:23:57.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-608} BlockPos{x=733, y=81, z=-608}
+[09Dec2024 03:23:57.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-608} BlockPos{x=733, y=81, z=-608}
+[09Dec2024 03:23:57.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=733, y=80, z=-608} BlockPos{x=733, y=81, z=-608}
+[09Dec2024 03:23:58.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=82, z=-608} BlockPos{x=732, y=80, z=-608}
+[09Dec2024 03:23:58.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=82, z=-608} BlockPos{x=732, y=80, z=-608}
+[09Dec2024 03:23:58.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=82, z=-608} BlockPos{x=732, y=80, z=-608}
+[09Dec2024 03:23:58.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=82, z=-608} BlockPos{x=732, y=80, z=-608}
+[09Dec2024 03:23:58.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=732, y=81, z=-608} BlockPos{x=732, y=80, z=-608}
+[09Dec2024 03:23:58.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=79, z=-608} BlockPos{x=731, y=80, z=-608}
+[09Dec2024 03:23:58.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=79, z=-608} BlockPos{x=731, y=80, z=-608}
+[09Dec2024 03:23:59.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=79, z=-608} BlockPos{x=731, y=80, z=-608}
+[09Dec2024 03:23:59.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=79, z=-608} BlockPos{x=731, y=80, z=-608}
+[09Dec2024 03:23:59.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=81, z=-608} BlockPos{x=731, y=80, z=-608}
+[09Dec2024 03:23:59.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=81, z=-608} BlockPos{x=731, y=80, z=-608}
+[09Dec2024 03:23:59.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=81, z=-608} BlockPos{x=731, y=80, z=-608}
+[09Dec2024 03:23:59.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=731, y=81, z=-608} BlockPos{x=731, y=80, z=-608}
+[09Dec2024 03:24:03.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:04.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:04.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:04.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-608} BlockPos{x=726, y=79, z=-608}
+[09Dec2024 03:24:04.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-608} BlockPos{x=726, y=79, z=-608}
+[09Dec2024 03:24:04.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:04.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-608} BlockPos{x=726, y=79, z=-608}
+[09Dec2024 03:24:04.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-608} BlockPos{x=726, y=79, z=-608}
+[09Dec2024 03:24:04.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=81, z=-608} BlockPos{x=726, y=79, z=-608}
+[09Dec2024 03:24:04.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=81, z=-608} BlockPos{x=726, y=79, z=-608}
+[09Dec2024 03:24:04.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=81, z=-608} BlockPos{x=726, y=79, z=-608}
+[09Dec2024 03:24:04.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=81, z=-608} BlockPos{x=726, y=79, z=-608}
+[09Dec2024 03:24:05.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:05.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:05.740] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:06.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=82, z=-608} BlockPos{x=727, y=83, z=-608}
+[09Dec2024 03:24:06.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=82, z=-608} BlockPos{x=727, y=83, z=-608}
+[09Dec2024 03:24:06.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=82, z=-608} BlockPos{x=727, y=83, z=-608}
+[09Dec2024 03:24:06.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:06.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=82, z=-608} BlockPos{x=726, y=81, z=-608}
+[09Dec2024 03:24:06.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=82, z=-608} BlockPos{x=726, y=81, z=-608}
+[09Dec2024 03:24:07.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:07.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:07.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:08.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=80, z=-608} BlockPos{x=723, y=80, z=-608}
+[09Dec2024 03:24:08.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=80, z=-608} BlockPos{x=723, y=80, z=-608}
+[09Dec2024 03:24:08.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=80, z=-608} BlockPos{x=723, y=80, z=-608}
+[09Dec2024 03:24:08.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=80, z=-608} BlockPos{x=723, y=80, z=-608}
+[09Dec2024 03:24:08.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=80, z=-608} BlockPos{x=723, y=80, z=-608}
+[09Dec2024 03:24:08.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=80, z=-608} BlockPos{x=723, y=80, z=-608}
+[09Dec2024 03:24:08.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=80, z=-608} BlockPos{x=723, y=80, z=-608}
+[09Dec2024 03:24:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:24:10.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:24:10.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:10.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=720, y=81, z=-608} BlockPos{x=720, y=80, z=-608}
+[09Dec2024 03:24:10.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=720, y=81, z=-608} BlockPos{x=720, y=80, z=-608}
+[09Dec2024 03:24:10.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=81, z=-608} BlockPos{x=720, y=80, z=-608}
+[09Dec2024 03:24:10.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=81, z=-608} BlockPos{x=720, y=80, z=-608}
+[09Dec2024 03:24:10.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=720, y=82, z=-608} BlockPos{x=720, y=80, z=-608}
+[09Dec2024 03:24:10.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=720, y=82, z=-608} BlockPos{x=720, y=80, z=-608}
+[09Dec2024 03:24:10.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=81, z=-608} BlockPos{x=720, y=80, z=-608}
+[09Dec2024 03:24:11.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=81, z=-608} BlockPos{x=722, y=80, z=-608}
+[09Dec2024 03:24:11.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=81, z=-608} BlockPos{x=722, y=80, z=-608}
+[09Dec2024 03:24:11.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=723, y=81, z=-608} BlockPos{x=722, y=80, z=-608}
+[09Dec2024 03:24:11.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=723, y=81, z=-608} BlockPos{x=722, y=80, z=-608}
+[09Dec2024 03:24:11.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=723, y=81, z=-608} BlockPos{x=722, y=80, z=-608}
+[09Dec2024 03:24:11.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=723, y=81, z=-608} BlockPos{x=722, y=80, z=-608}
+[09Dec2024 03:24:11.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=81, z=-608} BlockPos{x=722, y=80, z=-608}
+[09Dec2024 03:24:11.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=724, y=81, z=-608} BlockPos{x=722, y=80, z=-608}
+[09Dec2024 03:24:11.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=81, z=-608} BlockPos{x=725, y=80, z=-608}
+[09Dec2024 03:24:11.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=81, z=-608} BlockPos{x=725, y=80, z=-608}
+[09Dec2024 03:24:11.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=81, z=-608} BlockPos{x=725, y=80, z=-608}
+[09Dec2024 03:24:11.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=82, z=-608} BlockPos{x=725, y=80, z=-608}
+[09Dec2024 03:24:11.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=82, z=-608} BlockPos{x=725, y=80, z=-608}
+[09Dec2024 03:24:11.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=82, z=-608} BlockPos{x=725, y=80, z=-608}
+[09Dec2024 03:24:12.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=82, z=-608} BlockPos{x=723, y=82, z=-608}
+[09Dec2024 03:24:13.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=82, z=-608} BlockPos{x=723, y=82, z=-608}
+[09Dec2024 03:24:13.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=722, y=82, z=-608} BlockPos{x=723, y=82, z=-608}
+[09Dec2024 03:24:13.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=82, z=-608} BlockPos{x=721, y=81, z=-608}
+[09Dec2024 03:24:13.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=82, z=-608} BlockPos{x=721, y=81, z=-608}
+[09Dec2024 03:24:13.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=82, z=-608} BlockPos{x=721, y=81, z=-608}
+[09Dec2024 03:24:13.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=82, z=-608} BlockPos{x=721, y=81, z=-608}
+[09Dec2024 03:24:13.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=721, y=82, z=-608} BlockPos{x=721, y=81, z=-608}
+[09Dec2024 03:24:15.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:15.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:15.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:16.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:16.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:24:18.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:24:24.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya
+[09Dec2024 03:24:27.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:27.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:24:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:24:29.538] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:33.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:34.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:39.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:41.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:24:53.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was doomed to fall by Zombie
+[09Dec2024 03:24:53.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev surcumb to the infection
+[09Dec2024 03:25:00.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no pue
+[09Dec2024 03:25:14.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/86654, l='ServerLevel[world]', x=725.30, y=57.00, z=-570.33] died: Zombie Player fell from a high place
+[09Dec2024 03:25:17.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> lag
+[09Dec2024 03:25:20.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> lag
+[09Dec2024 03:25:21.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> lag
+[09Dec2024 03:25:22.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[09Dec2024 03:25:22.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[09Dec2024 03:25:30.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:25:30.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:25:30.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:25:31.948] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[09Dec2024 03:25:31.982] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[09Dec2024 03:25:32.035] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[09Dec2024 03:25:32.082] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[09Dec2024 03:25:32.132] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[09Dec2024 03:25:32.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[09Dec2024 03:25:32.234] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[09Dec2024 03:25:32.283] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[09Dec2024 03:25:32.283] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, mixinextras, atlaslib, spartanweaponry, geckolib, lrarmor, jeg, hordes, jei, framework, dragnvehicles, forge, betterzombieai, citadel, iceandfire, securitycraft]
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'betterzombieai:betterzombieai' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeg:play' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lrarmor:network' : Version test of '0.1.0' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:infection' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:hordeevent' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09Dec2024 03:25:32.284] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09Dec2024 03:25:32.285] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[09Dec2024 03:25:32.335] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09Dec2024 03:25:32.335] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:32.335] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:32.336] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[09Dec2024 03:25:32.377] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09Dec2024 03:25:32.378] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:32.378] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:32.385] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[09Dec2024 03:25:32.435] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[09Dec2024 03:25:32.485] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[09Dec2024 03:25:32.534] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[09Dec2024 03:25:32.584] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[09Dec2024 03:25:32.638] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[09Dec2024 03:25:32.681] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 14
+[09Dec2024 03:25:32.692] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09Dec2024 03:25:32.692] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:32.692] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:32.732] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[09Dec2024 03:25:32.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09Dec2024 03:25:32.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:32.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:32.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09Dec2024 03:25:32.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:32.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:32.781] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 16
+[09Dec2024 03:25:32.834] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[09Dec2024 03:25:32.888] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[09Dec2024 03:25:32.931] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[09Dec2024 03:25:32.996] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09Dec2024 03:25:32.996] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:32.997] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.005] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[09Dec2024 03:25:33.034] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[09Dec2024 03:25:33.082] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 22
+[09Dec2024 03:25:33.135] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 23
+[09Dec2024 03:25:33.141] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09Dec2024 03:25:33.141] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.141] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.141] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09Dec2024 03:25:33.141] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.141] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.142] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.185] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jeg-server.toml' to 'fml:handshake' sequence 24
+[09Dec2024 03:25:33.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 25
+[09Dec2024 03:25:33.294] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 26
+[09Dec2024 03:25:33.351] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 27
+[09Dec2024 03:25:33.385] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 28
+[09Dec2024 03:25:33.408] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09Dec2024 03:25:33.408] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.408] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.448] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09Dec2024 03:25:33.448] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:33.449] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:34.911] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[09Dec2024 03:25:34.911] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:34.911] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:34.914] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[09Dec2024 03:25:34.915] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:34.915] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:34.916] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[09Dec2024 03:25:34.916] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:34.916] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:34.916] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[09Dec2024 03:25:34.916] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:34.916] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:34.919] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[09Dec2024 03:25:34.919] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Dec2024 03:25:34.919] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:35.094] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 27
+[09Dec2024 03:25:35.094] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[09Dec2024 03:25:35.094] [Netty Epoll Server IO #2/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:35.106] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 28
+[09Dec2024 03:25:35.106] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[09Dec2024 03:25:35.106] [Netty Epoll Server IO #2/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[09Dec2024 03:25:35.135] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09Dec2024 03:25:35.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/[::1]:59854] logged in with entity id 87226 at (726.4862170460112, 78.0, -594.7262182222182)
+[09Dec2024 03:25:35.201] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6910561a into net.minecraft.network.Connection@1fd45309
+[09Dec2024 03:25:35.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[09Dec2024 03:25:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ira
+[09Dec2024 03:25:59.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:26:05.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/86522, l='ServerLevel[world]', x=730.29, y=80.00, z=-565.72] died: Zombie Player went up in flames
+[09Dec2024 03:26:08.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/86746, l='ServerLevel[world]', x=730.50, y=80.00, z=-566.15] died: Zombie Player went up in flames
+[09Dec2024 03:26:10.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=719, y=82, z=-585} BlockPos{x=719, y=81, z=-585}
+[09Dec2024 03:26:10.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=719, y=82, z=-585} BlockPos{x=719, y=81, z=-585}
+[09Dec2024 03:26:10.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=719, y=82, z=-585} BlockPos{x=719, y=81, z=-585}
+[09Dec2024 03:26:10.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=719, y=82, z=-585} BlockPos{x=719, y=81, z=-585}
+[09Dec2024 03:26:10.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=720, y=82, z=-585} BlockPos{x=719, y=81, z=-585}
+[09Dec2024 03:26:10.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=720, y=82, z=-585} BlockPos{x=719, y=81, z=-585}
+[09Dec2024 03:26:24.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> uhhh rexsel
+[09Dec2024 03:26:25.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ven
+[09Dec2024 03:26:49.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si
+[09Dec2024 03:27:05.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:08.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-596} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:08.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-596} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:08.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-596} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:08.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-597} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:08.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-597} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:08.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-597} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:08.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-597} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:09.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-597} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:09.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=79, z=-597} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:09.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=78, z=-596} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:09.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=78, z=-596} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:09.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=78, z=-596} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:09.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=78, z=-596} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:09.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=78, z=-596} BlockPos{x=737, y=80, z=-596}
+[09Dec2024 03:27:09.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=78, z=-597} BlockPos{x=737, y=78, z=-596}
+[09Dec2024 03:27:09.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=78, z=-597} BlockPos{x=737, y=78, z=-596}
+[09Dec2024 03:27:09.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=78, z=-597} BlockPos{x=737, y=78, z=-596}
+[09Dec2024 03:27:11.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=80, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:11.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=80, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:11.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:11.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=80, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:11.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=80, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:11.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=80, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=80, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=81, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=82, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=82, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=82, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=82, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:12.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=737, y=82, z=-602} BlockPos{x=737, y=79, z=-602}
+[09Dec2024 03:27:14.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:16.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:16.549] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:27:17.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:17.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:17.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:17.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:18.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=80, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=81, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=81, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=81, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=81, z=-607} BlockPos{x=725, y=79, z=-607}
+[09Dec2024 03:27:18.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=82, z=-607} BlockPos{x=726, y=81, z=-607}
+[09Dec2024 03:27:18.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=82, z=-607} BlockPos{x=726, y=81, z=-607}
+[09Dec2024 03:27:19.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=725, y=82, z=-607} BlockPos{x=726, y=81, z=-607}
+[09Dec2024 03:27:19.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=82, z=-607} BlockPos{x=726, y=81, z=-607}
+[09Dec2024 03:27:22.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:23.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[09Dec2024 03:27:23.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:31.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-593} BlockPos{x=713, y=82, z=-594}
+[09Dec2024 03:27:31.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-593} BlockPos{x=713, y=82, z=-594}
+[09Dec2024 03:27:31.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-593} BlockPos{x=713, y=82, z=-594}
+[09Dec2024 03:27:31.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-593} BlockPos{x=713, y=82, z=-594}
+[09Dec2024 03:27:31.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-593} BlockPos{x=713, y=82, z=-594}
+[09Dec2024 03:27:33.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-587} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:33.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-587} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:33.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-587} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:33.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-587} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:33.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-587} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:33.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-586} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:33.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-586} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:33.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-586} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:33.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-586} BlockPos{x=713, y=82, z=-588}
+[09Dec2024 03:27:41.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:27:41.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 03:27:57.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:58.238] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:58.328] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:58.442] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:27:58.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:27:59.002] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Dec2024 03:28:04.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-606} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-606} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-606} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-606} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-605} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-605} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-605} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[09Dec2024 03:28:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:28:04.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-605} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-604} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-604} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-604} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-604} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:04.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-604} BlockPos{x=713, y=80, z=-607}
+[09Dec2024 03:28:06.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-605} BlockPos{x=713, y=82, z=-606}
+[09Dec2024 03:28:06.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-605} BlockPos{x=713, y=82, z=-606}
+[09Dec2024 03:28:06.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-605} BlockPos{x=713, y=82, z=-606}
+[09Dec2024 03:28:06.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-605} BlockPos{x=713, y=82, z=-606}
+[09Dec2024 03:28:06.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-604} BlockPos{x=713, y=81, z=-604}
+[09Dec2024 03:28:06.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-604} BlockPos{x=713, y=81, z=-604}
+[09Dec2024 03:28:07.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-605} BlockPos{x=713, y=80, z=-604}
+[09Dec2024 03:28:07.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-605} BlockPos{x=713, y=80, z=-604}
+[09Dec2024 03:28:07.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-605} BlockPos{x=713, y=80, z=-604}
+[09Dec2024 03:28:07.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-605} BlockPos{x=713, y=80, z=-604}
+[09Dec2024 03:28:07.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-605} BlockPos{x=713, y=80, z=-604}
+[09Dec2024 03:28:09.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[09Dec2024 03:28:14.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-594} BlockPos{x=713, y=79, z=-595}
+[09Dec2024 03:28:14.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-594} BlockPos{x=713, y=79, z=-595}
+[09Dec2024 03:28:14.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-594} BlockPos{x=713, y=79, z=-595}
+[09Dec2024 03:28:14.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-594} BlockPos{x=713, y=79, z=-595}
+[09Dec2024 03:28:14.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-594} BlockPos{x=713, y=79, z=-595}
+[09Dec2024 03:28:14.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:28:14.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-593} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:14.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-593} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:14.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-593} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:14.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-593} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-593} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-592} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-592} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-592} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-592} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-591} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-591} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-591} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-591} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-591} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-590} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-590} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-590} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-590} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:15.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-590} BlockPos{x=713, y=80, z=-594}
+[09Dec2024 03:28:16.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-593} BlockPos{x=713, y=80, z=-593}
+[09Dec2024 03:28:16.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-593} BlockPos{x=713, y=80, z=-593}
+[09Dec2024 03:28:16.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-593} BlockPos{x=713, y=80, z=-593}
+[09Dec2024 03:28:16.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-593} BlockPos{x=713, y=80, z=-593}
+[09Dec2024 03:28:16.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-593} BlockPos{x=713, y=80, z=-593}
+[09Dec2024 03:28:16.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-593} BlockPos{x=713, y=80, z=-593}
+[09Dec2024 03:28:19.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie Player
+[09Dec2024 03:28:19.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:28:20.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-588} BlockPos{x=713, y=81, z=-587}
+[09Dec2024 03:28:20.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-588} BlockPos{x=713, y=81, z=-587}
+[09Dec2024 03:28:20.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-588} BlockPos{x=713, y=81, z=-587}
+[09Dec2024 03:28:20.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-588} BlockPos{x=713, y=81, z=-587}
+[09Dec2024 03:28:20.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-588} BlockPos{x=713, y=81, z=-587}
+[09Dec2024 03:28:21.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-586} BlockPos{x=713, y=80, z=-587}
+[09Dec2024 03:28:21.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-586} BlockPos{x=713, y=80, z=-587}
+[09Dec2024 03:28:21.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-586} BlockPos{x=713, y=80, z=-587}
+[09Dec2024 03:28:21.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-586} BlockPos{x=713, y=80, z=-587}
+[09Dec2024 03:28:21.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-588} BlockPos{x=713, y=80, z=-588}
+[09Dec2024 03:28:21.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-588} BlockPos{x=713, y=80, z=-588}
+[09Dec2024 03:28:21.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-588} BlockPos{x=713, y=80, z=-588}
+[09Dec2024 03:28:21.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-588} BlockPos{x=713, y=80, z=-588}
+[09Dec2024 03:28:23.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-586} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-586} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-587} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-587} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-587} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-588} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-588} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-588} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-588} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:23.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-588} BlockPos{x=713, y=80, z=-586}
+[09Dec2024 03:28:24.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:28:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:28:29.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:28:29.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:28:29.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-599} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:29.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-599} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:29.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-599} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:29.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-599} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-599} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-599} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-599} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-599} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-600} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-600} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-600} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-600} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-600} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-600} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:30.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-600} BlockPos{x=713, y=81, z=-598}
+[09Dec2024 03:28:31.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=81, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=82, z=-602} BlockPos{x=713, y=81, z=-601}
+[09Dec2024 03:28:31.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-602} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:28:32.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-602} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:28:32.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-602} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:28:32.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-602} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:28:32.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-602} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:28:32.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-602} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:28:32.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=79, z=-602} BlockPos{x=713, y=81, z=-602}
+[09Dec2024 03:28:32.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-601} BlockPos{x=713, y=80, z=-602}
+[09Dec2024 03:28:32.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-601} BlockPos{x=713, y=80, z=-602}
+[09Dec2024 03:28:32.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=80, z=-601} BlockPos{x=713, y=80, z=-602}
+[09Dec2024 03:28:32.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-601} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:33.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-601} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:33.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-601} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:33.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-601} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:33.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-602} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:33.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-602} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:33.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-602} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:33.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-602} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:33.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=713, y=78, z=-602} BlockPos{x=713, y=79, z=-601}
+[09Dec2024 03:28:34.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:28:34.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:28:35.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/87860, l='ServerLevel[world]', x=725.30, y=57.00, z=-569.86] died: Zombie Player fell from a high place
+[09Dec2024 03:28:36.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/88215, l='ServerLevel[world]', x=725.93, y=57.00, z=-569.30] died: Zombie Player fell from a high place
+[09Dec2024 03:28:39.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:28:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:28:40.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya vengo
+[09Dec2024 03:28:54.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 03:28:54.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 03:28:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> nooo
+[09Dec2024 03:29:01.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tiliaso_01> la put
