@@ -518,3 +518,23 @@
 [09Dec2024 02:33:18.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['rexsel'/54140, l='ServerLevel[world]', x=725.50, y=78.00, z=-580.64] died: Zombie Player was slain by Eduardo171
 [09Dec2024 02:33:28.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['tiliaso_01'/54056, l='ServerLevel[world]', x=719.15, y=78.00, z=-594.61] died: Zombie Player was slain by Eduardo171
 [09Dec2024 02:33:52.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by tiliaso_01
+[09Dec2024 02:37:06.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
+[09Dec2024 02:37:13.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[09Dec2024 02:37:29.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 fell from a high place
+[09Dec2024 02:41:12.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Ice Bucket Challenge]
+[09Dec2024 02:41:21.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Ice Bucket Challenge]
+[09Dec2024 02:42:38.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Diamonds!]
+[09Dec2024 02:42:40.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [...And My Axe!]
+[09Dec2024 02:43:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was slain by Zombie
+[09Dec2024 02:43:03.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
+[09Dec2024 02:43:09.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[09Dec2024 02:44:10.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[09Dec2024 02:44:45.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was slain by Spider
+[09Dec2024 02:44:45.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel surcumb to the infection
+[09Dec2024 02:44:51.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[09Dec2024 02:45:08.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by tiliaso_01
+[09Dec2024 02:45:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to tiliaso_01]
+[09Dec2024 02:46:24.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 has made the advancement [Who is Cutting Onions?]
+[09Dec2024 02:46:31.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Zombie Player
+[09Dec2024 02:46:50.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso_01 was doomed to fall
+[09Dec2024 02:46:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tiliaso01 surcumb to the infection
