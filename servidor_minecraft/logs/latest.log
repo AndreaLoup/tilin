@@ -1,34 +1,34 @@
-[10Dec2024 00:04:28.220] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[10Dec2024 00:04:28.227] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[10Dec2024 00:04:29.848] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[10Dec2024 00:04:30.099] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/tilin/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[10Dec2024 00:04:32.325] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[10Dec2024 00:04:32.552] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[10Dec2024 00:04:32.572] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[10Dec2024 00:04:36.306] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[10Dec2024 00:04:56.478] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[10Dec2024 00:04:56.487] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[10Dec2024 00:04:56.493] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[10Dec2024 00:04:56.494] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[10Dec2024 00:04:57.646] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[10Dec2024 00:04:57.675] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[10Dec2024 00:05:03.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
-[10Dec2024 00:05:04.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Found status: BETA Current: 0.6.3 Target: 0.6.3
-[10Dec2024 00:05:04.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Dec2024 00:05:04.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[10Dec2024 00:05:12.039] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10Dec2024 00:05:14.416] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10Dec2024 00:05:14.438] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10Dec2024 00:05:14.440] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10Dec2024 00:05:14.442] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10Dec2024 00:05:14.447] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10Dec2024 00:05:14.454] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Zombie Extreme 1.16.5 0.2.4 UNSTABLE VERSION (1).jar, mowziesmobs-1.5.27.jar, obfuscate-0.6.3-1.16.5 (3).jar, tac-release-0.3.14.2-1.16.5 (3).jar, marbledsarsenal-1.16.5-2.1.1.jar, geckolib-forge-1.16.5-3.0.104.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar
-[10Dec2024 00:05:20.574] [Worker-Main-2/INFO] [tac/]: YO_DATA_GUN
-[10Dec2024 00:05:20.846] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/legendary as it is missing following references: tac:legendary_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[10Dec2024 00:05:20.846] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:old_rifle as it is missing following references: tac:kar98 (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[10Dec2024 00:05:20.847] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:module_item as it is missing following references: tac:module_item (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[10Dec2024 00:05:20.847] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/ultimate as it is missing following references: tac:ultimate_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[10Dec2024 00:05:20.972] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor_plate
+[10Dec2024 03:04:49.586] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[10Dec2024 03:04:49.592] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[10Dec2024 03:04:50.865] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[10Dec2024 03:04:51.062] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/tilin/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[10Dec2024 03:04:53.757] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[10Dec2024 03:04:54.209] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[10Dec2024 03:04:54.249] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[10Dec2024 03:04:58.172] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[10Dec2024 03:05:18.770] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[10Dec2024 03:05:18.782] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[10Dec2024 03:05:18.784] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[10Dec2024 03:05:18.787] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[10Dec2024 03:05:20.238] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[10Dec2024 03:05:20.251] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[10Dec2024 03:05:26.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[10Dec2024 03:05:27.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Found status: BETA Current: 0.6.3 Target: 0.6.3
+[10Dec2024 03:05:27.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Dec2024 03:05:27.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[10Dec2024 03:05:34.342] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Dec2024 03:05:36.807] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10Dec2024 03:05:36.809] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10Dec2024 03:05:36.811] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10Dec2024 03:05:36.813] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10Dec2024 03:05:36.814] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10Dec2024 03:05:36.830] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Zombie Extreme 1.16.5 0.2.4 UNSTABLE VERSION (1).jar, mowziesmobs-1.5.27.jar, obfuscate-0.6.3-1.16.5 (3).jar, tac-release-0.3.14.2-1.16.5 (3).jar, marbledsarsenal-1.16.5-2.1.1.jar, geckolib-forge-1.16.5-3.0.104.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar
+[10Dec2024 03:05:41.762] [Worker-Main-2/INFO] [tac/]: YO_DATA_GUN
+[10Dec2024 03:05:42.071] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/legendary as it is missing following references: tac:legendary_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[10Dec2024 03:05:42.072] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:old_rifle as it is missing following references: tac:kar98 (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[10Dec2024 03:05:42.073] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:module_item as it is missing following references: tac:module_item (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[10Dec2024 03:05:42.075] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/ultimate as it is missing following references: tac:ultimate_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[10Dec2024 03:05:42.269] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor_plate
 com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -74,7 +74,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.013] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:medium_steel_armor
+[10Dec2024 03:05:42.284] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:medium_steel_armor
 com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -120,7 +120,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.089] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:rare_material
+[10Dec2024 03:05:42.326] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:rare_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -162,7 +162,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.164] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:legendary_material
+[10Dec2024 03:05:42.364] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:legendary_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -204,7 +204,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.212] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor
+[10Dec2024 03:05:42.383] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor
 com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -250,7 +250,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.218] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:ultimate_material
+[10Dec2024 03:05:42.390] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:ultimate_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -292,7 +292,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.228] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:module_item
+[10Dec2024 03:05:42.466] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:module_item
 com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -338,7 +338,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.235] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:steel_sheet_pressing
+[10Dec2024 03:05:42.497] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:steel_sheet_pressing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
 	at net.minecraft.item.crafting.RecipeManager.func_241449_a_(RecipeManager.java:140) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -381,7 +381,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.240] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:epic_material
+[10Dec2024 03:05:42.507] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:epic_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -423,7 +423,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.255] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:hardened_steel_sheet_pressing
+[10Dec2024 03:05:42.517] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:hardened_steel_sheet_pressing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
 	at net.minecraft.item.crafting.RecipeManager.func_241449_a_(RecipeManager.java:140) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -466,7 +466,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.289] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:uncommon_material
+[10Dec2024 03:05:42.557] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:uncommon_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -508,96 +508,57 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[10Dec2024 00:05:21.370] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
-[10Dec2024 00:05:24.062] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 983 advancements
-[10Dec2024 00:05:30.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[10Dec2024 00:05:30.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Dec2024 00:05:30.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Dec2024 00:05:30.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Dec2024 00:05:30.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Dec2024 00:05:30.749] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[10Dec2024 00:05:31.058] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Dec2024 00:05:31.058] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Dec2024 00:05:31.059] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Dec2024 00:05:31.060] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Dec2024 00:05:31.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Dec2024 00:05:32.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Dec2024 00:05:36.433] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.435] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.438] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.439] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.444] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.445] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.446] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.447] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.447] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:36.795] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:37.292] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[10Dec2024 00:05:41.257] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[10Dec2024 00:05:41.261] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[10Dec2024 00:05:41.319] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[10Dec2024 00:05:41.320] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[10Dec2024 00:05:41.321] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[10Dec2024 00:05:41.322] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[10Dec2024 00:05:41.324] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[10Dec2024 00:05:41.327] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[10Dec2024 00:05:41.751] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
-[10Dec2024 00:05:42.256] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
-[10Dec2024 00:05:42.530] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 10310 ms
-[10Dec2024 00:05:42.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.436s)! For help, type "help"
-[10Dec2024 00:05:42.918] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[10Dec2024 00:05:42.923] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[10Dec2024 00:06:17.221] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4a116bed
-[10Dec2024 00:06:17.277] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rexsel[/127.55.205.9:42735] logged in with entity id 71 at (759.1048707201193, 70.0, -779.6081280491333)
-[10Dec2024 00:06:17.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
-[10Dec2024 00:06:17.363] [Server thread/INFO] [tac/]: PENDING
-[10Dec2024 00:06:32.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[10Dec2024 00:08:52.186] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [mowziesmobs:net,citadel:main_channel,iceandfire:main_channel,zombie_extreme:zombie_extreme,tac:play,geckolib3:main] rejected vanilla connections
-[10Dec2024 00:08:52.187] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[10Dec2024 00:10:47.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
-[10Dec2024 00:11:24.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Would you Like to Know More?]
-[10Dec2024 00:12:13.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Book of Monsters]
-[10Dec2024 00:19:16.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made rexsel a server operator
-[10Dec2024 00:19:22.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[10Dec2024 00:28:36.786] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:28:37.940] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/83, l='ServerLevel[world]', x=759.30, y=68.00, z=-761.70] died, message: 'Scribe was eliminated by rexsel'
-[10Dec2024 00:28:38.738] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/73, l='ServerLevel[world]', x=759.70, y=68.00, z=-761.30] died, message: 'Villager was executed by rexsel'
-[10Dec2024 00:29:13.984] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3654, l='ServerLevel[world]', x=759.70, y=71.00, z=-762.50] died, message: 'Villager was decimated by rexsel'
-[10Dec2024 00:33:55.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Hot Stuff]
-[10Dec2024 00:45:43.432] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:46:09.032] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:46:24.481] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:46:28.390] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:46:32.482] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:46:37.122] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:48:15.050] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:48:38.831] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:48:45.189] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:48:48.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Monster Hunter]
-[10Dec2024 00:48:54.682] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:49:00.932] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:49:03.081] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:51:49.832] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:51:57.532] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:51:59.882] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:52:01.989] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:52:04.440] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:52:06.734] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:52:08.182] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:52:09.934] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:52:11.282] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[10Dec2024 00:52:15.232] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Disconnected
-[10Dec2024 00:52:15.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
-[10Dec2024 00:52:18.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[10Dec2024 00:52:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[10Dec2024 00:52:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[10Dec2024 00:52:18.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[10Dec2024 00:52:18.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10Dec2024 00:52:19.024] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10Dec2024 00:52:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10Dec2024 00:52:19.027] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10Dec2024 00:52:19.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10Dec2024 00:52:19.028] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10Dec2024 00:52:19.063] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10Dec2024 00:52:19.077] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10Dec2024 00:52:19.077] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 03:05:42.609] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
+[10Dec2024 03:05:45.348] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 983 advancements
+[10Dec2024 03:05:51.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[10Dec2024 03:05:51.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Dec2024 03:05:51.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Dec2024 03:05:51.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Dec2024 03:05:51.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Dec2024 03:05:52.117] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[10Dec2024 03:05:52.602] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Dec2024 03:05:52.602] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Dec2024 03:05:52.603] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Dec2024 03:05:52.603] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Dec2024 03:05:52.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Dec2024 03:05:54.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Dec2024 03:05:58.124] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.127] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.130] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.132] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.133] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.137] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.138] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.143] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.187] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:58.688] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[10Dec2024 03:05:59.188] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.352] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.362] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.961] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.964] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.969] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.972] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.976] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.978] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.978] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.979] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.979] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.980] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.980] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.990] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:06.990] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[10Dec2024 03:06:07.287] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[10Dec2024 03:06:07.689] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[10Dec2024 03:06:08.207] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[10Dec2024 03:06:08.808] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 14622 ms
+[10Dec2024 03:06:08.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.978s)! For help, type "help"
+[10Dec2024 03:06:08.930] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[10Dec2024 03:06:08.933] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[10Dec2024 03:07:39.101] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7e61b14a
+[10Dec2024 03:07:39.176] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rexsel[/127.55.205.9:39081] logged in with entity id 67 at (753.7365446575657, 82.0, -786.7558079517815)
+[10Dec2024 03:07:39.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
+[10Dec2024 03:07:39.263] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 03:09:44.062] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 03:09:44.217] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 03:10:34.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
