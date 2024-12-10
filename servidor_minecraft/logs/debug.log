@@ -2402,3 +2402,38 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 05:16:21.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Zombie
 [10Dec2024 05:16:22.837] [Server thread/INFO] [tac/]: PENDING
 [10Dec2024 05:17:48.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tiliaso_01> t
+[10Dec2024 05:21:21.005] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:21:21.011] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:21:48.984] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tiliaso_01 lost connection: Disconnected
+[10Dec2024 05:21:48.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 left the game
+[10Dec2024 05:21:57.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Dec2024 05:22:22.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[10Dec2024 05:26:21.063] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:26:21.075] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:27:51.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Military
+[10Dec2024 05:27:52.782] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 05:30:51.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Bomber
+[10Dec2024 05:30:52.738] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[10Dec2024 05:30:52.991] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 05:31:00.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]

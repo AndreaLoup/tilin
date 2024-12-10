@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 05:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-10 04:28:28 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-10 04:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 05:20:05 +0000"
     },
     "done": true
   },
@@ -104,6 +116,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-10 04:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-10 05:19:21 +0000"
     },
     "done": true
   },
@@ -196,6 +214,13 @@
       "has_planks": "2024-12-10 04:24:50 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-10 05:21:20 +0000",
+      "bread": "2024-12-10 05:19:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
