@@ -624,3 +624,9 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 04:03:05.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [A Seedy Place]
 [10Dec2024 04:03:39.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Stone Age]
 [10Dec2024 04:08:22.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Suit Up]
+[10Dec2024 04:11:28.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[10Dec2024 04:11:36.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[10Dec2024 04:12:26.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Acquire Hardware]
+[10Dec2024 04:17:23.114] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 04:17:33.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Monster Hunter]
+[10Dec2024 04:18:16.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Monster Hunter]
