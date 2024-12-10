@@ -559,3 +559,8 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 00:12:13.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Book of Monsters]
 [10Dec2024 00:19:16.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made rexsel a server operator
 [10Dec2024 00:19:22.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Dec2024 00:28:36.786] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 00:28:37.940] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/83, l='ServerLevel[world]', x=759.30, y=68.00, z=-761.70] died, message: 'Scribe was eliminated by rexsel'
+[10Dec2024 00:28:38.738] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/73, l='ServerLevel[world]', x=759.70, y=68.00, z=-761.30] died, message: 'Villager was executed by rexsel'
+[10Dec2024 00:29:13.984] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/3654, l='ServerLevel[world]', x=759.70, y=71.00, z=-762.50] died, message: 'Villager was decimated by rexsel'
+[10Dec2024 00:33:55.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Hot Stuff]
