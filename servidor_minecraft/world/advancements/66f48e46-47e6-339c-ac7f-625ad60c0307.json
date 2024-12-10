@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-10 04:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-09 21:56:39 +0000"
@@ -1234,6 +1240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-10 04:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-09 21:57:09 +0000"
@@ -1606,9 +1618,11 @@
       "minecraft:forest": "2024-12-09 22:10:49 +0000",
       "minecraft:mountains": "2024-12-09 22:24:09 +0000",
       "minecraft:taiga": "2024-12-09 22:38:53 +0000",
+      "minecraft:birch_forest": "2024-12-10 04:44:46 +0000",
       "minecraft:beach": "2024-12-09 21:46:50 +0000",
       "minecraft:dark_forest": "2024-12-09 22:20:38 +0000",
       "minecraft:river": "2024-12-09 22:07:30 +0000",
+      "minecraft:birch_forest_hills": "2024-12-10 04:44:52 +0000",
       "minecraft:wooded_mountains": "2024-12-09 22:24:31 +0000",
       "minecraft:wooded_hills": "2024-12-10 03:14:37 +0000",
       "minecraft:swamp": "2024-12-10 04:32:45 +0000",

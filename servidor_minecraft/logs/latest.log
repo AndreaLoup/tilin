@@ -661,3 +661,24 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 04:37:25.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Eduardo171
 [10Dec2024 04:37:27.653] [Server thread/INFO] [tac/]: PENDING
 [10Dec2024 04:39:50.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> emily ven
+[10Dec2024 04:39:56.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO has made the advancement [Isn't It Iron Pick]
+[10Dec2024 04:40:27.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
+[10Dec2024 04:40:28.367] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:42:54.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[10Dec2024 04:42:56.538] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:43:21.595] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=765, y=74, z=-678} BlockPos{x=764, y=72, z=-678}
+[10Dec2024 04:45:31.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[10Dec2024 04:45:31.129] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel moved too quickly! -1.2149180864236087,1.4524514780759716,-10.145622674801416
+[10Dec2024 04:46:17.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was doomed to fall by Boomer
+[10Dec2024 04:46:20.644] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:46:20.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[10Dec2024 04:47:33.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> maten al abimael plis
+[10Dec2024 04:48:22.299] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 04:48:22.312] [Netty Epoll Server IO #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@7945b04c[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:37453): Unexpected custom data from client
+[10Dec2024 04:48:22.321] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7945b04c[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:37453) lost connection: Unexpected custom data from client
+[10Dec2024 04:48:27.093] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 04:48:27.094] [Netty Epoll Server IO #0/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@490103d[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:54369): Unexpected custom data from client
+[10Dec2024 04:48:27.141] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@490103d[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:54369) lost connection: Unexpected custom data from client
+[10Dec2024 04:49:52.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Emily_OvO]
+[10Dec2024 04:49:57.915] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-606, y=65, z=-1186} but found not block entity block Block{minecraft:dirt} at location
+[10Dec2024 04:49:57.918] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-606, y=65, z=-1186}
