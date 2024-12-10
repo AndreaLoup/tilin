@@ -728,3 +728,33 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 05:06:34.400] [Server thread/INFO] [tac/]: PENDING
 [10Dec2024 05:06:37.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
 [10Dec2024 05:07:28.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[10Dec2024 05:12:04.664] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 05:12:04.664] [Netty Epoll Server IO #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@67e10dd7[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:51291): Unexpected custom data from client
+[10Dec2024 05:12:04.691] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@67e10dd7[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:51291) lost connection: Unexpected custom data from client
+[10Dec2024 05:12:25.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[10Dec2024 05:12:30.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was doomed to fall by Infected Police
+[10Dec2024 05:12:31.416] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 05:12:39.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[10Dec2024 05:12:53.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel blew up
+[10Dec2024 05:12:54.352] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 05:12:56.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[10Dec2024 05:13:55.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Military
+[10Dec2024 05:13:56.556] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 05:13:59.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[10Dec2024 05:14:47.585] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 05:14:47.586] [Netty Epoll Server IO #0/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@728cf574[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:42061): Unexpected custom data from client
+[10Dec2024 05:14:47.589] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@728cf574[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:42061) lost connection: Unexpected custom data from client
+[10Dec2024 05:14:54.275] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 05:14:54.276] [Netty Epoll Server IO #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@4552a8db[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:52473): Unexpected custom data from client
+[10Dec2024 05:14:54.312] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4552a8db[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:52473) lost connection: Unexpected custom data from client
+[10Dec2024 05:14:54.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was taken down by rexsel
+[10Dec2024 05:14:55.739] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 05:15:00.103] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 05:15:00.104] [Netty Epoll Server IO #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@aa340ee[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:43031): Unexpected custom data from client
+[10Dec2024 05:15:00.140] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@aa340ee[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:43031) lost connection: Unexpected custom data from client
+[10Dec2024 05:15:06.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[10Dec2024 05:15:42.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Dec2024 05:15:53.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[10Dec2024 05:16:21.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Zombie
+[10Dec2024 05:16:22.837] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 05:17:48.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tiliaso_01> t
