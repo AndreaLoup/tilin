@@ -1294,3 +1294,11 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 03:10:34.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
 [10Dec2024 03:11:10.656] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Dec2024 03:11:10.671] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 03:15:37.124] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/83, l='ServerLevel[world]', x=756.49, y=68.50, z=-762.30] died, message: 'Villager was slain by Infected Hazmat'
+[10Dec2024 03:15:41.097] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/82, l='ServerLevel[world]', x=759.51, y=68.50, z=-762.30] died, message: 'Villager was slain by Infected Hazmat'
+[10Dec2024 03:16:09.948] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 03:16:09.957] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 03:18:55.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Dec2024 03:19:35.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[10Dec2024 03:21:09.894] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 03:21:09.914] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

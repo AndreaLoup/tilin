@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 03:14:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-09 21:57:09 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-10 00:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 03:20:05 +0000"
     },
     "done": true
   },
@@ -356,6 +368,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-09 22:13:31 +0000",
+      "bread": "2024-12-10 03:20:15 +0000",
       "golden_carrot": "2024-12-09 22:40:21 +0000"
     },
     "done": false
@@ -522,6 +535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-10 03:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-09 22:35:26 +0000"
@@ -603,6 +622,12 @@
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-10 00:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 03:14:01 +0000"
     },
     "done": true
   },
@@ -889,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-10 03:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-09 22:46:27 +0000"
@@ -1138,6 +1169,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 22:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2024-12-10 03:14:30 +0000"
     },
     "done": true
   },
@@ -1517,6 +1554,7 @@
       "minecraft:dark_forest": "2024-12-09 22:20:38 +0000",
       "minecraft:river": "2024-12-09 22:07:30 +0000",
       "minecraft:wooded_mountains": "2024-12-09 22:24:31 +0000",
+      "minecraft:wooded_hills": "2024-12-10 03:14:37 +0000",
       "minecraft:plains": "2024-12-09 21:40:43 +0000"
     },
     "done": false
@@ -1746,6 +1784,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-10 00:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-10 03:14:38 +0000"
     },
     "done": true
   },
