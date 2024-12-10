@@ -1300,3 +1300,9 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 00:10:47.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
 [10Dec2024 00:11:24.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Would you Like to Know More?]
 [10Dec2024 00:12:13.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Book of Monsters]
+[10Dec2024 00:15:47.625] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 00:15:47.633] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 00:19:16.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made rexsel a server operator
+[10Dec2024 00:19:22.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Dec2024 00:20:47.623] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 00:20:47.637] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
