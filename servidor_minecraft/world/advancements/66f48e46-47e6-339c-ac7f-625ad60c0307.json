@@ -368,6 +368,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-09 22:13:31 +0000",
+      "cooked_beef": "2024-12-10 03:32:37 +0000",
       "bread": "2024-12-10 03:20:15 +0000",
       "golden_carrot": "2024-12-09 22:40:21 +0000"
     },
@@ -1628,6 +1629,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-10 00:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-10 03:55:14 +0000"
     },
     "done": true
   },
