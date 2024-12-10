@@ -367,6 +367,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-10 04:30:23 +0000",
       "cooked_mutton": "2024-12-09 22:13:31 +0000",
       "cooked_beef": "2024-12-10 03:32:37 +0000",
       "bread": "2024-12-10 03:20:15 +0000",
@@ -1610,6 +1611,7 @@
       "minecraft:river": "2024-12-09 22:07:30 +0000",
       "minecraft:wooded_mountains": "2024-12-09 22:24:31 +0000",
       "minecraft:wooded_hills": "2024-12-10 03:14:37 +0000",
+      "minecraft:swamp": "2024-12-10 04:32:45 +0000",
       "minecraft:plains": "2024-12-09 21:40:43 +0000"
     },
     "done": false

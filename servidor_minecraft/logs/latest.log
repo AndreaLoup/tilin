@@ -643,3 +643,21 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 04:26:40.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Emily_OvO]
 [10Dec2024 04:27:02.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tiliaso_01> telleva semillas dise
 [10Dec2024 04:27:09.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO has made the advancement [A Seedy Place]
+[10Dec2024 04:30:06.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[10Dec2024 04:30:06.709] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: tiliaso_01 moved too quickly! 0.5154309332122011,-1.6216000461578375,9.885179444727328
+[10Dec2024 04:32:41.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Chainsaw
+[10Dec2024 04:32:42.996] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:34:55.339] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Emily_OvO lost connection: Disconnected
+[10Dec2024 04:34:55.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO left the game
+[10Dec2024 04:34:55.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
+[10Dec2024 04:35:04.543] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d05705f
+[10Dec2024 04:35:04.550] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Emily_OvO[/127.55.205.9:35419] logged in with entity id 16237 at (761.1374999880791, 74.0, -751.6999999880791)
+[10Dec2024 04:35:04.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO joined the game
+[10Dec2024 04:35:04.558] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:36:01.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> no lo quites
+[10Dec2024 04:36:06.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> es para que la sandie crezca
+[10Dec2024 04:36:11.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> si la quitas
+[10Dec2024 04:36:13.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> te mato
+[10Dec2024 04:37:25.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Eduardo171
+[10Dec2024 04:37:27.653] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:39:50.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> emily ven
