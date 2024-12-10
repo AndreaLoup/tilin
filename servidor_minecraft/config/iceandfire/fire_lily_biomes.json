@@ -2,16 +2,14 @@
   "biomes": [
     [
       {
-        "type": "BIOME_TAG",
+        "type": "BIOME_DICT",
         "negate": false,
-        "value": "forge:is_hot/overworld"
-      }
-    ],
-    [
+        "value": "overworld"
+      },
       {
-        "type": "REGISTRY_NAME",
+        "type": "BIOME_DICT",
         "negate": false,
-        "value": "byg:firecracker_shrubland"
+        "value": "hot"
       }
     ]
   ]

@@ -2,16 +2,14 @@
   "biomes": [
     [
       {
-        "type": "REGISTRY_NAME",
+        "type": "BIOME_DICT",
         "negate": false,
-        "value": "minecraft:savanna_plateau"
-      }
-    ],
-    [
+        "value": "overworld"
+      },
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "terralith:fractured_savanna"
+        "value": "minecraft:savanna_plateau"
       }
     ]
   ]
