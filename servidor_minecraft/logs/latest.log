@@ -682,3 +682,26 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 04:49:52.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Emily_OvO]
 [10Dec2024 04:49:57.915] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-606, y=65, z=-1186} but found not block entity block Block{minecraft:dirt} at location
 [10Dec2024 04:49:57.918] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=-606, y=65, z=-1186}
+[10Dec2024 04:50:46.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[10Dec2024 04:55:16.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
+[10Dec2024 04:55:17.547] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:55:57.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Dec2024 04:56:27.497] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 04:57:08.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Infected Hazmat
+[10Dec2024 04:57:09.640] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:57:11.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO has made the advancement [Suit Up]
+[10Dec2024 04:57:16.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Infected Hazmat
+[10Dec2024 04:57:18.138] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:57:18.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[10Dec2024 04:57:54.443] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 04:57:54.443] [Netty Epoll Server IO #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@495ffc5[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:52541): Unexpected custom data from client
+[10Dec2024 04:57:54.485] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@495ffc5[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:52541) lost connection: Unexpected custom data from client
+[10Dec2024 04:58:02.984] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 04:58:02.985] [Netty Epoll Server IO #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@63dfcda3[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:46311): Unexpected custom data from client
+[10Dec2024 04:58:03.008] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@63dfcda3[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:46311) lost connection: Unexpected custom data from client
+[10Dec2024 04:58:15.863] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 04:58:15.864] [Netty Epoll Server IO #0/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@44f4cbb7[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:55761): Unexpected custom data from client
+[10Dec2024 04:58:15.888] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@44f4cbb7[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:55761) lost connection: Unexpected custom data from client
+[10Dec2024 04:58:21.688] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[10Dec2024 04:58:21.688] [Netty Epoll Server IO #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@57346428[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:45105): Unexpected custom data from client
+[10Dec2024 04:58:21.739] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@57346428[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.20.169.155:45105) lost connection: Unexpected custom data from client
