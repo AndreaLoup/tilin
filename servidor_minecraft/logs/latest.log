@@ -847,3 +847,6 @@ java.lang.NullPointerException: null
 [10Dec2024 06:00:11.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Dragonslayer]
 [10Dec2024 06:00:51.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [My Name is Nobody]
 [10Dec2024 06:01:00.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [The Desert Swimmers]
+[10Dec2024 06:02:10.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [The Twelve Labors of Hercules]
+[10Dec2024 06:02:24.829] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Disconnected
+[10Dec2024 06:02:24.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
