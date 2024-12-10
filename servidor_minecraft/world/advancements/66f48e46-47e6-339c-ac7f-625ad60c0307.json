@@ -882,6 +882,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-10 00:48:48 +0000",
+      "minecraft:creeper": "2024-12-10 05:32:01 +0000",
       "minecraft:zombie": "2024-12-10 00:49:52 +0000"
     },
     "done": false

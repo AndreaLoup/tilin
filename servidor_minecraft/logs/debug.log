@@ -2437,3 +2437,9 @@ java.lang.NullPointerException: null
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [10Dec2024 05:30:52.991] [Server thread/INFO] [tac/]: PENDING
 [10Dec2024 05:31:00.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[10Dec2024 05:31:21.323] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:31:21.329] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:36:21.050] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:36:21.055] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:40:19.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO has made the advancement [Stone Age]
+[10Dec2024 05:41:04.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gave 10 [Torch] to Eduardo171]
