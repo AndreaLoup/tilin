@@ -603,3 +603,24 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 03:58:07.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by rexsel
 [10Dec2024 03:58:08.291] [Server thread/INFO] [tac/]: PENDING
 [10Dec2024 03:58:09.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Isn't It Iron Pick]
+[10Dec2024 03:59:17.948] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel was kicked for floating too long!
+[10Dec2024 03:59:17.950] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Flying is not enabled on this server
+[10Dec2024 03:59:17.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
+[10Dec2024 03:59:18.009] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[10Dec2024 03:59:23.760] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2339fd6f
+[10Dec2024 03:59:23.771] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rexsel[/127.55.205.9:44397] logged in with entity id 2753 at (754.6232628267926, 65.00133597911214, -749.6930552894546)
+[10Dec2024 03:59:23.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
+[10Dec2024 03:59:23.793] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 03:59:24.251] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/364, l='ServerLevel[world]', x=756.36, y=68.50, z=-761.86] died, message: 'Cleric was slain by Infected Hazmat'
+[10Dec2024 03:59:25.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
+[10Dec2024 03:59:26.509] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 03:59:28.236] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/363, l='ServerLevel[world]', x=759.63, y=68.50, z=-762.70] died, message: 'Scribe was slain by Infected Hazmat'
+[10Dec2024 03:59:49.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
+[10Dec2024 03:59:50.869] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:00:07.145] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: tiliaso_01 moved too quickly! 9.964094472867032,1.0244240882136921,-1.1360007508684475
+[10Dec2024 04:00:07.147] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 moved too quickly! 4.6340476302719935,2.252203340253729,8.668825246916754
+[10Dec2024 04:00:07.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
+[10Dec2024 04:02:43.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Stone Age]
+[10Dec2024 04:03:05.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [A Seedy Place]
+[10Dec2024 04:03:39.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Stone Age]
+[10Dec2024 04:08:22.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Suit Up]
