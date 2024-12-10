@@ -2484,3 +2484,28 @@ java.lang.NullPointerException: null
 [10Dec2024 05:49:49.650] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [10Dec2024 05:51:21.216] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Dec2024 05:51:21.223] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:52:21.689] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:52:26.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO has made the advancement [Acquire Hardware]
+[10Dec2024 05:52:28.569] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:52:32.580] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:52:38.281] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:52:53.745] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:53:07.149] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:53:17.049] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Dec2024 05:56:20.907] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:56:20.911] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Dec2024 05:56:28.584] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Emily_OvO lost connection: Disconnected
+[10Dec2024 05:56:28.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO left the game
+[10Dec2024 05:56:49.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has completed the challenge [Rude Awakening]
+[10Dec2024 05:57:14.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Jennifer Dumped Me]
+[10Dec2024 05:57:28.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Diamonds!]
+[10Dec2024 05:57:59.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Spooky Scary Skeleton]
+[10Dec2024 05:58:08.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[10Dec2024 05:58:39.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has completed the challenge [The Bigger They Are...]
+[10Dec2024 05:58:54.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Dec2024 05:59:14.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has completed the challenge [Usurper]
+[10Dec2024 06:00:11.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Dragonslayer]
+[10Dec2024 06:00:51.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [My Name is Nobody]
+[10Dec2024 06:01:00.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [The Desert Swimmers]
+[10Dec2024 06:01:20.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Dec2024 06:01:20.981] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
