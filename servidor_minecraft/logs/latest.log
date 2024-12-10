@@ -630,3 +630,16 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Dec2024 04:17:23.114] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [10Dec2024 04:17:33.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Monster Hunter]
 [10Dec2024 04:18:16.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Monster Hunter]
+[10Dec2024 04:21:13.534] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@d5770f8
+[10Dec2024 04:21:13.539] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Emily_OvO[/127.55.205.9:44669] logged in with entity id 9848 at (102.5, 67.0, 244.5)
+[10Dec2024 04:21:13.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO joined the game
+[10Dec2024 04:21:13.545] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:21:13.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO has made the advancement [Ice and Fire]
+[10Dec2024 04:21:25.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to rexsel]
+[10Dec2024 04:22:46.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Eduardo171
+[10Dec2024 04:22:49.063] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 04:22:53.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to rexsel]
+[10Dec2024 04:25:40.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> El humor negro es como los esclavos, hoy en día muy pocos tenemos uno.
+[10Dec2024 04:26:40.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Emily_OvO]
+[10Dec2024 04:27:02.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tiliaso_01> telleva semillas dise
+[10Dec2024 04:27:09.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO has made the advancement [A Seedy Place]
