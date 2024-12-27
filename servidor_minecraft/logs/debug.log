@@ -2259,3 +2259,32 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [27Dec2024 21:38:56.998] [Server thread/INFO] [tac/]: PENDING
 [27Dec2024 21:39:01.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Clash of the Titans]
 [27Dec2024 21:39:03.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Fetus
+[27Dec2024 21:39:04.321] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:39:33.450] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:39:33.459] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Dec2024 21:39:33.528] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: tiliaso_01 moved too quickly! -0.8366540364339698,1.7539862017387549,10.065190540434173
+[27Dec2024 21:39:33.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[27Dec2024 21:39:55.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> si
+[27Dec2024 21:40:05.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> nose donde esta xd
+[27Dec2024 21:40:18.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> sabe
+[27Dec2024 21:40:49.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y mis chuletas?
+[27Dec2024 21:44:18.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Chainsaw
+[27Dec2024 21:44:21.526] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:44:24.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[27Dec2024 21:44:34.996] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:44:35.003] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Dec2024 21:45:07.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: true]
+[27Dec2024 21:45:50.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was turned into KFC by Fire Dragon
+[27Dec2024 21:45:51.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Suit Up]
+[27Dec2024 21:45:52.204] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:45:57.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[27Dec2024 21:46:08.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel walked into fire whilst fighting Fire Dragon
+[27Dec2024 21:46:09.564] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:46:10.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Fire Dragon
+[27Dec2024 21:46:10.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[27Dec2024 21:46:14.302] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:46:16.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[27Dec2024 21:46:49.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Dragonslayer]
+[27Dec2024 21:47:10.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ocupo armas pa matar dragones xd
+[27Dec2024 21:47:47.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Diamonds!]
+[27Dec2024 21:48:55.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> yo sigo explorando

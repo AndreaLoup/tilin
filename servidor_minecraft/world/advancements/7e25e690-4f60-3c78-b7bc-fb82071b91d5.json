@@ -205,7 +205,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2024-12-27 21:24:48 +0000"
+      "cooked_porkchop": "2024-12-27 21:24:48 +0000",
+      "beef": "2024-12-27 21:40:53 +0000"
     },
     "done": false
   },
@@ -224,6 +225,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-27 21:33:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-27 21:39:01 +0000"
     },
     "done": true
   },
@@ -412,7 +419,9 @@
       "minecraft:forest": "2024-12-27 21:32:33 +0000",
       "minecraft:mountains": "2024-12-27 21:32:44 +0000",
       "minecraft:taiga": "2024-12-27 21:31:26 +0000",
+      "minecraft:beach": "2024-12-27 21:35:06 +0000",
       "minecraft:river": "2024-12-27 21:29:46 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-27 21:37:16 +0000",
       "minecraft:wooded_hills": "2024-12-27 21:29:07 +0000",
       "minecraft:plains": "2024-12-27 21:19:02 +0000"
     },
@@ -576,6 +585,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-27 21:38:54 +0000",
       "minecraft:spider": "2024-12-27 21:24:10 +0000"
     },
     "done": false

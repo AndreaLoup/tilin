@@ -1089,6 +1089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-27 21:39:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2024-12-10 04:23:43 +0000"
