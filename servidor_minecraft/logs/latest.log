@@ -560,3 +560,12 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [27Dec2024 20:46:51.154] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:56427] logged in with entity id 1779 at (767.6770554098159, 75.0, -529.3228375862911)
 [27Dec2024 20:46:51.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
 [27Dec2024 20:46:51.173] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 20:48:44.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f6030c6
+[27Dec2024 20:48:44.211] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tiliaso_01[/127.101.245.30:57635] logged in with entity id 2218 at (758.6384779703869, 70.0, -772.4747998335971)
+[27Dec2024 20:48:44.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 joined the game
+[27Dec2024 20:48:44.225] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 20:53:48.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Diamonds!]
+[27Dec2024 20:54:07.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Best Friends Forever]
+[27Dec2024 20:54:30.090] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Chicken'/5107, l='ServerLevel[world]', x=637.59, y=64.00, z=-609.79]
+[27Dec2024 20:54:30.097] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5108, l='ServerLevel[world]', x=637.38, y=64.00, z=-609.45]
+[27Dec2024 20:54:30.106] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Feather'/5106, l='ServerLevel[world]', x=636.24, y=64.00, z=-608.25]
