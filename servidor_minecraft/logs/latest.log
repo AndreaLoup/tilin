@@ -602,3 +602,17 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [27Dec2024 21:07:34.055] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Emily_OvO[/127.55.205.9:32779] logged in with entity id 9156 at (756.1825990462083, 81.5, -785.8956807313896)
 [27Dec2024 21:07:34.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO joined the game
 [27Dec2024 21:07:34.070] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:09:25.192] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat'/9787, l='ServerLevel[world]', x=761.71, y=61.09, z=-755.20]
+[27Dec2024 21:09:43.692] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[27Dec2024 21:09:43.692] [Netty Epoll Server IO #0/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@62b65934[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:54331): Unexpected custom data from client
+[27Dec2024 21:09:43.741] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@62b65934[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:54331) lost connection: Unexpected custom data from client
+[27Dec2024 21:10:50.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Steel'/10260, l='ServerLevel[world]', x=706.88, y=12.00, z=-665.13]
+[27Dec2024 21:11:07.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[27Dec2024 21:11:42.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Emily_OvO]
+[27Dec2024 21:12:43.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[27Dec2024 21:13:05.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[27Dec2024 21:13:11.157] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[27Dec2024 21:13:15.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Best Friends Forever]
+[27Dec2024 21:14:36.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[27Dec2024 21:15:58.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Diamonds!]
+[27Dec2024 21:16:26.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Ice Bucket Challenge]
