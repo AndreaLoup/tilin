@@ -53,9 +53,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
     },
     "done": true
   },
@@ -80,6 +104,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-27 21:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
     },
     "done": true
   },
@@ -125,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
@@ -149,9 +185,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-27 21:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
     },
     "done": true
   },
@@ -216,6 +264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 21:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
@@ -258,6 +312,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-27 21:46:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-27 21:33:15 +0000"
@@ -267,6 +327,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
     },
     "done": true
   },
@@ -354,6 +420,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/module_item": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-27 21:21:37 +0000"
@@ -381,6 +453,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-27 21:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
     },
     "done": true
   },
@@ -418,11 +496,14 @@
     "criteria": {
       "minecraft:forest": "2024-12-27 21:32:33 +0000",
       "minecraft:mountains": "2024-12-27 21:32:44 +0000",
+      "minecraft:mushroom_fields": "2024-12-27 21:49:34 +0000",
       "minecraft:taiga": "2024-12-27 21:31:26 +0000",
+      "minecraft:warm_ocean": "2024-12-27 21:55:35 +0000",
       "minecraft:beach": "2024-12-27 21:35:06 +0000",
       "minecraft:river": "2024-12-27 21:29:46 +0000",
       "minecraft:lukewarm_ocean": "2024-12-27 21:37:16 +0000",
       "minecraft:wooded_hills": "2024-12-27 21:29:07 +0000",
+      "minecraft:mushroom_field_shore": "2024-12-27 21:49:55 +0000",
       "minecraft:plains": "2024-12-27 21:19:02 +0000"
     },
     "done": false
@@ -430,6 +511,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
     },
     "done": true
   },
@@ -454,6 +541,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-27 21:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
     },
     "done": true
   },
@@ -559,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
@@ -583,12 +682,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-27 21:38:54 +0000",
       "minecraft:spider": "2024-12-27 21:24:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
@@ -614,15 +737,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 21:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-27 21:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-27 21:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-27 21:47:47 +0000"
     },
     "done": true
   },
@@ -665,6 +812,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-27 21:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-27 21:50:19 +0000"
     },
     "done": true
   },

@@ -266,6 +266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 21:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 05:52:26 +0000"
@@ -686,6 +692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 21:52:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-27 21:12:01 +0000"
@@ -833,6 +845,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-27 21:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-27 21:52:33 +0000"
     },
     "done": true
   },
