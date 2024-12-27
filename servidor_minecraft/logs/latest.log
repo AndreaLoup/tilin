@@ -569,3 +569,36 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [27Dec2024 20:54:30.090] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Chicken'/5107, l='ServerLevel[world]', x=637.59, y=64.00, z=-609.79]
 [27Dec2024 20:54:30.097] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5108, l='ServerLevel[world]', x=637.38, y=64.00, z=-609.45]
 [27Dec2024 20:54:30.106] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Feather'/5106, l='ServerLevel[world]', x=636.24, y=64.00, z=-608.25]
+[27Dec2024 20:58:35.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[27Dec2024 21:01:53.109] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tiliaso_01 lost connection: Disconnected
+[27Dec2024 21:01:53.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 left the game
+[27Dec2024 21:02:45.646] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7e51a572
+[27Dec2024 21:02:45.653] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tiliaso_01[/127.101.245.30:57077] logged in with entity id 7703 at (867.6353766826121, 63.0, -686.8830763675593)
+[27Dec2024 21:02:45.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 joined the game
+[27Dec2024 21:02:45.664] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:03:29.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: The difficulty has been set to Hard]
+[27Dec2024 21:03:41.049] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[27Dec2024 21:03:41.055] [Netty Epoll Server IO #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@52b51e7a[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:49717): Unexpected custom data from client
+[27Dec2024 21:03:41.091] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@52b51e7a[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:49717) lost connection: Unexpected custom data from client
+[27Dec2024 21:03:45.591] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[27Dec2024 21:03:45.592] [Netty Epoll Server IO #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@6f1ea32e[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:49743): Unexpected custom data from client
+[27Dec2024 21:03:45.593] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6f1ea32e[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:49743) lost connection: Unexpected custom data from client
+[27Dec2024 21:03:59.783] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[27Dec2024 21:03:59.784] [Netty Epoll Server IO #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@4d4604f0[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:46707): Unexpected custom data from client
+[27Dec2024 21:03:59.788] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4d4604f0[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:46707) lost connection: Unexpected custom data from client
+[27Dec2024 21:04:05.045] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[27Dec2024 21:04:05.045] [Netty Epoll Server IO #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@6bfc0551[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:56343): Unexpected custom data from client
+[27Dec2024 21:04:05.088] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6bfc0551[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:56343) lost connection: Unexpected custom data from client
+[27Dec2024 21:04:10.218] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[27Dec2024 21:04:10.223] [Netty Epoll Server IO #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@56255658[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:35135): Unexpected custom data from client
+[27Dec2024 21:04:10.254] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@56255658[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:35135) lost connection: Unexpected custom data from client
+[27Dec2024 21:04:15.193] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[27Dec2024 21:04:15.194] [Netty Epoll Server IO #0/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@5b92ecab[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:33885): Unexpected custom data from client
+[27Dec2024 21:04:15.241] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5b92ecab[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.193.228.188:33885) lost connection: Unexpected custom data from client
+[27Dec2024 21:06:53.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Bomber
+[27Dec2024 21:06:55.819] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:06:59.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[27Dec2024 21:07:34.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e226bf0
+[27Dec2024 21:07:34.055] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Emily_OvO[/127.55.205.9:32779] logged in with entity id 9156 at (756.1825990462083, 81.5, -785.8956807313896)
+[27Dec2024 21:07:34.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO joined the game
+[27Dec2024 21:07:34.070] [Server thread/INFO] [tac/]: PENDING
