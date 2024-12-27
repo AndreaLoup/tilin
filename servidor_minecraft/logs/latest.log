@@ -658,3 +658,42 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [27Dec2024 21:27:01.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> XD
 [27Dec2024 21:27:33.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tp?
 [27Dec2024 21:27:44.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[27Dec2024 21:29:33.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> voy a explorar el mundito w
+[27Dec2024 21:30:17.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> hay que jugar rlcraft alv
+[27Dec2024 21:33:15.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Stone Age]
+[27Dec2024 21:33:51.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Getting an Upgrade]
+[27Dec2024 21:34:31.171] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel moved too quickly! 10.061174737232022,0.9893499858739716,1.2209388392587925
+[27Dec2024 21:34:31.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[27Dec2024 21:34:34.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tengo malos recuerdos de esos
+[27Dec2024 21:34:37.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to Emily_OvO]
+[27Dec2024 21:34:43.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no mejor si voy con ustedes xd
+[27Dec2024 21:35:19.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was turned into gorgonzola by Gorgon
+[27Dec2024 21:35:22.704] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:35:25.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> 757 69 -757
+[27Dec2024 21:35:27.264] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1734, y=22, z=-399} but found not block entity block Block{minecraft:cave_air} at location
+[27Dec2024 21:35:27.265] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=1734, y=22, z=-399}
+[27Dec2024 21:35:31.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[27Dec2024 21:35:32.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Assasin Black Ops
+[27Dec2024 21:35:34.349] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:36:40.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[27Dec2024 21:36:50.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> TP
+[27Dec2024 21:36:51.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> TP
+[27Dec2024 21:36:52.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> TP
+[27Dec2024 21:36:55.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> DRAGON
+[27Dec2024 21:37:04.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> TP
+[27Dec2024 21:37:05.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> PTP
+[27Dec2024 21:37:06.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> PTPTPT
+[27Dec2024 21:37:35.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> TP MIERD
+[27Dec2024 21:37:42.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[27Dec2024 21:37:59.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was turned to stone by Gorgon
+[27Dec2024 21:38:01.054] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:38:05.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[27Dec2024 21:38:14.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was turned into gorgonzola by Gorgon
+[27Dec2024 21:38:15.903] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:38:30.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
+[27Dec2024 21:38:31.161] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:38:32.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[27Dec2024 21:38:55.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Infected
+[27Dec2024 21:38:56.998] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:39:01.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Clash of the Titans]
+[27Dec2024 21:39:03.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Fetus
