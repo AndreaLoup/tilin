@@ -904,6 +904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 21:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-10 00:23:42 +0000"
@@ -1154,6 +1160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-27 21:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-09 21:45:14 +0000"
@@ -1394,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 21:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-09 21:57:24 +0000"
@@ -1535,6 +1553,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-09 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-27 21:23:27 +0000"
     },
     "done": true
   },
@@ -1955,6 +1979,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-12-10 03:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2024-12-27 21:16:43 +0000"
     },
     "done": true
   },

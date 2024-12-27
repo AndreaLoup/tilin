@@ -616,3 +616,45 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [27Dec2024 21:14:36.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
 [27Dec2024 21:15:58.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Diamonds!]
 [27Dec2024 21:16:26.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Ice Bucket Challenge]
+[27Dec2024 21:18:54.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Not Today, Thank You]
+[27Dec2024 21:18:59.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[27Dec2024 21:19:02.556] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19ecb80f
+[27Dec2024 21:19:02.581] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/127.193.228.188:46189] logged in with entity id 13971 at (103.5, 68.0, 245.5)
+[27Dec2024 21:19:02.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[27Dec2024 21:19:02.610] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:19:02.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Ice and Fire]
+[27Dec2024 21:19:15.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> era solo por un mod
+[27Dec2024 21:19:25.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Emily_OvO]
+[27Dec2024 21:19:34.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO has made the advancement [Diamonds!]
+[27Dec2024 21:19:34.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to Emily_OvO]
+[27Dec2024 21:20:01.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[27Dec2024 21:20:32.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Acquire Hardware]
+[27Dec2024 21:20:55.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Suit Up]
+[27Dec2024 21:21:36.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> voy a hacer mi cumjar
+[27Dec2024 21:21:58.041] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Emily_OvO lost connection: Disconnected
+[27Dec2024 21:21:58.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO left the game
+[27Dec2024 21:22:19.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[27Dec2024 21:23:19.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
+[27Dec2024 21:23:20.242] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:23:49.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1ecceec4
+[27Dec2024 21:23:49.953] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Emily_OvO[/127.55.205.9:57819] logged in with entity id 15002 at (757.7396490587097, 69.0, -752.2888956091584)
+[27Dec2024 21:23:49.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO joined the game
+[27Dec2024 21:23:49.956] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:24:09.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
+[27Dec2024 21:24:10.455] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:24:10.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Monster Hunter]
+[27Dec2024 21:24:40.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tienes comida?
+[27Dec2024 21:24:44.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
+[27Dec2024 21:24:45.442] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:25:18.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
+[27Dec2024 21:25:19.291] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:25:22.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Chainsaw
+[27Dec2024 21:25:23.453] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:26:23.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was blown up by Bomber
+[27Dec2024 21:26:25.953] [Server thread/INFO] [tac/]: PENDING
+[27Dec2024 21:26:51.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xuxa
+[27Dec2024 21:26:58.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no guarde spawn
+[27Dec2024 21:26:58.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> X
+[27Dec2024 21:27:01.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> XD
+[27Dec2024 21:27:33.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tp?
+[27Dec2024 21:27:44.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
