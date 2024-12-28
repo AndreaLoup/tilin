@@ -1630,3 +1630,22 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 19:59:06.820] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
 [28Dec2024 19:59:47.498] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
 [28Dec2024 20:01:40.742] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
+[28Dec2024 20:04:04.996] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Dec2024 20:04:05.005] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 20:07:33.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ESTO ESTA TARDANDO DEMASIADO
+[28Dec2024 20:07:40.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> por?
+[28Dec2024 20:07:43.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ODIO ESTO
+[28Dec2024 20:07:45.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> q haces?
+[28Dec2024 20:07:50.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> TENGO QUE HACER PIEDRA LISA
+[28Dec2024 20:07:54.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> a xD
+[28Dec2024 20:08:01.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> LADRILLOS DE PIDRA Y UN CHINGO DE COSAS MAS
+[28Dec2024 20:08:21.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> MIRA LOS PUTOS HORNOS
+[28Dec2024 20:08:36.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> :v pa q tanto?
+[28Dec2024 20:08:45.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> PARA LA GRANJA DE POLVORA
+[28Dec2024 20:08:50.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> ah xD
+[28Dec2024 20:09:04.989] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Dec2024 20:09:04.996] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 20:10:38.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Enchanter]
+[28Dec2024 20:11:14.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> wa quitar el keep
+[28Dec2024 20:11:46.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: false]
+[28Dec2024 20:11:59.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> Me quiero matar
