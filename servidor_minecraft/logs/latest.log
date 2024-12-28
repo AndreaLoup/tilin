@@ -1087,3 +1087,7 @@ java.lang.NullPointerException: null
 [28Dec2024 23:35:25.986] [Server thread/INFO] [tac/]: PENDING
 [28Dec2024 23:37:16.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO blew up
 [28Dec2024 23:37:18.849] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:39:35.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Night Hunter
+[28Dec2024 23:39:37.523] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:45:05.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[28Dec2024 23:45:06.974] [Server thread/INFO] [tac/]: PENDING
