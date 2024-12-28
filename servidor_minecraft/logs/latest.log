@@ -958,3 +958,29 @@ java.lang.NullPointerException: null
 [28Dec2024 22:55:50.643] [Server thread/INFO] [tac/]: PENDING
 [28Dec2024 22:56:48.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> como le puedo poner una mira a mi arma?
 [28Dec2024 22:56:55.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> gracias
+[28Dec2024 22:57:37.491] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=677, y=65, z=-669} BlockPos{x=678, y=63, z=-669}
+[28Dec2024 22:57:41.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was eliminated by rexsel
+[28Dec2024 22:57:42.992] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:58:31.676] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev moved too quickly! 3.55794734995834,0.8322033533667508,9.454086293708428
+[28Dec2024 22:58:32.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 22:58:38.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Emily_OvO]
+[28Dec2024 22:59:25.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ni habia nada
+[28Dec2024 22:59:25.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[28Dec2024 22:59:38.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 22:59:44.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 22:59:52.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 23:00:22.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 23:00:32.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 23:01:08.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> q
+[28Dec2024 23:01:27.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ando haciendo mi casita xd}
+[28Dec2024 23:03:50.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> el mod del lorax como dijo el alda xd
+[28Dec2024 23:04:57.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[28Dec2024 23:05:29.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Creeper
+[28Dec2024 23:05:30.450] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:06:14.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
+[28Dec2024 23:06:15.900] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:07:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
+[28Dec2024 23:07:01.599] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:07:31.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[28Dec2024 23:07:33.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue, ando ocupadito en hacer esta casita
+[28Dec2024 23:07:34.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
