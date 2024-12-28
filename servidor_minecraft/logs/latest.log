@@ -802,3 +802,14 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 22:02:33.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
 [28Dec2024 22:03:41.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
 [28Dec2024 22:05:44.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 22:06:22.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was blown up by Skeleton
+[28Dec2024 22:06:24.211] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:06:50.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 22:07:43.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 22:08:36.854] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 4e2dcaaf-bfb0-4b47-a7c0-90f3fb8ab4e4. Existing iceandfire:fire_dragon#45777, new: iceandfire:fire_dragon#45871
+[28Dec2024 22:08:46.829] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev moved too quickly! -3.6471974864898584,-2.07520089011895,-9.235590827815713
+[28Dec2024 22:10:26.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Sweet Dreams]
+[28Dec2024 22:12:35.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 22:13:45.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Infected Military
+[28Dec2024 22:13:46.771] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:15:05.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Emily_OvO]
