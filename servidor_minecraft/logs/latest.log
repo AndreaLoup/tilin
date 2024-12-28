@@ -693,3 +693,72 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 21:43:57.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
 [28Dec2024 21:44:43.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
 [28Dec2024 21:44:54.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:45:54.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:47:34.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:48:29.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Infected Police
+[28Dec2024 21:48:31.490] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:48:36.581] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@60c57357
+[28Dec2024 21:48:36.592] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tiliaso_01[/0:0:0:0:0:0:0:1%0:52800] logged in with entity id 35598 at (200.10071383191166, 67.0, 268.6528324305996)
+[28Dec2024 21:48:36.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 joined the game
+[28Dec2024 21:48:36.599] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:48:50.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> como te moriste emily?
+[28Dec2024 21:49:04.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> q entro un zombie policia arriba
+[28Dec2024 21:49:15.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:49:26.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:50:09.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
+[28Dec2024 21:50:11.137] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:50:29.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
+[28Dec2024 21:50:31.047] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:50:47.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> emily, dame comida porfa
+[28Dec2024 21:50:57.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
+[28Dec2024 21:51:01.407] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:51:07.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> olvidalo
+[28Dec2024 21:51:07.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> donde estas
+[28Dec2024 21:51:10.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ya nada
+[28Dec2024 21:51:11.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> a
+[28Dec2024 21:51:28.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
+[28Dec2024 21:51:30.087] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:52:37.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:52:44.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[28Dec2024 21:53:01.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: false]
+[28Dec2024 21:54:10.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Infected Hazmat
+[28Dec2024 21:54:11.592] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:54:23.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:54:34.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Military
+[28Dec2024 21:54:36.423] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:55:22.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
+[28Dec2024 21:55:23.627] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:55:26.432] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=234}
+[28Dec2024 21:55:26.481] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=234}
+[28Dec2024 21:55:26.641] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=234}
+[28Dec2024 21:55:26.683] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=235}
+[28Dec2024 21:55:26.738] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=235}
+[28Dec2024 21:55:26.888] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=235}
+[28Dec2024 21:55:27.031] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=236}
+[28Dec2024 21:55:27.136] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=236}
+[28Dec2024 21:55:27.194] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=237}
+[28Dec2024 21:55:27.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:55:27.285] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=237}
+[28Dec2024 21:55:27.333] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=237}
+[28Dec2024 21:55:27.436] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=102, y=67, z=238}
+[28Dec2024 21:55:27.588] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=102, y=67, z=238}
+[28Dec2024 21:55:27.687] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=67, z=239}
+[28Dec2024 21:55:27.736] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=67, z=239}
+[28Dec2024 21:55:27.836] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=67, z=239}
+[28Dec2024 21:55:27.883] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=67, z=239}
+[28Dec2024 21:55:27.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=99, y=66, z=239}
+[28Dec2024 21:55:28.132] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=98, y=66, z=238}
+[28Dec2024 21:55:28.888] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=96, y=66, z=236}
+[28Dec2024 21:55:29.180] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=97, y=66, z=234}
+[28Dec2024 21:55:29.383] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=97, y=66, z=234}
+[28Dec2024 21:55:29.433] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=97, y=65, z=232}
+[28Dec2024 21:55:29.727] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=98, y=66, z=232}
+[28Dec2024 21:55:29.884] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=99, y=66, z=232}
+[28Dec2024 21:55:30.180] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=66, z=231}
+[28Dec2024 21:55:30.285] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=102, y=66, z=231}
+[28Dec2024 21:55:30.343] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=66, z=231}
+[28Dec2024 21:55:30.486] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=232}
+[28Dec2024 21:55:30.636] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=232}
+[28Dec2024 21:55:30.740] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=232}
+[28Dec2024 21:55:30.780] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=232}
+[28Dec2024 21:55:31.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
