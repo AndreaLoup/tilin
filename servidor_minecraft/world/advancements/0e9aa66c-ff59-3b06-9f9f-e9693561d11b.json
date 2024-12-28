@@ -569,6 +569,7 @@
       "minecraft:spider": "2024-12-27 21:31:37 +0000",
       "minecraft:creeper": "2024-12-10 04:18:28 +0000",
       "minecraft:witch": "2024-12-28 22:15:56 +0000",
+      "minecraft:cave_spider": "2024-12-28 22:30:52 +0000",
       "minecraft:enderman": "2024-12-27 22:27:21 +0000",
       "minecraft:zombie": "2024-12-10 04:17:33 +0000"
     },
@@ -637,6 +638,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/lance_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2024-12-28 22:33:59 +0000"
     },
     "done": true
   },
@@ -1304,6 +1311,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-10 05:03:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-28 22:33:28 +0000"
     },
     "done": true
   },
