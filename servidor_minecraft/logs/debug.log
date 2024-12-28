@@ -1616,3 +1616,17 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 19:52:56.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ya me gaste dos hachas de diamante en madera
 [28Dec2024 19:53:00.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> :v
 [28Dec2024 19:53:26.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> guarda la madera
+[28Dec2024 19:54:05.412] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:54:05.428] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 19:54:30.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> no puedo esperar para hacer la puta granja de creepers
+[28Dec2024 19:54:36.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> xDD
+[28Dec2024 19:56:01.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> esto va a tardar mucho
+[28Dec2024 19:57:27.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> tienes cobblestone?
+[28Dec2024 19:57:30.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> necesito
+[28Dec2024 19:57:40.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> justo iva a por mas
+[28Dec2024 19:57:47.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> gracias
+[28Dec2024 19:59:04.861] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:59:04.867] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 19:59:06.820] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
+[28Dec2024 19:59:47.498] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
+[28Dec2024 20:01:40.742] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
