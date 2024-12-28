@@ -631,3 +631,12 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 20:23:12.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> ?
 [28Dec2024 20:23:22.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> porque no configuras una tecla para abrir directamente la mochila?
 [28Dec2024 20:23:31.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> deja veo
+[28Dec2024 20:25:42.484] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
+[28Dec2024 20:26:00.158] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
+[28Dec2024 20:26:45.066] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 20:26:45.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [We Need to Go Deeper]
+[28Dec2024 20:26:45.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
+[28Dec2024 20:28:48.238] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=101, y=111, z=-102} BlockPos{x=95, y=116, z=-74}
+[28Dec2024 20:29:31.673] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 20:30:11.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: The difficulty has been set to Hard]
+[28Dec2024 20:32:01.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: true]
