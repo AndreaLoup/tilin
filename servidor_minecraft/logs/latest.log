@@ -643,3 +643,10 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 20:38:29.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 blew up
 [28Dec2024 20:38:31.673] [Server thread/INFO] [tac/]: PENDING
 [28Dec2024 20:38:40.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[28Dec2024 20:47:00.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Infected Hazmat
+[28Dec2024 20:47:02.359] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 20:47:15.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[28Dec2024 20:51:56.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Chainsaw
+[28Dec2024 20:51:58.376] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 20:53:44.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 20:54:18.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
