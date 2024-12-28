@@ -1573,3 +1573,46 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 19:36:25.550] [Server thread/INFO] [tac/]: PENDING
 [28Dec2024 19:39:06.267] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [28Dec2024 19:39:06.296] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 19:44:05.071] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:44:05.080] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 19:44:39.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:44:40.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:49:05.641] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:49:05.665] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Dec2024 19:50:01.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> hola pe
+[28Dec2024 19:50:05.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> hola
+[28Dec2024 19:50:08.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:50:08.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:50:10.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:50:11.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> q mas mi uwu
+[28Dec2024 19:50:13.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:50:14.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:50:14.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:50:26.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[28Dec2024 19:50:39.507] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:50:40.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:51:15.017] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.065] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.115] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.166] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.215] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.266] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.316] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.366] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.466] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.515] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:15.574] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[28Dec2024 19:51:31.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ando farmeando madera
+[28Dec2024 19:51:31.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 19:51:58.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[28Dec2024 19:51:58.204] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:51:59.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> quieres madera?
+[28Dec2024 19:52:02.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> sis :3
+[28Dec2024 19:52:09.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> ty ;3
+[28Dec2024 19:52:12.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> la madre
+[28Dec2024 19:52:39.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[28Dec2024 19:52:39.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 19:52:56.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ya me gaste dos hachas de diamante en madera
+[28Dec2024 19:53:00.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> :v
+[28Dec2024 19:53:26.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> guarda la madera
