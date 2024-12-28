@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/hammer_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 03:54:16 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-10 04:58:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
@@ -197,6 +209,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/greatsword_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-10 03:51:26 +0000"
@@ -218,6 +236,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
     "criteria": {
       "has_wood": "2024-12-27 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
@@ -278,6 +302,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
@@ -815,6 +845,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/scythe_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 04:28:44 +0000"
@@ -851,6 +887,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/halberd_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:09:34 +0000"
@@ -875,6 +917,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2024-12-27 22:27:22 +0000"
@@ -887,9 +935,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/lance_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-27 21:07:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pike_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
@@ -1073,6 +1133,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/boomerang_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/glaive_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-27 21:53:39 +0000"
@@ -1181,6 +1253,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/katana_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-10 04:23:06 +0000"
@@ -1221,6 +1299,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/saber_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
@@ -1500,6 +1584,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/longsword_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-10 04:03:39 +0000"
@@ -1515,6 +1605,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-10 04:45:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/spear_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
@@ -1584,6 +1680,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/dagger_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-10 04:26:23 +0000"
@@ -1626,6 +1728,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-10 04:37:33 +0000"
@@ -1635,6 +1743,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-27 20:53:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_medium": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
@@ -1692,6 +1806,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/warhammer_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_leather": "2024-12-27 22:09:34 +0000"
@@ -1722,6 +1842,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2024-12-28 00:03:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/longbow_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
@@ -1953,6 +2079,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-10 04:37:33 +0000"
@@ -2103,6 +2235,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/rapier_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pike_wood": {
     "criteria": {
       "has_wood": "2024-12-27 22:09:34 +0000"
@@ -2145,6 +2283,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/glaive_copper": {
     "criteria": {
       "has_copper_ingot": "2024-12-28 00:21:05 +0000"
@@ -2154,6 +2298,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-10 05:03:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-28 23:10:03 +0000"
     },
     "done": true
   },
