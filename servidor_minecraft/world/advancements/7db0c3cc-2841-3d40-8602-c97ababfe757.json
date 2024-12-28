@@ -1621,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2024-12-28 21:32:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:09:01 +0000"
@@ -1922,6 +1928,8 @@
       "cooked_beef": "2024-12-10 04:31:41 +0000",
       "apple": "2024-12-10 04:09:29 +0000",
       "bread": "2024-12-10 04:01:19 +0000",
+      "cookie": "2024-12-28 21:26:49 +0000",
+      "melon_slice": "2024-12-28 21:26:55 +0000",
       "cooked_chicken": "2024-12-27 21:56:09 +0000"
     },
     "done": false
@@ -2355,6 +2363,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-28 20:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-28 21:34:06 +0000"
     },
     "done": true
   },
