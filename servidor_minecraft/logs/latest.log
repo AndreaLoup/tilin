@@ -1032,3 +1032,58 @@ java.lang.NullPointerException: null
 [28Dec2024 23:26:19.807] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [28Dec2024 23:28:19.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
 [28Dec2024 23:28:20.426] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:28:32.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
+[28Dec2024 23:28:33.776] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:28:40.890] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[28Dec2024 23:28:43.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
+[28Dec2024 23:28:45.775] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:30:10.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was eliminated by rexsel
+[28Dec2024 23:30:11.904] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:30:20.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[28Dec2024 23:30:35.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Chainsaw
+[28Dec2024 23:30:40.202] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:30:45.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Chainsaw
+[28Dec2024 23:30:48.308] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:30:51.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Chainsaw
+[28Dec2024 23:30:58.191] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[28Dec2024 23:30:58.193] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev moved wrongly!
+[28Dec2024 23:31:06.525] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Timed out
+[28Dec2024 23:31:06.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[28Dec2024 23:31:12.485] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41a33239
+[28Dec2024 23:31:12.494] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/0:0:0:0:0:0:0:1%0:39050] logged in with entity id 82621 at (736.0173158149537, 63.0, -479.3096702841438)
+[28Dec2024 23:31:12.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[28Dec2024 23:31:12.496] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:31:20.251] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:31:26.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> time out xd
+[28Dec2024 23:32:08.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
+[28Dec2024 23:33:02.625] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tiliaso_01 lost connection: Timed out
+[28Dec2024 23:33:02.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 left the game
+[28Dec2024 23:33:42.873] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Timed out
+[28Dec2024 23:33:42.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[28Dec2024 23:33:48.220] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Timed out
+[28Dec2024 23:33:48.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
+[28Dec2024 23:35:24.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Night Hunter
+[28Dec2024 23:35:25.986] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:37:16.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO blew up
+[28Dec2024 23:37:18.849] [Server thread/INFO] [tac/]: PENDING
