@@ -640,3 +640,6 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 20:29:31.673] [Server thread/INFO] [tac/]: PENDING
 [28Dec2024 20:30:11.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: The difficulty has been set to Hard]
 [28Dec2024 20:32:01.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: true]
+[28Dec2024 20:38:29.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 blew up
+[28Dec2024 20:38:31.673] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 20:38:40.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
