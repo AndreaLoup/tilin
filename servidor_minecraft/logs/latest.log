@@ -813,3 +813,28 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 22:13:45.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Infected Military
 [28Dec2024 22:13:46.771] [Server thread/INFO] [tac/]: PENDING
 [28Dec2024 22:15:05.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Emily_OvO]
+[28Dec2024 22:17:13.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> quien esta en la base?
+[28Dec2024 22:17:25.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> yo
+[28Dec2024 22:17:39.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> Emily, tienes lava?
+[28Dec2024 22:17:39.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> rexsel porfas haz tp a con la emily
+[28Dec2024 22:17:40.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[28Dec2024 22:17:49.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [A Cut Above the Rest]
+[28Dec2024 22:17:50.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> si no tienes te mato
+[28Dec2024 22:17:59.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> pues no tengo
+[28Dec2024 22:18:02.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was eliminated by Eduardo171
+[28Dec2024 22:18:03.361] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:18:44.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to Eduardo171]
+[28Dec2024 22:18:56.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue
+[28Dec2024 22:18:56.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> emily
+[28Dec2024 22:18:57.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> toma
+[28Dec2024 22:19:04.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> una pistola
+[28Dec2024 22:19:08.298] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[28Dec2024 22:19:35.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> gracias
+[28Dec2024 22:22:32.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Hot Stuff]
+[28Dec2024 22:23:15.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 22:23:39.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to Eduardo171]
+[28Dec2024 22:23:53.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
+[28Dec2024 22:24:32.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was eliminated by rexsel
+[28Dec2024 22:24:33.726] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:24:43.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[28Dec2024 22:24:47.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]

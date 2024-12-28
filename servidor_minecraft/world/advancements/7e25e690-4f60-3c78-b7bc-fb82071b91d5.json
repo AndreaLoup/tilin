@@ -860,6 +860,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
+    "criteria": {
+      "has_feather": "2024-12-28 22:22:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/dagger_silver": {
     "criteria": {
       "has_silver_ingot": "2024-12-27 23:58:38 +0000"
@@ -953,6 +959,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_diamond": {
+    "criteria": {
+      "has_feather": "2024-12-28 22:22:36 +0000"
     },
     "done": true
   },
@@ -2223,6 +2235,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
+    "criteria": {
+      "has_feather": "2024-12-28 22:22:36 +0000"
+    },
+    "done": true
+  },
   "tac:recipes/tac/workbench": {
     "criteria": {
       "has_iron": "2024-12-27 23:12:57 +0000"
@@ -2337,6 +2355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-28 22:22:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-27 21:33:53 +0000"
@@ -2376,6 +2400,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 22:41:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2024-12-28 22:22:36 +0000"
     },
     "done": true
   },
@@ -2622,6 +2652,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:17:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
+    "criteria": {
+      "has_feather": "2024-12-28 22:22:36 +0000"
     },
     "done": true
   },
