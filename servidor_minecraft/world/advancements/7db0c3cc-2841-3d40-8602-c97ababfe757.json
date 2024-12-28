@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/medium_steel_armor": {
+    "criteria": {
+      "has_iron": "2024-12-28 21:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 04:12:26 +0000"
@@ -815,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 21:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 00:39:58 +0000"
@@ -1115,6 +1127,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-28 21:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 04:12:26 +0000"
@@ -1271,6 +1289,12 @@
     },
     "done": true
   },
+  "tac:recipes/tac/light_armor": {
+    "criteria": {
+      "has_iron": "2024-12-28 21:54:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
     "criteria": {
       "has_leather": "2024-12-27 22:22:12 +0000"
@@ -1310,6 +1334,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/light_armor_plate": {
+    "criteria": {
+      "has_iron": "2024-12-28 21:54:08 +0000"
     },
     "done": true
   },
@@ -2512,6 +2542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-28 21:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 23:13:04 +0000"
@@ -2563,6 +2599,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_bow": "2024-12-27 22:53:00 +0000"
+    },
+    "done": true
+  },
+  "tac:recipes/tac/workbench": {
+    "criteria": {
+      "has_iron": "2024-12-28 21:54:08 +0000"
     },
     "done": true
   },
@@ -3043,6 +3085,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-10 04:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-28 21:54:08 +0000"
     },
     "done": true
   },

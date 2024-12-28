@@ -762,3 +762,43 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 21:55:30.740] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=232}
 [28Dec2024 21:55:30.780] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=232}
 [28Dec2024 21:55:31.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
+[28Dec2024 21:55:56.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding.player
+[28Dec2024 21:55:57.925] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:56:10.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
+[28Dec2024 21:56:11.638] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:56:18.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Night Hunter
+[28Dec2024 21:56:19.842] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:56:47.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Chainsaw
+[28Dec2024 21:56:48.793] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:57:03.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:57:27.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Eduardo171
+[28Dec2024 21:57:29.645] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:57:29.679] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Pickaxe'/39852, l='ServerLevel[world]', x=759.88, y=69.00, z=-756.59]
+[28Dec2024 21:57:35.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ya perdon
+[28Dec2024 21:57:41.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> suficiente pelea
+[28Dec2024 21:59:33.649] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5129bca5
+[28Dec2024 21:59:33.660] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/0:0:0:0:0:0:0:1%0:56540] logged in with entity id 40406 at (755.3000000119209, 69.0, -750.3000000119209)
+[28Dec2024 21:59:33.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[28Dec2024 21:59:33.673] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:59:40.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Infected
+[28Dec2024 21:59:41.820] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:59:41.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:59:48.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ora
+[28Dec2024 21:59:48.774] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Timed out
+[28Dec2024 21:59:48.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[28Dec2024 21:59:48.827] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[28Dec2024 21:59:55.883] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@9a5b91
+[28Dec2024 21:59:55.895] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/0:0:0:0:0:0:0:1%0:47292] logged in with entity id 40683 at (755.3000000119209, 69.0, -750.3000000119209)
+[28Dec2024 21:59:55.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[28Dec2024 21:59:55.903] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:00:10.970] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Disconnected
+[28Dec2024 22:00:10.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[28Dec2024 22:00:11.036] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[28Dec2024 22:00:27.929] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5bf01026
+[28Dec2024 22:00:27.938] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/0:0:0:0:0:0:0:1%0:35308] logged in with entity id 40846 at (755.3000000119209, 69.0, -750.3000000119209)
+[28Dec2024 22:00:27.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[28Dec2024 22:00:27.941] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:02:27.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 22:02:33.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 22:03:41.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 22:05:44.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
