@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 21:03:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 04:12:26 +0000"
@@ -500,6 +506,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-27 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-28 21:03:35 +0000"
     },
     "done": true
   },
@@ -1260,6 +1272,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-12-28 21:03:17 +0000",
       "minecraft:forest": "2024-12-10 04:03:36 +0000",
       "minecraft:taiga": "2024-12-10 03:59:20 +0000",
       "minecraft:beach": "2024-12-10 03:56:42 +0000",
@@ -1446,6 +1459,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2024-12-28 01:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 21:03:35 +0000"
     },
     "done": true
   },
