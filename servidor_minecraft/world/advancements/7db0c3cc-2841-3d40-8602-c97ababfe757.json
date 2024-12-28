@@ -1274,10 +1274,13 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-12-28 21:03:17 +0000",
       "minecraft:forest": "2024-12-10 04:03:36 +0000",
+      "minecraft:mountains": "2024-12-28 21:04:26 +0000",
       "minecraft:taiga": "2024-12-10 03:59:20 +0000",
       "minecraft:beach": "2024-12-10 03:56:42 +0000",
       "minecraft:river": "2024-12-10 04:05:04 +0000",
+      "minecraft:wooded_mountains": "2024-12-28 21:06:04 +0000",
       "minecraft:wooded_hills": "2024-12-10 04:11:05 +0000",
+      "minecraft:stone_shore": "2024-12-28 21:04:27 +0000",
       "minecraft:plains": "2024-12-10 03:56:15 +0000"
     },
     "done": false

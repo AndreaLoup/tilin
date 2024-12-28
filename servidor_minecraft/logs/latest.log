@@ -652,3 +652,5 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 20:54:18.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
 [28Dec2024 21:02:21.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Assasin Black Ops
 [28Dec2024 21:02:24.226] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:11:57.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Cave Spider
+[28Dec2024 21:13:49.200] [Server thread/INFO] [tac/]: PENDING
