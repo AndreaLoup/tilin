@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2024-12-28 23:21:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 00:59:46 +0000"
@@ -1012,6 +1018,7 @@
       "minecraft:forest": "2024-12-27 23:28:54 +0000",
       "minecraft:taiga": "2024-12-10 05:42:51 +0000",
       "minecraft:river": "2024-12-27 23:29:26 +0000",
+      "minecraft:wooded_hills": "2024-12-28 23:21:10 +0000",
       "minecraft:plains": "2024-12-10 04:21:13 +0000"
     },
     "done": false
