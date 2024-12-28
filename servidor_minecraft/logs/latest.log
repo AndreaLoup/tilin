@@ -673,3 +673,23 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [28Dec2024 21:33:26.336] [Server thread/INFO] [tac/]: PENDING
 [28Dec2024 21:33:52.827] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
 [28Dec2024 21:34:57.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:38:02.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:38:32.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:39:05.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:39:12.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5455fa9
+[28Dec2024 21:39:12.959] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Emily_OvO[/0:0:0:0:0:0:0:1%0:59062] logged in with entity id 33086 at (757.583328097933, 69.0, -760.107168619134)
+[28Dec2024 21:39:12.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO joined the game
+[28Dec2024 21:39:12.968] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:39:24.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:39:31.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:39:37.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Cave Spider
+[28Dec2024 21:39:39.373] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:40:15.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:40:30.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:41:54.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Cave Spider
+[28Dec2024 21:41:57.741] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 21:43:27.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:43:52.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:43:57.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 21:44:43.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 21:44:54.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
