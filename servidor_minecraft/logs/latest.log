@@ -1091,3 +1091,5 @@ java.lang.NullPointerException: null
 [28Dec2024 23:39:37.523] [Server thread/INFO] [tac/]: PENDING
 [28Dec2024 23:45:05.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
 [28Dec2024 23:45:06.974] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 23:49:56.815] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Emily_OvO lost connection: Timed out
+[28Dec2024 23:49:56.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO left the game
