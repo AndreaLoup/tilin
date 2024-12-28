@@ -919,3 +919,42 @@ java.lang.NullPointerException: null
 [28Dec2024 22:44:03.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
 [28Dec2024 22:44:39.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
 [28Dec2024 22:46:50.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> YO Q
+[28Dec2024 22:47:31.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> q
+[28Dec2024 22:47:52.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> si, se llama electric katana
+[28Dec2024 22:48:17.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
+[28Dec2024 22:48:17.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
+[28Dec2024 22:48:17.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
+[28Dec2024 22:48:17.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
+[28Dec2024 22:48:17.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
+[28Dec2024 22:48:50.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was eliminated by rexsel
+[28Dec2024 22:48:53.543] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:48:55.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 22:49:33.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to rexsel]
+[28Dec2024 22:49:54.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to rexsel]
+[28Dec2024 22:50:07.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to rexsel]
+[28Dec2024 22:50:18.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 22:50:21.886] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
+[28Dec2024 22:50:24.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 22:52:31.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by tiliaso_01
+[28Dec2024 22:52:32.772] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:53:04.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no me acuerdo
+[28Dec2024 22:53:12.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was annihilated by elikernomamahuev
+[28Dec2024 22:53:13.520] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:54:19.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was eliminated by elikernomamahuev
+[28Dec2024 22:54:20.470] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:54:35.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was decimated by rexsel
+[28Dec2024 22:54:36.849] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:54:44.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tp w,
+[28Dec2024 22:54:45.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[28Dec2024 22:54:47.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no
+[28Dec2024 22:54:52.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[28Dec2024 22:54:55.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a
+[28Dec2024 22:55:00.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[28Dec2024 22:55:24.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Dec2024 22:55:32.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Dec2024 22:55:32.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was eliminated by Eduardo171
+[28Dec2024 22:55:35.425] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:55:49.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was eliminated by Eduardo171
+[28Dec2024 22:55:50.643] [Server thread/INFO] [tac/]: PENDING
+[28Dec2024 22:56:48.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> como le puedo poner una mira a mi arma?
+[28Dec2024 22:56:55.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> gracias

@@ -714,8 +714,10 @@
       "minecraft:creeper": "2024-12-10 05:32:01 +0000",
       "minecraft:phantom": "2024-12-27 22:44:22 +0000",
       "minecraft:witch": "2024-12-27 20:53:59 +0000",
+      "minecraft:wither_skeleton": "2024-12-28 22:46:19 +0000",
       "minecraft:cave_spider": "2024-12-28 20:29:25 +0000",
-      "minecraft:zombie": "2024-12-10 00:49:52 +0000"
+      "minecraft:zombie": "2024-12-10 00:49:52 +0000",
+      "minecraft:zombie_villager": "2024-12-28 22:47:09 +0000"
     },
     "done": false
   },
@@ -2583,6 +2585,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-28 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-28 22:47:56 +0000"
     },
     "done": true
   },
