@@ -743,3 +743,6 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [07Jan2025 04:56:37.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [The Twelve Labors of Hercules]
 [07Jan2025 04:59:00.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Barakoa
 [07Jan2025 04:59:02.461] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 05:03:46.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[07Jan2025 05:05:25.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[07Jan2025 05:05:36.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
