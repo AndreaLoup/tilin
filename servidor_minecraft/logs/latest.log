@@ -732,3 +732,14 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [07Jan2025 04:52:38.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
 [07Jan2025 04:52:38.841] [Server thread/INFO] [tac/]: PENDING
 [07Jan2025 04:52:44.881] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:55:45.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Hydra
+[07Jan2025 04:55:47.238] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:56:24.143] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7ee19bd6
+[07Jan2025 04:56:24.158] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rexsel[/127.55.205.9:40889] logged in with entity id 7230 at (898.9865374978881, 96.07438670306463, -583.4639288730742)
+[07Jan2025 04:56:24.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
+[07Jan2025 04:56:24.171] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:56:29.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Hydra
+[07Jan2025 04:56:31.321] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:56:37.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [The Twelve Labors of Hercules]
+[07Jan2025 04:59:00.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Barakoa
+[07Jan2025 04:59:02.461] [Server thread/INFO] [tac/]: PENDING
