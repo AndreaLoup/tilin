@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-07 05:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-27 20:53:37 +0000"
@@ -776,6 +782,7 @@
       "minecraft:wither_skeleton": "2025-01-07 03:00:17 +0000",
       "minecraft:cave_spider": "2024-12-28 21:41:04 +0000",
       "minecraft:enderman": "2024-12-27 23:37:52 +0000",
+      "minecraft:vex": "2025-01-07 05:28:04 +0000",
       "minecraft:zombie": "2024-12-10 04:18:16 +0000"
     },
     "done": false
@@ -969,6 +976,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 23:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-07 05:26:51 +0000"
     },
     "done": true
   },
@@ -1736,6 +1749,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-27 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-07 05:26:08 +0000"
     },
     "done": true
   },
@@ -2737,6 +2756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-07 05:26:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:09:01 +0000"
@@ -2788,6 +2813,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-27 23:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-07 05:26:51 +0000"
     },
     "done": true
   },
@@ -3613,6 +3644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-07 05:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-10 04:03:59 +0000"
@@ -3708,6 +3745,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-07 05:30:39 +0000"
     },
     "done": true
   },
