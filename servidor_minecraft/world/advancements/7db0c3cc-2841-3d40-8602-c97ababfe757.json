@@ -936,6 +936,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2025-01-07 04:48:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:08:20 +0000"
@@ -2902,6 +2908,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/warhammer_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-07 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2025-01-07 04:48:53 +0000"
     },
     "done": true
   },

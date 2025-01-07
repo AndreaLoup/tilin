@@ -660,3 +660,75 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [07Jan2025 04:41:34.922] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:58607] logged in with entity id 3021 at (957.8225957821224, 68.0, -1143.4766736241668)
 [07Jan2025 04:41:34.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
 [07Jan2025 04:41:34.942] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:43:02.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[07Jan2025 04:44:49.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Phantom Creeper
+[07Jan2025 04:44:51.923] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:44:57.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[07Jan2025 04:45:01.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[07Jan2025 04:45:02.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Phantom Creeper
+[07Jan2025 04:45:04.717] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:45:08.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[07Jan2025 04:45:12.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Phantom Creeper
+[07Jan2025 04:45:14.908] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:45:22.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[07Jan2025 04:45:24.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Phantom Creeper
+[07Jan2025 04:45:26.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[07Jan2025 04:45:27.529] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:45:29.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[07Jan2025 04:46:23.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by rexsel
+[07Jan2025 04:46:25.703] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:46:28.038] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:46:29.502] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/4838, l='ServerLevel[world]', x=902.03, y=92.00, z=-584.13]
+[07Jan2025 04:46:29.503] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/4838, l='ServerLevel[world]', x=902.03, y=92.00, z=-584.13]
+[07Jan2025 04:46:29.504] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/4839, l='ServerLevel[world]', x=902.03, y=92.00, z=-584.13]
+[07Jan2025 04:46:29.504] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/4839, l='ServerLevel[world]', x=902.03, y=92.00, z=-584.13]
+[07Jan2025 04:46:29.505] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/4836, l='ServerLevel[world]', x=902.03, y=92.00, z=-584.13]
+[07Jan2025 04:46:29.506] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/4836, l='ServerLevel[world]', x=902.03, y=92.00, z=-584.13]
+[07Jan2025 04:46:29.506] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/4837, l='ServerLevel[world]', x=902.03, y=92.00, z=-584.13]
+[07Jan2025 04:46:29.507] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/4837, l='ServerLevel[world]', x=902.03, y=92.00, z=-584.13]
+[07Jan2025 04:46:37.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/4961, l='ServerLevel[world]', x=898.66, y=92.00, z=-577.72]
+[07Jan2025 04:46:37.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/4961, l='ServerLevel[world]', x=898.66, y=92.00, z=-577.72]
+[07Jan2025 04:46:37.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/4962, l='ServerLevel[world]', x=898.66, y=92.00, z=-577.72]
+[07Jan2025 04:46:37.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/4962, l='ServerLevel[world]', x=898.66, y=92.00, z=-577.72]
+[07Jan2025 04:46:37.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/4960, l='ServerLevel[world]', x=898.66, y=92.00, z=-577.72]
+[07Jan2025 04:46:37.458] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/4960, l='ServerLevel[world]', x=898.66, y=92.00, z=-577.72]
+[07Jan2025 04:46:51.221] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5553, l='ServerLevel[world]', x=908.64, y=92.00, z=-569.69]
+[07Jan2025 04:46:51.221] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5553, l='ServerLevel[world]', x=908.64, y=92.00, z=-569.69]
+[07Jan2025 04:46:51.222] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5554, l='ServerLevel[world]', x=908.64, y=92.00, z=-569.69]
+[07Jan2025 04:46:51.222] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5554, l='ServerLevel[world]', x=908.64, y=92.00, z=-569.69]
+[07Jan2025 04:46:51.222] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/5552, l='ServerLevel[world]', x=908.64, y=92.00, z=-569.69]
+[07Jan2025 04:46:51.223] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/5552, l='ServerLevel[world]', x=908.64, y=92.00, z=-569.69]
+[07Jan2025 04:46:56.669] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5652, l='ServerLevel[world]', x=896.47, y=92.00, z=-578.99]
+[07Jan2025 04:46:56.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5652, l='ServerLevel[world]', x=896.47, y=92.00, z=-578.99]
+[07Jan2025 04:46:56.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5653, l='ServerLevel[world]', x=896.47, y=92.00, z=-578.99]
+[07Jan2025 04:46:56.671] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5653, l='ServerLevel[world]', x=896.47, y=92.00, z=-578.99]
+[07Jan2025 04:46:56.671] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/5651, l='ServerLevel[world]', x=896.47, y=92.00, z=-578.99]
+[07Jan2025 04:46:56.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/5651, l='ServerLevel[world]', x=896.47, y=92.00, z=-578.99]
+[07Jan2025 04:46:59.420] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5695, l='ServerLevel[world]', x=908.43, y=92.00, z=-572.57]
+[07Jan2025 04:46:59.421] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5695, l='ServerLevel[world]', x=908.43, y=92.00, z=-572.57]
+[07Jan2025 04:46:59.421] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5696, l='ServerLevel[world]', x=908.43, y=92.00, z=-572.57]
+[07Jan2025 04:46:59.421] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/5696, l='ServerLevel[world]', x=908.43, y=92.00, z=-572.57]
+[07Jan2025 04:46:59.422] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/5694, l='ServerLevel[world]', x=908.43, y=92.00, z=-572.57]
+[07Jan2025 04:46:59.422] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gunpowder'/5694, l='ServerLevel[world]', x=908.43, y=92.00, z=-572.57]
+[07Jan2025 04:48:28.242] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:48:47.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Barako, the Sun Chief
+[07Jan2025 04:48:48.830] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:48:53.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Undercover]
+[07Jan2025 04:48:55.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has completed the challenge [Usurper]
+[07Jan2025 04:49:11.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[07Jan2025 04:49:27.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Foliaath
+[07Jan2025 04:49:29.291] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:50:28.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Ferrous Wroughtnaut
+[07Jan2025 04:50:30.323] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:50:50.517] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:50:57.201] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:51:38.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Hydra
+[07Jan2025 04:51:44.316] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Disconnected
+[07Jan2025 04:51:44.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
+[07Jan2025 04:52:18.067] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Disconnected
+[07Jan2025 04:52:18.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
+[07Jan2025 04:52:38.800] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@ccabfe6
+[07Jan2025 04:52:38.819] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:44725] logged in with entity id 6552 at (896.3000000119209, 92.0, -583.0038762055524)
+[07Jan2025 04:52:38.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
+[07Jan2025 04:52:38.841] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:52:44.881] [Server thread/INFO] [tac/]: PENDING
