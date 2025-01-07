@@ -1,70 +1,50 @@
-[28Dec2024 19:32:57.241] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[28Dec2024 19:32:57.245] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[28Dec2024 19:32:58.211] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[28Dec2024 19:32:58.964] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/tilin/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[28Dec2024 19:33:02.049] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Dec2024 19:33:02.257] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Dec2024 19:33:02.273] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Dec2024 19:33:05.744] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[28Dec2024 19:33:24.889] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Dec2024 19:33:24.892] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Dec2024 19:33:24.893] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Dec2024 19:33:24.898] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Dec2024 19:33:27.169] [modloading-worker-1/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[28Dec2024 19:33:27.185] [modloading-worker-1/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
-[28Dec2024 19:33:27.663] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[28Dec2024 19:33:27.663] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[28Dec2024 19:33:30.958] [main/INFO] [Spartan Weaponry/]: Registering items...
-[28Dec2024 19:33:30.973] [main/INFO] [Spartan Weaponry/]: Items Registered!
-[28Dec2024 19:33:32.145] [main/INFO] [Spartan Weaponry/]: Registering Entities
-[28Dec2024 19:33:33.680] [modloading-worker-1/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[28Dec2024 19:33:33.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
-[28Dec2024 19:33:34.590] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
-	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2016) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2011) ~[?:?]
-	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2010) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1572) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1556) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:163) ~[forge:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1960) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1556) ~[?:?]
-	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
-	... 3 more
-[28Dec2024 19:33:34.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
-[28Dec2024 19:33:34.670] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[07Jan2025 04:32:24.260] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[07Jan2025 04:32:24.269] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[07Jan2025 04:32:25.302] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[07Jan2025 04:32:25.486] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/tilin/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[07Jan2025 04:32:26.716] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jan2025 04:32:26.841] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jan2025 04:32:26.851] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[07Jan2025 04:32:29.025] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[07Jan2025 04:32:42.109] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jan2025 04:32:42.117] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jan2025 04:32:42.117] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jan2025 04:32:42.118] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[07Jan2025 04:32:43.558] [modloading-worker-1/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[07Jan2025 04:32:43.559] [modloading-worker-1/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[07Jan2025 04:32:44.007] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[07Jan2025 04:32:44.007] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[07Jan2025 04:32:48.637] [main/INFO] [Spartan Weaponry/]: Registering items...
+[07Jan2025 04:32:48.641] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[07Jan2025 04:32:49.265] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[07Jan2025 04:32:50.111] [modloading-worker-1/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
+[07Jan2025 04:32:50.112] [modloading-worker-1/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[07Jan2025 04:32:50.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[07Jan2025 04:32:51.517] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Found status: BETA Current: 0.6.3 Target: 0.6.3
+[07Jan2025 04:32:51.517] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
+[07Jan2025 04:32:51.584] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[28Dec2024 19:33:34.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Dec2024 19:33:34.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[28Dec2024 19:33:43.954] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Dec2024 19:33:46.178] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Dec2024 19:33:46.180] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Dec2024 19:33:46.181] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Dec2024 19:33:46.183] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Dec2024 19:33:46.187] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Dec2024 19:33:46.192] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Zombie Extreme 1.16.5 0.2.4 UNSTABLE VERSION (1).jar, mowziesmobs-1.5.27.jar, obfuscate-0.6.3-1.16.5 (3).jar, tac-release-0.3.14.2-1.16.5 (3).jar, marbledsarsenal-1.16.5-2.1.1.jar, geckolib-forge-1.16.5-3.0.104.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, sophisticatedbackpacks-1.16.5-3.15.16.669.jar, SpartanWeaponry-1.16.5-2.2.2.jar, FallingTree-1.16.5-2.11.7.jar, torohealth-1.16.4-forge-4.jar
-[28Dec2024 19:33:52.607] [Worker-Main-2/INFO] [tac/]: YO_DATA_GUN
-[28Dec2024 19:33:52.946] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/legendary as it is missing following references: tac:legendary_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[28Dec2024 19:33:52.949] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:old_rifle as it is missing following references: tac:kar98 (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[28Dec2024 19:33:52.949] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:module_item as it is missing following references: tac:module_item (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[28Dec2024 19:33:52.949] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/ultimate as it is missing following references: tac:ultimate_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[28Dec2024 19:33:53.143] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor_plate
+[07Jan2025 04:32:51.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Jan2025 04:32:51.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[07Jan2025 04:32:51.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[07Jan2025 04:32:51.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12 Target: null
+[07Jan2025 04:32:58.404] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Jan2025 04:32:59.409] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07Jan2025 04:32:59.420] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Jan2025 04:32:59.426] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Jan2025 04:32:59.437] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07Jan2025 04:32:59.438] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Jan2025 04:32:59.444] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Zombie Extreme 1.16.5 0.2.4 UNSTABLE VERSION (1).jar, mowziesmobs-1.5.27.jar, obfuscate-0.6.3-1.16.5 (3).jar, tac-release-0.3.14.2-1.16.5 (3).jar, marbledsarsenal-1.16.5-2.1.1.jar, geckolib-forge-1.16.5-3.0.104.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, sophisticatedbackpacks-1.16.5-3.15.16.669.jar, SpartanWeaponry-1.16.5-2.2.2.jar, FallingTree-1.16.5-2.11.7.jar, torohealth-1.16.4-forge-4.jar, jei-1.16.5-7.8.0.1011.jar, born_in_chaos_1.16_1.3.jar, [1.16.5] SecurityCraft v1.9.12.jar, worldedit-mod-7.2.5-dist (1).jar
+[07Jan2025 04:33:03.588] [Worker-Main-2/INFO] [tac/]: YO_DATA_GUN
+[07Jan2025 04:33:03.829] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/legendary as it is missing following references: tac:legendary_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[07Jan2025 04:33:03.830] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:old_rifle as it is missing following references: tac:kar98 (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[07Jan2025 04:33:03.830] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:module_item as it is missing following references: tac:module_item (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[07Jan2025 04:33:03.830] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/ultimate as it is missing following references: tac:ultimate_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[07Jan2025 04:33:03.912] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor_plate
 com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -110,7 +90,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.156] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:medium_steel_armor
+[07Jan2025 04:33:03.914] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:medium_steel_armor
 com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -156,7 +136,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.222] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:rare_material
+[07Jan2025 04:33:03.938] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:rare_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -198,7 +178,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.266] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:legendary_material
+[07Jan2025 04:33:03.967] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:legendary_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -240,7 +220,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.290] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor
+[07Jan2025 04:33:03.986] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor
 com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -286,7 +266,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.307] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:ultimate_material
+[07Jan2025 04:33:04.008] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:ultimate_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -328,7 +308,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.394] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:module_item
+[07Jan2025 04:33:04.056] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:module_item
 com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -374,7 +354,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.401] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:steel_sheet_pressing
+[07Jan2025 04:33:04.081] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:steel_sheet_pressing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
 	at net.minecraft.item.crafting.RecipeManager.func_241449_a_(RecipeManager.java:140) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -417,7 +397,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.406] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:epic_material
+[07Jan2025 04:33:04.092] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:epic_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -459,7 +439,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.552] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:hardened_steel_sheet_pressing
+[07Jan2025 04:33:04.110] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:hardened_steel_sheet_pressing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
 	at net.minecraft.item.crafting.RecipeManager.func_241449_a_(RecipeManager.java:140) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -502,7 +482,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.576] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:uncommon_material
+[07Jan2025 04:33:04.137] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:uncommon_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -544,552 +524,139 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Dec2024 19:33:53.594] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
-[28Dec2024 19:33:54.575] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[28Dec2024 19:33:55.491] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[28Dec2024 19:33:55.612] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[28Dec2024 19:33:56.451] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1479 advancements
-[28Dec2024 19:34:00.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[28Dec2024 19:34:00.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Dec2024 19:34:00.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Dec2024 19:34:00.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Dec2024 19:34:00.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Dec2024 19:34:00.761] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[28Dec2024 19:34:00.942] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Dec2024 19:34:00.942] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Dec2024 19:34:00.943] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Dec2024 19:34:00.943] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Dec2024 19:34:01.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Dec2024 19:34:01.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Dec2024 19:34:02.942] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Dec2024 19:34:02.943] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Dec2024 19:34:02.943] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Dec2024 19:34:02.944] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Dec2024 19:34:03.323] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
-[28Dec2024 19:34:03.872] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 69%
-[28Dec2024 19:34:04.125] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2811 ms
-[28Dec2024 19:34:04.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.160s)! For help, type "help"
-[28Dec2024 19:34:04.648] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
-[28Dec2024 19:34:04.652] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[28Dec2024 19:34:04.660] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[28Dec2024 19:35:54.419] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2469e45d
-[28Dec2024 19:35:54.458] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/0:0:0:0:0:0:0:1%0:57410] logged in with entity id 47 at (756.5585386282188, 80.5, -788.0205535557855)
-[28Dec2024 19:35:54.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
-[28Dec2024 19:35:54.507] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 19:36:25.494] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@419332f4
-[28Dec2024 19:36:25.508] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rexsel[/0:0:0:0:0:0:0:1%0:60036] logged in with entity id 215 at (213.38511394549198, 70.75090562003437, 251.1249763912541)
-[28Dec2024 19:36:25.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
-[28Dec2024 19:36:25.550] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 19:50:01.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> hola pe
-[28Dec2024 19:50:05.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> hola
-[28Dec2024 19:50:11.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> q mas mi uwu
-[28Dec2024 19:50:26.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
-[28Dec2024 19:51:31.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ando farmeando madera
-[28Dec2024 19:51:31.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 19:51:59.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> quieres madera?
-[28Dec2024 19:52:02.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> sis :3
-[28Dec2024 19:52:09.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> ty ;3
-[28Dec2024 19:52:12.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> la madre
-[28Dec2024 19:52:56.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ya me gaste dos hachas de diamante en madera
-[28Dec2024 19:53:00.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> :v
-[28Dec2024 19:53:26.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> guarda la madera
-[28Dec2024 19:54:30.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> no puedo esperar para hacer la puta granja de creepers
-[28Dec2024 19:54:36.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> xDD
-[28Dec2024 19:56:01.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> esto va a tardar mucho
-[28Dec2024 19:57:27.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> tienes cobblestone?
-[28Dec2024 19:57:30.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> necesito
-[28Dec2024 19:57:40.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> justo iva a por mas
-[28Dec2024 19:57:47.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> gracias
-[28Dec2024 19:59:06.820] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 19:59:47.498] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 20:01:40.742] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 20:07:33.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ESTO ESTA TARDANDO DEMASIADO
-[28Dec2024 20:07:40.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> por?
-[28Dec2024 20:07:43.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ODIO ESTO
-[28Dec2024 20:07:45.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> q haces?
-[28Dec2024 20:07:50.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> TENGO QUE HACER PIEDRA LISA
-[28Dec2024 20:07:54.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> a xD
-[28Dec2024 20:08:01.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> LADRILLOS DE PIDRA Y UN CHINGO DE COSAS MAS
-[28Dec2024 20:08:21.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> MIRA LOS PUTOS HORNOS
-[28Dec2024 20:08:36.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> :v pa q tanto?
-[28Dec2024 20:08:45.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> PARA LA GRANJA DE POLVORA
-[28Dec2024 20:08:50.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> ah xD
-[28Dec2024 20:10:38.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Enchanter]
-[28Dec2024 20:11:14.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> wa quitar el keep
-[28Dec2024 20:11:46.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: false]
-[28Dec2024 20:11:59.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> Me quiero matar
-[28Dec2024 20:17:17.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> oye rexsel
-[28Dec2024 20:17:20.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> ?
-[28Dec2024 20:17:25.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> hice losas de mas, las quieres?
-[28Dec2024 20:17:30.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> sis
-[28Dec2024 20:18:19.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> gracias :D
-[28Dec2024 20:22:37.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ocupo magma :((((((((((
-[28Dec2024 20:22:45.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> xD al nether tons
-[28Dec2024 20:22:52.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> no tengo obsidiana
-[28Dec2024 20:22:59.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> yo tengo toma
-[28Dec2024 20:23:09.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> rexsel
-[28Dec2024 20:23:12.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> ?
-[28Dec2024 20:23:22.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> porque no configuras una tecla para abrir directamente la mochila?
-[28Dec2024 20:23:31.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> deja veo
-[28Dec2024 20:25:42.484] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 20:26:00.158] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 20:26:45.066] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 20:26:45.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [We Need to Go Deeper]
-[28Dec2024 20:26:45.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
-[28Dec2024 20:28:48.238] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=101, y=111, z=-102} BlockPos{x=95, y=116, z=-74}
-[28Dec2024 20:29:31.673] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 20:30:11.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: The difficulty has been set to Hard]
-[28Dec2024 20:32:01.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: true]
-[28Dec2024 20:38:29.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 blew up
-[28Dec2024 20:38:31.673] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 20:38:40.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[28Dec2024 20:47:00.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Infected Hazmat
-[28Dec2024 20:47:02.359] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 20:47:15.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[28Dec2024 20:51:56.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Chainsaw
-[28Dec2024 20:51:58.376] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 20:53:44.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 20:54:18.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:02:21.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Assasin Black Ops
-[28Dec2024 21:02:24.226] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:11:57.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Cave Spider
-[28Dec2024 21:13:49.200] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:16:56.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Chainsaw
-[28Dec2024 21:16:58.581] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:19:02.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Assasin Black Ops
-[28Dec2024 21:19:04.109] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:20:46.298] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:21:01.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Fetus
-[28Dec2024 21:21:03.594] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:24:26.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Cave Spider
-[28Dec2024 21:24:28.087] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:25:56.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Cave Spider
-[28Dec2024 21:25:58.191] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:26:35.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:28:48.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:29:11.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
-[28Dec2024 21:29:13.638] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:33:24.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Infected Police
-[28Dec2024 21:33:26.336] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:33:52.827] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 21:34:57.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:38:02.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:38:32.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:39:05.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:39:12.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5455fa9
-[28Dec2024 21:39:12.959] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Emily_OvO[/0:0:0:0:0:0:0:1%0:59062] logged in with entity id 33086 at (757.583328097933, 69.0, -760.107168619134)
-[28Dec2024 21:39:12.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO joined the game
-[28Dec2024 21:39:12.968] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:39:24.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:39:31.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:39:37.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Cave Spider
-[28Dec2024 21:39:39.373] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:40:15.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:40:30.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:41:54.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Cave Spider
-[28Dec2024 21:41:57.741] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:43:27.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:43:52.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:43:57.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:44:43.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:44:54.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:45:54.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:47:34.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:48:29.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Infected Police
-[28Dec2024 21:48:31.490] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:48:36.581] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@60c57357
-[28Dec2024 21:48:36.592] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tiliaso_01[/0:0:0:0:0:0:0:1%0:52800] logged in with entity id 35598 at (200.10071383191166, 67.0, 268.6528324305996)
-[28Dec2024 21:48:36.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 joined the game
-[28Dec2024 21:48:36.599] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:48:50.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> como te moriste emily?
-[28Dec2024 21:49:04.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> q entro un zombie policia arriba
-[28Dec2024 21:49:15.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:49:26.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:50:09.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
-[28Dec2024 21:50:11.137] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:50:29.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
-[28Dec2024 21:50:31.047] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:50:47.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> emily, dame comida porfa
-[28Dec2024 21:50:57.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
-[28Dec2024 21:51:01.407] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:51:07.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> olvidalo
-[28Dec2024 21:51:07.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> donde estas
-[28Dec2024 21:51:10.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ya nada
-[28Dec2024 21:51:11.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> a
-[28Dec2024 21:51:28.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
-[28Dec2024 21:51:30.087] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:52:37.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:52:44.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 21:53:01.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: false]
-[28Dec2024 21:54:10.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Infected Hazmat
-[28Dec2024 21:54:11.592] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:54:23.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:54:34.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Military
-[28Dec2024 21:54:36.423] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:55:22.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
-[28Dec2024 21:55:23.627] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:55:26.432] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=234}
-[28Dec2024 21:55:26.481] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=234}
-[28Dec2024 21:55:26.641] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=234}
-[28Dec2024 21:55:26.683] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=235}
-[28Dec2024 21:55:26.738] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=235}
-[28Dec2024 21:55:26.888] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=235}
-[28Dec2024 21:55:27.031] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=236}
-[28Dec2024 21:55:27.136] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=236}
-[28Dec2024 21:55:27.194] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=237}
-[28Dec2024 21:55:27.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:55:27.285] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=237}
-[28Dec2024 21:55:27.333] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=237}
-[28Dec2024 21:55:27.436] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=102, y=67, z=238}
-[28Dec2024 21:55:27.588] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=102, y=67, z=238}
-[28Dec2024 21:55:27.687] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=67, z=239}
-[28Dec2024 21:55:27.736] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=67, z=239}
-[28Dec2024 21:55:27.836] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=67, z=239}
-[28Dec2024 21:55:27.883] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=67, z=239}
-[28Dec2024 21:55:27.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=99, y=66, z=239}
-[28Dec2024 21:55:28.132] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=98, y=66, z=238}
-[28Dec2024 21:55:28.888] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=96, y=66, z=236}
-[28Dec2024 21:55:29.180] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=97, y=66, z=234}
-[28Dec2024 21:55:29.383] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=97, y=66, z=234}
-[28Dec2024 21:55:29.433] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=97, y=65, z=232}
-[28Dec2024 21:55:29.727] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=98, y=66, z=232}
-[28Dec2024 21:55:29.884] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=99, y=66, z=232}
-[28Dec2024 21:55:30.180] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=101, y=66, z=231}
-[28Dec2024 21:55:30.285] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=102, y=66, z=231}
-[28Dec2024 21:55:30.343] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=66, z=231}
-[28Dec2024 21:55:30.486] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=103, y=67, z=232}
-[28Dec2024 21:55:30.636] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=232}
-[28Dec2024 21:55:30.740] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=104, y=67, z=232}
-[28Dec2024 21:55:30.780] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=105, y=67, z=232}
-[28Dec2024 21:55:31.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 21:55:56.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding.player
-[28Dec2024 21:55:57.925] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:56:10.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
-[28Dec2024 21:56:11.638] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:56:18.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Night Hunter
-[28Dec2024 21:56:19.842] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:56:47.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Chainsaw
-[28Dec2024 21:56:48.793] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:57:03.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 21:57:27.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Eduardo171
-[28Dec2024 21:57:29.645] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:57:29.679] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Pickaxe'/39852, l='ServerLevel[world]', x=759.88, y=69.00, z=-756.59]
-[28Dec2024 21:57:35.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ya perdon
-[28Dec2024 21:57:41.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> suficiente pelea
-[28Dec2024 21:59:33.649] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5129bca5
-[28Dec2024 21:59:33.660] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/0:0:0:0:0:0:0:1%0:56540] logged in with entity id 40406 at (755.3000000119209, 69.0, -750.3000000119209)
-[28Dec2024 21:59:33.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
-[28Dec2024 21:59:33.673] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:59:40.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Infected
-[28Dec2024 21:59:41.820] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 21:59:41.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 21:59:48.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ora
-[28Dec2024 21:59:48.774] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Timed out
-[28Dec2024 21:59:48.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
-[28Dec2024 21:59:48.827] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[28Dec2024 21:59:55.883] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@9a5b91
-[28Dec2024 21:59:55.895] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/0:0:0:0:0:0:0:1%0:47292] logged in with entity id 40683 at (755.3000000119209, 69.0, -750.3000000119209)
-[28Dec2024 21:59:55.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
-[28Dec2024 21:59:55.903] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:00:10.970] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Disconnected
-[28Dec2024 22:00:10.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
-[28Dec2024 22:00:11.036] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[28Dec2024 22:00:27.929] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5bf01026
-[28Dec2024 22:00:27.938] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/0:0:0:0:0:0:0:1%0:35308] logged in with entity id 40846 at (755.3000000119209, 69.0, -750.3000000119209)
-[28Dec2024 22:00:27.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
-[28Dec2024 22:00:27.941] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:02:27.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:02:33.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:03:41.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:05:44.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:06:22.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was blown up by Skeleton
-[28Dec2024 22:06:24.211] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:06:50.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:07:43.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:08:36.854] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 4e2dcaaf-bfb0-4b47-a7c0-90f3fb8ab4e4. Existing iceandfire:fire_dragon#45777, new: iceandfire:fire_dragon#45871
-[28Dec2024 22:08:46.829] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev moved too quickly! -3.6471974864898584,-2.07520089011895,-9.235590827815713
-[28Dec2024 22:10:26.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Sweet Dreams]
-[28Dec2024 22:12:35.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:13:45.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Infected Military
-[28Dec2024 22:13:46.771] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:15:05.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Emily_OvO]
-[28Dec2024 22:17:13.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> quien esta en la base?
-[28Dec2024 22:17:25.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> yo
-[28Dec2024 22:17:39.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> Emily, tienes lava?
-[28Dec2024 22:17:39.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> rexsel porfas haz tp a con la emily
-[28Dec2024 22:17:40.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
-[28Dec2024 22:17:49.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [A Cut Above the Rest]
-[28Dec2024 22:17:50.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> si no tienes te mato
-[28Dec2024 22:17:59.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> pues no tengo
-[28Dec2024 22:18:02.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was eliminated by Eduardo171
-[28Dec2024 22:18:03.361] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:18:44.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to Eduardo171]
-[28Dec2024 22:18:56.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue
-[28Dec2024 22:18:56.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> emily
-[28Dec2024 22:18:57.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> toma
-[28Dec2024 22:19:04.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> una pistola
-[28Dec2024 22:19:08.298] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 22:19:35.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Emily_OvO> gracias
-[28Dec2024 22:22:32.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [Hot Stuff]
-[28Dec2024 22:23:15.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:23:39.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to Eduardo171]
-[28Dec2024 22:23:53.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
-[28Dec2024 22:24:32.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was eliminated by rexsel
-[28Dec2024 22:24:33.726] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:24:43.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 22:24:47.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[28Dec2024 22:26:34.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ando moviendo w
-[28Dec2024 22:27:03.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue
-[28Dec2024 22:28:45.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Eduardo171]
-[28Dec2024 22:28:55.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 has made the advancement [Hot Stuff]
-[28Dec2024 22:29:32.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> rexsel esta en keep inv?
-[28Dec2024 22:29:41.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue
-[28Dec2024 22:29:57.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was annihilated by tiliaso_01
-[28Dec2024 22:29:59.476] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:30:05.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
-[28Dec2024 22:30:32.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 22:31:55.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Night Hunter
-[28Dec2024 22:31:56.692] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:32:02.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 22:32:24.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was shot by Skeleton
-[28Dec2024 22:32:25.748] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:32:47.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
-[28Dec2024 22:32:49.251] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:33:25.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 22:33:26.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by tiliaso_01
-[28Dec2024 22:33:28.591] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:33:29.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya me perdi xd
-[28Dec2024 22:33:34.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Night Hunter
-[28Dec2024 22:33:35.579] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:33:51.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by Chainsaw
-[28Dec2024 22:33:53.516] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:33:55.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:33:59.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 has made the advancement [A Cut Above the Rest]
-[28Dec2024 22:34:03.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tp
-[28Dec2024 22:34:05.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> porfas
-[28Dec2024 22:34:12.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to Eduardo171]
-[28Dec2024 22:34:18.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tenqiu
-[28Dec2024 22:34:58.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:35:01.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
-[28Dec2024 22:36:48.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> voy a ver
-[28Dec2024 22:37:19.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> emily
-[28Dec2024 22:37:21.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ven
-[28Dec2024 22:38:00.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Enchanter]
-[28Dec2024 22:38:02.458] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 22:38:31.187] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 22:38:39.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by tiliaso_01
-[28Dec2024 22:38:41.209] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:38:44.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
-[28Dec2024 22:40:04.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
-[28Dec2024 22:40:05.230] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:40:13.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 22:40:38.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Infected Military
-[28Dec2024 22:40:39.895] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:40:42.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 22:40:49.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was executed by rexsel
-[28Dec2024 22:40:54.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 22:40:54.333] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[28Dec2024 22:40:54.359] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:40:58.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to rexsel]
-[28Dec2024 22:41:46.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was decimated by rexsel
-[28Dec2024 22:41:48.052] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:42:11.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:42:34.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:44:03.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
-[28Dec2024 22:44:39.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:46:50.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> YO Q
-[28Dec2024 22:47:31.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> q
-[28Dec2024 22:47:52.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> si, se llama electric katana
-[28Dec2024 22:48:17.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
-[28Dec2024 22:48:17.872] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
-[28Dec2024 22:48:17.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
-[28Dec2024 22:48:17.873] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
-[28Dec2024 22:48:17.874] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/65605, l='ServerLevel[world]', x=808.70, y=67.00, z=-704.92]
-[28Dec2024 22:48:50.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was eliminated by rexsel
-[28Dec2024 22:48:53.543] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:48:55.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:49:33.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to rexsel]
-[28Dec2024 22:49:54.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to rexsel]
-[28Dec2024 22:50:07.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Emily_OvO to rexsel]
-[28Dec2024 22:50:18.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:50:21.886] [Server thread/ERROR] [net.minecraftforge.fml.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 20 on channel sophisticatedbackpacks:channel
-[28Dec2024 22:50:24.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:52:31.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was slain by tiliaso_01
-[28Dec2024 22:52:32.772] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:53:04.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no me acuerdo
-[28Dec2024 22:53:12.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was annihilated by elikernomamahuev
-[28Dec2024 22:53:13.520] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:54:19.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was eliminated by elikernomamahuev
-[28Dec2024 22:54:20.470] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:54:35.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was decimated by rexsel
-[28Dec2024 22:54:36.849] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:54:44.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tp w,
-[28Dec2024 22:54:45.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
-[28Dec2024 22:54:47.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no
-[28Dec2024 22:54:52.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
-[28Dec2024 22:54:55.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a
-[28Dec2024 22:55:00.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
-[28Dec2024 22:55:24.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:55:32.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:55:32.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was eliminated by Eduardo171
-[28Dec2024 22:55:35.425] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:55:49.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel was eliminated by Eduardo171
-[28Dec2024 22:55:50.643] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:56:48.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> como le puedo poner una mira a mi arma?
-[28Dec2024 22:56:55.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> gracias
-[28Dec2024 22:57:37.491] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=677, y=65, z=-669} BlockPos{x=678, y=63, z=-669}
-[28Dec2024 22:57:41.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was eliminated by rexsel
-[28Dec2024 22:57:42.992] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 22:58:31.676] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev moved too quickly! 3.55794734995834,0.8322033533667508,9.454086293708428
-[28Dec2024 22:58:32.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:58:38.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported tiliaso_01 to Emily_OvO]
-[28Dec2024 22:59:25.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ni habia nada
-[28Dec2024 22:59:25.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
-[28Dec2024 22:59:38.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 22:59:44.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 22:59:52.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 23:00:22.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 23:00:32.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 23:01:08.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> q
-[28Dec2024 23:01:27.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ando haciendo mi casita xd}
-[28Dec2024 23:03:50.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> el mod del lorax como dijo el alda xd
-[28Dec2024 23:04:57.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
-[28Dec2024 23:05:29.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Creeper
-[28Dec2024 23:05:30.450] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:06:14.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
-[28Dec2024 23:06:15.900] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:07:00.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
-[28Dec2024 23:07:01.599] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:07:31.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[28Dec2024 23:07:33.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue, ando ocupadito en hacer esta casita
-[28Dec2024 23:07:34.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
-[28Dec2024 23:07:49.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Night Hunter
-[28Dec2024 23:07:50.754] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:08:13.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
-[28Dec2024 23:09:06.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[28Dec2024 23:09:13.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 23:09:18.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was blown up by Creeper
-[28Dec2024 23:09:20.098] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:09:22.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[28Dec2024 23:09:29.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
-[28Dec2024 23:10:15.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
-[28Dec2024 23:10:35.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 23:11:56.725] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:12:38.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Chainsaw
-[28Dec2024 23:12:39.558] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:12:40.794] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:12:43.826] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:12:58.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> puedes dormir?
-[28Dec2024 23:13:00.028] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:13:02.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> pueden*
-[28Dec2024 23:13:02.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Military
-[28Dec2024 23:13:04.480] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:13:14.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[28Dec2024 23:13:21.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
-[28Dec2024 23:14:08.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Infected Hazmat
-[28Dec2024 23:14:10.104] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:14:15.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[28Dec2024 23:14:39.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
-[28Dec2024 23:14:59.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
-[28Dec2024 23:15:01.377] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:16:01.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to Emily_OvO]
-[28Dec2024 23:16:06.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
-[28Dec2024 23:16:58.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
-[28Dec2024 23:17:13.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
-[28Dec2024 23:17:18.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> wow
-[28Dec2024 23:17:40.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
-[28Dec2024 23:17:40.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> puta, 1 min
-[28Dec2024 23:21:01.979] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Timed out
-[28Dec2024 23:21:01.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
-[28Dec2024 23:21:03.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tilin puto
-[28Dec2024 23:21:04.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> dea
-[28Dec2024 23:21:20.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> huy
-[28Dec2024 23:26:00.841] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:26:08.134] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:26:15.858] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:26:18.806] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:26:19.807] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:28:19.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
-[28Dec2024 23:28:20.426] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:28:32.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
-[28Dec2024 23:28:33.776] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:28:40.890] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
-[28Dec2024 23:28:43.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was slain by Chainsaw
-[28Dec2024 23:28:45.775] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:30:10.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 was eliminated by rexsel
-[28Dec2024 23:30:11.904] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:30:20.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
-[28Dec2024 23:30:35.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Chainsaw
-[28Dec2024 23:30:40.202] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:30:45.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Chainsaw
-[28Dec2024 23:30:48.308] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:30:51.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was slain by Chainsaw
-[28Dec2024 23:30:58.191] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[28Dec2024 23:30:58.193] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev moved wrongly!
-[28Dec2024 23:31:06.525] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Timed out
-[28Dec2024 23:31:06.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
-[28Dec2024 23:31:12.485] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41a33239
-[28Dec2024 23:31:12.494] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/0:0:0:0:0:0:0:1%0:39050] logged in with entity id 82621 at (736.0173158149537, 63.0, -479.3096702841438)
-[28Dec2024 23:31:12.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
-[28Dec2024 23:31:12.496] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:31:20.251] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:31:26.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> time out xd
-[28Dec2024 23:32:08.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
-[28Dec2024 23:33:02.625] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: tiliaso_01 lost connection: Timed out
-[28Dec2024 23:33:02.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 left the game
-[28Dec2024 23:33:42.873] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Timed out
-[28Dec2024 23:33:42.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
-[28Dec2024 23:33:48.220] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Timed out
-[28Dec2024 23:33:48.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
-[28Dec2024 23:35:24.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Night Hunter
-[28Dec2024 23:35:25.986] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:37:16.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO blew up
-[28Dec2024 23:37:18.849] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:39:35.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO was slain by Night Hunter
-[28Dec2024 23:39:37.523] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:45:05.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
-[28Dec2024 23:45:06.974] [Server thread/INFO] [tac/]: PENDING
-[28Dec2024 23:49:56.815] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Emily_OvO lost connection: Timed out
-[28Dec2024 23:49:56.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Emily_OvO left the game
+[07Jan2025 04:33:04.166] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
+[07Jan2025 04:33:04.877] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[07Jan2025 04:33:04.911] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[07Jan2025 04:33:05.210] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[07Jan2025 04:33:05.511] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.512] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[14].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.512] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.512] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.513] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.513] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.513] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.513] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[18].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.514] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.514] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.514] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[17].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.514] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.515] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decaying_zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.515] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.515] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.515] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.516] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.516] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.516] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.517] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_bomb}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.517] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.517] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.518] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.518] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[13].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.519] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.520] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.520] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.520] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.520] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.521] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.521] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/firelight_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.521] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.522] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.522] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.522] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[16].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.523] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.524] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.524] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.524] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_bomb}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.525] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[12].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.525] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.525] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.525] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.528] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.528] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.530] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.530] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[15].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.531] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.531] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/fallen_chaos_knight}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.531] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[10].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.531] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.532] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.533] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[11].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.534] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.534] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.534] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.535] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.535] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.536] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.536] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.539] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.539] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/fallen_chaos_knight}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.540] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/diamond_thermite}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.540] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.543] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.544] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.544] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/firelight}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.545] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.545] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.546] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.546] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.546] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[30].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.546] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.547] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.547] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.547] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.548] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.548] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.548] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[31].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.549] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.549] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/pumpkin_spirit}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.550] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.550] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.550] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.551] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decaying_zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.551] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Jan2025 04:33:05.863] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2067 advancements
+[07Jan2025 04:33:11.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[07Jan2025 04:33:11.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Jan2025 04:33:11.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Jan2025 04:33:11.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Jan2025 04:33:11.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Jan2025 04:33:11.404] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[07Jan2025 04:33:11.674] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Jan2025 04:33:11.674] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Jan2025 04:33:11.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Jan2025 04:33:11.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Jan2025 04:33:11.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Jan2025 04:33:12.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Jan2025 04:33:14.453] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jan2025 04:33:14.454] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jan2025 04:33:14.455] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jan2025 04:33:14.455] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jan2025 04:33:14.456] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jan2025 04:33:14.590] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[07Jan2025 04:33:15.095] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[07Jan2025 04:33:15.632] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3542 ms
+[07Jan2025 04:33:15.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.933s)! For help, type "help"
+[07Jan2025 04:33:15.739] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[07Jan2025 04:33:16.660] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5029c9a1]
+[07Jan2025 04:33:18.558] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[07Jan2025 04:33:19.848] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[07Jan2025 04:33:19.848] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[07Jan2025 04:33:54.503] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@66ac5ceb
+[07Jan2025 04:33:54.586] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rexsel[/127.55.205.9:46183] logged in with entity id 30 at (956.0189145642197, 71.20000004768372, -1144.330450998018)
+[07Jan2025 04:33:54.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
+[07Jan2025 04:33:54.734] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:35:04.464] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:35:12.406] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:35:18.319] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:35:21.565] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:35:35.514] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:35:44.414] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Jan2025 04:36:19.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel fell out of the world
+[07Jan2025 04:36:19.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Killed rexsel]
+[07Jan2025 04:36:21.174] [Server thread/INFO] [tac/]: PENDING
+[07Jan2025 04:37:11.905] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel moved too quickly! 6.339643690871412,7.5283864743074105,1.805764000677982
+[07Jan2025 04:37:29.515] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel moved too quickly! 2.8085662892822256,0.0,-9.625113847061357
+[07Jan2025 04:41:34.895] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@47f4b5ef
+[07Jan2025 04:41:34.922] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:58607] logged in with entity id 3021 at (957.8225957821224, 68.0, -1143.4766736241668)
+[07Jan2025 04:41:34.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
+[07Jan2025 04:41:34.942] [Server thread/INFO] [tac/]: PENDING
