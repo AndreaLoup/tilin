@@ -3688,3 +3688,19 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [07Jan2025 05:44:27.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
 [07Jan2025 05:44:27.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [07Jan2025 05:44:27.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[07Jan2025 05:44:28.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[07Jan2025 05:46:51.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[07Jan2025 05:46:51.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[07Jan2025 05:46:51.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[07Jan2025 05:46:51.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[07Jan2025 05:46:52.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[07Jan2025 05:46:52.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[07Jan2025 05:46:52.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[07Jan2025 05:46:53.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[07Jan2025 05:46:53.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[07Jan2025 05:47:14.866] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Disconnected
+[07Jan2025 05:47:14.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
+[07Jan2025 05:48:41.057] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Jan2025 05:48:41.064] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Jan2025 05:53:40.781] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Jan2025 05:53:40.788] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
