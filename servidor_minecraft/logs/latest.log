@@ -644,3 +644,17 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 04:51:05.920] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:56317] logged in with entity id 30 at (1337.6814473720117, 74.0, 54.50145637161056)
 [08Jan2025 04:51:05.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
 [08Jan2025 04:51:05.967] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 04:53:45.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was shot by Supreme Bonescaller
+[08Jan2025 04:53:47.925] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 04:56:44.702] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1b1b767f
+[08Jan2025 04:56:44.718] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rexsel[/127.55.205.9:54059] logged in with entity id 1609 at (1535.9567763745524, 74.8621888020952, 106.83349966423725)
+[08Jan2025 04:56:44.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
+[08Jan2025 04:56:44.770] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 04:57:41.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[08Jan2025 04:57:48.978] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:01:30.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[08Jan2025 05:01:33.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[08Jan2025 05:01:57.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[08Jan2025 05:02:31.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:02:36.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:03:33.226] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
