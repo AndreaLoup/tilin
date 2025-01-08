@@ -4139,3 +4139,9 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 05:36:36.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [08Jan2025 05:39:53.863] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [08Jan2025 05:39:53.875] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Jan2025 05:44:53.675] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Jan2025 05:44:53.684] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Jan2025 05:46:52.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 suffocated in a wall
+[08Jan2025 05:46:54.012] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:49:53.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Jan2025 05:49:53.699] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

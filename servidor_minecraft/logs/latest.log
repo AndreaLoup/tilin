@@ -724,3 +724,5 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 05:33:06.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> UWU
 [08Jan2025 05:33:13.358] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Disconnected
 [08Jan2025 05:33:13.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
+[08Jan2025 05:46:52.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 suffocated in a wall
+[08Jan2025 05:46:54.012] [Server thread/INFO] [tac/]: PENDING
