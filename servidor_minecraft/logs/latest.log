@@ -1006,3 +1006,26 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 22:49:58.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya
 [08Jan2025 22:50:02.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
 [08Jan2025 22:50:06.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> miras esa torre?
+[08Jan2025 22:51:56.830] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7276309b
+[08Jan2025 22:51:56.861] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:47063] logged in with entity id 50480 at (757.713998826866, 70.0, -771.7588433899999)
+[08Jan2025 22:51:56.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
+[08Jan2025 22:51:56.882] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 22:51:58.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya void
+[08Jan2025 22:52:48.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> pera
+[08Jan2025 22:52:51.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ando en la torre
+[08Jan2025 22:53:04.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[08Jan2025 22:53:17.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> que
+[08Jan2025 22:53:35.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue
+[08Jan2025 22:53:36.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ta bien
+[08Jan2025 22:53:48.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 22:54:22.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> bueno
+[08Jan2025 22:54:31.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[08Jan2025 22:54:39.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> dame trgio
+[08Jan2025 22:54:40.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> trigo
+[08Jan2025 22:54:43.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[08Jan2025 22:54:46.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a no pue
+[08Jan2025 22:55:11.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> pera
+[08Jan2025 22:56:40.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> lo aca de hacer el rexsel
+[08Jan2025 22:57:20.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> dame un poco de ese juggernaut, se acabo ya no hay mas
+[08Jan2025 23:00:22.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Summoned new Ravager]
+[08Jan2025 23:00:34.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya van 2

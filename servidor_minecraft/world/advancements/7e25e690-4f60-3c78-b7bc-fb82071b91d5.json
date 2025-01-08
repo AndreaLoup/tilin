@@ -2384,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-08 22:56:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/lance_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-27 23:12:47 +0000"
@@ -2827,6 +2833,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-27 21:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-08 22:56:42 +0000"
     },
     "done": true
   },
