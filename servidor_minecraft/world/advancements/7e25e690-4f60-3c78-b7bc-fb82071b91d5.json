@@ -725,6 +725,7 @@
       "minecraft:spider": "2024-12-27 21:24:10 +0000",
       "minecraft:creeper": "2024-12-28 22:13:18 +0000",
       "minecraft:phantom": "2025-01-08 21:43:52 +0000",
+      "minecraft:enderman": "2025-01-08 21:46:08 +0000",
       "minecraft:zombie": "2024-12-27 22:41:11 +0000",
       "minecraft:drowned": "2024-12-28 23:20:25 +0000"
     },
@@ -763,6 +764,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-28 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-08 21:59:27 +0000"
     },
     "done": true
   },
@@ -997,6 +1004,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 23:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-08 21:59:32 +0000"
     },
     "done": true
   },
@@ -1637,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-08 21:52:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_wood": {
     "criteria": {
       "has_wood": "2024-12-27 22:13:25 +0000"
@@ -2084,6 +2103,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-01-08 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-08 21:59:27 +0000"
     },
     "done": true
   },
@@ -2608,6 +2633,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/spear_silver": {
     "criteria": {
       "has_silver_ingot": "2024-12-27 23:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-08 21:59:32 +0000"
     },
     "done": true
   },
@@ -3274,6 +3305,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/saber_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-27 23:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-08 21:59:32 +0000"
     },
     "done": true
   },
