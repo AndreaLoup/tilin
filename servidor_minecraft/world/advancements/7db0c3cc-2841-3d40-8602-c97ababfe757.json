@@ -961,6 +961,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-08 05:08:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-27 22:22:46 +0000"
@@ -1622,6 +1628,7 @@
       "minecraft:mountains": "2024-12-28 21:04:26 +0000",
       "minecraft:taiga": "2024-12-10 03:59:20 +0000",
       "minecraft:taiga_hills": "2025-01-07 01:59:36 +0000",
+      "minecraft:desert": "2025-01-08 05:09:48 +0000",
       "minecraft:beach": "2024-12-10 03:56:42 +0000",
       "minecraft:dark_forest": "2025-01-07 02:05:00 +0000",
       "minecraft:river": "2024-12-10 04:05:04 +0000",

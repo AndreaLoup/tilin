@@ -658,3 +658,31 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 05:02:31.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
 [08Jan2025 05:02:36.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
 [08Jan2025 05:03:33.226] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:04:33.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[08Jan2025 05:04:48.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[08Jan2025 05:05:25.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Applied effect Invisibility to rexsel]
+[08Jan2025 05:05:28.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[08Jan2025 05:06:33.961] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:06:48.125] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:06:57.323] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:07:05.177] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:07:08.661] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:07:17.411] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:07:23.562] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:07:23.826] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:08:12.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[08Jan2025 05:09:31.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to 1212.5, 90.0, 1112.5]
+[08Jan2025 05:09:46.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:10:21.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[08Jan2025 05:10:43.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:11:09.320] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:11:16.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[08Jan2025 05:11:21.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[08Jan2025 05:11:41.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[08Jan2025 05:12:32.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[08Jan2025 05:13:04.863] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:13:13.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 was slain by Chainsaw
+[08Jan2025 05:13:13.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Its Like Printing my Own Money!]
+[08Jan2025 05:13:13.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [The Only Good Bug...]
+[08Jan2025 05:13:14.824] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:13:21.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
