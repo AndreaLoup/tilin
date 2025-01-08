@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-09 21:47:24 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-09 22:46:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -359,6 +371,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-10 00:45:21 +0000"
@@ -437,6 +455,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/spear_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-12-10 04:25:11 +0000"
@@ -497,6 +521,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/longbow_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-10 00:08:40 +0000"
@@ -539,6 +569,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-09 22:23:11 +0000"
@@ -563,9 +599,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-09 22:35:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -656,6 +704,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-09 22:02:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/greatsword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -842,6 +896,18 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-12-27 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/boomerang_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -1219,6 +1285,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:44:12 +0000"
@@ -1258,6 +1330,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 23:45:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/halberd_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -1447,6 +1525,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-09 22:35:26 +0000"
@@ -1468,6 +1552,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 21:49:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -1723,9 +1813,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-12-10 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -1750,6 +1852,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-09 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -1862,6 +1970,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_leather": {
     "criteria": {
       "has_leather": "2024-12-28 01:56:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -2009,6 +2123,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/rapier_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-12-10 03:58:31 +0000"
@@ -2078,6 +2198,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2024-12-09 21:46:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/katana_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -2213,9 +2339,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-28 23:00:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -2339,6 +2477,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/lance_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_diamond": {
     "criteria": {
       "has_diamond": "2024-12-27 22:07:53 +0000"
@@ -2390,6 +2534,18 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-06 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/hammer_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -2471,9 +2627,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-09 22:25:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -2504,6 +2672,12 @@
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-06 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -2621,6 +2795,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-06 01:42:24 +0000"
@@ -2648,6 +2828,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-27 21:03:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -2836,6 +3022,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-09 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -3073,6 +3265,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/scythe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:08:54 +0000"
@@ -3211,6 +3409,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/javelin_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-09 22:11:09 +0000"
@@ -3343,6 +3547,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/warhammer_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2024-12-28 00:25:04 +0000"
@@ -3358,6 +3568,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2025-01-06 01:40:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -3427,6 +3643,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-09 22:07:52 +0000"
@@ -3475,6 +3703,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-10 05:57:28 +0000"
@@ -3484,6 +3718,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 22:11:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longsword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -3553,6 +3793,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-09 21:57:09 +0000"
@@ -3574,6 +3826,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-28 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
     },
     "done": true
   },
@@ -3727,6 +3985,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 01:42:24 +0000"
@@ -3787,6 +4051,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/saber_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-09 21:45:18 +0000"
@@ -3820,6 +4090,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-27 22:07:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/pike_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -4039,6 +4315,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:44:12 +0000"
@@ -4066,6 +4348,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-28 23:26:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/dagger_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },
@@ -4147,6 +4435,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-28 00:12:18 +0000"
@@ -4219,6 +4513,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-01-08 20:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-10 00:32:21 +0000"
@@ -4255,9 +4555,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-10 00:34:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/glaive_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-01-08 20:22:59 +0000"
     },
     "done": true
   },

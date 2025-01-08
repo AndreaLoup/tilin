@@ -663,3 +663,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 20:17:29.072] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [08Jan2025 20:17:32.204] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [08Jan2025 20:17:36.260] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 20:18:29.653] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 20:18:41.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[08Jan2025 20:18:45.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[08Jan2025 20:25:11.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: false]
