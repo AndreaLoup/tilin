@@ -686,3 +686,17 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 05:13:13.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [The Only Good Bug...]
 [08Jan2025 05:13:14.824] [Server thread/INFO] [tac/]: PENDING
 [08Jan2025 05:13:21.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:14:02.431] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 05:14:41.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[08Jan2025 05:14:54.425] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel moved too quickly! 4.373798968407527,-0.5568313180933799,9.583436812703894
+[08Jan2025 05:16:10.019] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/9783, l='ServerLevel[world]', x=1200.88, y=33.00, z=1394.65]
+[08Jan2025 05:16:56.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:17:33.832] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel moved too quickly! 8.805385308480709,0.0,-5.450476624003954
+[08Jan2025 05:17:51.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[08Jan2025 05:17:58.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:21:50.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 blew up
+[08Jan2025 05:21:52.235] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:21:57.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:23:41.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 went up in flames
+[08Jan2025 05:23:43.684] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:23:44.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
