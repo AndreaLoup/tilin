@@ -2933,3 +2933,60 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 20:58:33.990] [Server thread/INFO] [tac/]: PENDING
 [08Jan2025 20:58:40.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
 [08Jan2025 20:58:42.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> pta mdre
+[08Jan2025 20:59:31.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> minimo pongan el keep inv
+[08Jan2025 20:59:50.472] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Jan2025 20:59:50.483] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Jan2025 21:00:34.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 21:00:34.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:02:26.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> alguien de casualidad tiene 1 de lapi lazuli?
+[08Jan2025 21:02:35.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> porfas
+[08Jan2025 21:02:43.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> gracias
+[08Jan2025 21:03:06.158] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Jan2025 21:03:41.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ira w
+[08Jan2025 21:04:23.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue
+[08Jan2025 21:04:26.756] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jan2025 21:04:26.805] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jan2025 21:04:26.854] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jan2025 21:04:26.914] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jan2025 21:04:26.966] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jan2025 21:04:27.021] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jan2025 21:04:27.255] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jan2025 21:04:27.322] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Jan2025 21:04:50.189] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Jan2025 21:04:50.233] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Jan2025 21:04:54.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> quien dejo un arma en este cofre?
+[08Jan2025 21:04:58.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> nms
+[08Jan2025 21:05:05.581] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Infected Military
+[08Jan2025 21:05:05.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 21:05:05.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:05.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 21:05:05.582] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[08Jan2025 21:05:05.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:05.582] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[08Jan2025 21:05:05.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:06.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 21:05:06.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:06.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 21:05:06.533] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[08Jan2025 21:05:07.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 21:05:07.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:07.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 21:05:07.386] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[08Jan2025 21:05:07.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:08.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 21:05:08.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:08.189] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 21:05:08.189] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[08Jan2025 21:05:09.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 21:05:09.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:09.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 21:05:09.042] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[08Jan2025 21:05:09.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:09.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 21:05:09.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:05:09.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 21:05:09.828] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[08Jan2025 21:05:09.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:07:16.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 21:08:25.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ehm
+[08Jan2025 21:08:53.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> que hacen?
