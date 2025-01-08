@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-28 19:43:04 +0000"
@@ -443,6 +449,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 23:13:04 +0000"
@@ -557,6 +569,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-10 04:03:59 +0000"
@@ -578,6 +596,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_wood": {
     "criteria": {
       "has_wood": "2024-12-27 22:20:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
     },
     "done": true
   },
@@ -992,6 +1016,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_barako": {
     "criteria": {
       "barako": "2025-01-07 04:48:55 +0000"
@@ -1184,6 +1214,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 04:12:26 +0000"
@@ -1256,6 +1292,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-10 04:03:59 +0000"
@@ -1295,6 +1337,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
     },
     "done": true
   },
@@ -1442,6 +1490,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-10 04:07:44 +0000"
@@ -1529,6 +1583,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-07 05:36:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
     },
     "done": true
   },
@@ -1995,6 +2055,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-10 04:02:43 +0000"
@@ -2058,6 +2124,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 23:13:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
     },
     "done": true
   },
@@ -2376,6 +2448,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-28 00:03:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
     },
     "done": true
   },
@@ -3137,6 +3215,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-10 04:12:47 +0000"
@@ -3455,15 +3539,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-01-07 01:24:49 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-01-08 21:07:21 +0000"
     },
     "done": true
   },
