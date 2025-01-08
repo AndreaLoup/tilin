@@ -745,3 +745,13 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 20:48:15.684] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/127.188.235.166:38053] logged in with entity id 16295 at (741.5, 63.0, -478.5)
 [08Jan2025 20:48:15.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
 [08Jan2025 20:48:15.690] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 20:49:49.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[08Jan2025 20:51:34.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 20:52:02.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> por alguna razon en la granja de creepers si salen
+[08Jan2025 20:52:16.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue
+[08Jan2025 20:52:34.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no pue
+[08Jan2025 20:57:50.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> les tiro un dinamita de regalo?
+[08Jan2025 20:58:32.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev was executed by rexsel
+[08Jan2025 20:58:33.990] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 20:58:40.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[08Jan2025 20:58:42.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> pta mdre
