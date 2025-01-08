@@ -3967,3 +3967,167 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 05:23:41.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 went up in flames
 [08Jan2025 05:23:43.684] [Server thread/INFO] [tac/]: PENDING
 [08Jan2025 05:23:44.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:24:53.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Jan2025 05:24:53.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Jan2025 05:26:37.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i011irreiva8]: started parsing
+[08Jan2025 05:26:37.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i011irreiva8]: Consuming argument ``
+[08Jan2025 05:26:37.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01vo6xtk2rgne]: started parsing
+[08Jan2025 05:26:37.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01vo6xtk2rgne]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:26:43.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16jwgigqoonxh]: started parsing
+[08Jan2025 05:26:43.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16jwgigqoonxh]: Consuming argument ``
+[08Jan2025 05:26:43.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eihp47hxa663]: started parsing
+[08Jan2025 05:26:43.780] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eihp47hxa663]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:26:47.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1my0dyfppapca]: started parsing
+[08Jan2025 05:26:47.212] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1my0dyfppapca]: Consuming argument ``
+[08Jan2025 05:26:48.619] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [005xso9a261rb]: started parsing
+[08Jan2025 05:26:48.619] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [005xso9a261rb]: Consuming argument `s`
+[08Jan2025 05:26:49.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00g49g8wrmpci]: started parsing
+[08Jan2025 05:26:49.121] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00g49g8wrmpci]: Consuming argument `so`
+[08Jan2025 05:26:49.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0119nmru4aa4n]: started parsing
+[08Jan2025 05:26:49.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0119nmru4aa4n]: Consuming argument `sol`
+[08Jan2025 05:26:50.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ioyu1acwyya]: started parsing
+[08Jan2025 05:26:50.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ioyu1acwyya]: Consuming argument `so`
+[08Jan2025 05:26:50.771] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oxdfn9asmbti]: started parsing
+[08Jan2025 05:26:50.771] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oxdfn9asmbti]: Consuming argument `s`
+[08Jan2025 05:26:50.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r03jq94mcj5j]: started parsing
+[08Jan2025 05:26:50.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r03jq94mcj5j]: Consuming argument ``
+[08Jan2025 05:26:52.678] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bgkmz82gshnu]: started parsing
+[08Jan2025 05:26:52.678] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bgkmz82gshnu]: Consuming argument `#solid`
+[08Jan2025 05:26:52.684] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bgkmz82gshnu]: Consuming argument ``
+[08Jan2025 05:26:53.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [099cgt6gmn8rw]: started parsing
+[08Jan2025 05:26:53.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [099cgt6gmn8rw]: Consuming argument `#solid`
+[08Jan2025 05:26:53.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [099cgt6gmn8rw]: Consuming argument `s`
+[08Jan2025 05:26:53.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ix5m4ecuh536]: started parsing
+[08Jan2025 05:26:53.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ix5m4ecuh536]: Consuming argument `#solid`
+[08Jan2025 05:26:53.911] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ix5m4ecuh536]: Consuming argument ``
+[08Jan2025 05:26:54.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8t0yryqa5rz]: started parsing
+[08Jan2025 05:26:54.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8t0yryqa5rz]: Consuming argument `#solid`
+[08Jan2025 05:26:54.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8t0yryqa5rz]: Consuming argument `t`
+[08Jan2025 05:26:54.360] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h9st00cfc4he]: started parsing
+[08Jan2025 05:26:54.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h9st00cfc4he]: Consuming argument `#solid`
+[08Jan2025 05:26:54.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h9st00cfc4he]: Consuming argument `tn`
+[08Jan2025 05:26:54.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wlss9ygkizar]: started parsing
+[08Jan2025 05:26:54.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wlss9ygkizar]: Consuming argument `#solid`
+[08Jan2025 05:26:54.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wlss9ygkizar]: Consuming argument `tnt`
+[08Jan2025 05:26:54.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wlss9ygkizar]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:26:56.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07j2pzysc2zww]: started parsing
+[08Jan2025 05:26:56.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07j2pzysc2zww]: Consuming argument `#solid`
+[08Jan2025 05:26:56.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07j2pzysc2zww]: Consuming argument `tnt`
+[08Jan2025 05:26:56.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07j2pzysc2zww]: Consuming argument ``
+[08Jan2025 05:26:56.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07j2pzysc2zww]: parseRegularArgument: no arguments to attempt matching
+[08Jan2025 05:26:56.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kp5mia85p070]: started parsing
+[08Jan2025 05:26:56.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kp5mia85p070]: Consuming argument `#solid`
+[08Jan2025 05:26:56.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kp5mia85p070]: Consuming argument `tnt`
+[08Jan2025 05:26:56.770] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kp5mia85p070]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:26:56.840] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using modjar://worldedit/com/sk89q/worldedit/world/registry/blocks.116.json for bundled block data.
+[08Jan2025 05:27:00.170] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1elc9ftnctqod]: started parsing
+[08Jan2025 05:27:00.170] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1elc9ftnctqod]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:27:06.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081pvddfxrq92]: started parsing
+[08Jan2025 05:27:06.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081pvddfxrq92]: Consuming argument `#solid`
+[08Jan2025 05:27:06.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081pvddfxrq92]: Consuming argument `tnt`
+[08Jan2025 05:27:06.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081pvddfxrq92]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:27:06.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0toy8p4q70cz9]: started parsing
+[08Jan2025 05:27:06.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0toy8p4q70cz9]: Consuming argument `#solid`
+[08Jan2025 05:27:06.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0toy8p4q70cz9]: Consuming argument `tnt`
+[08Jan2025 05:27:06.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0toy8p4q70cz9]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:27:07.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02limh3ofwnt5]: started parsing
+[08Jan2025 05:27:07.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02limh3ofwnt5]: Consuming argument `#solid`
+[08Jan2025 05:27:07.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02limh3ofwnt5]: Consuming argument `tn`
+[08Jan2025 05:27:07.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1eeo30jy2fi]: started parsing
+[08Jan2025 05:27:07.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1eeo30jy2fi]: Consuming argument `#solid`
+[08Jan2025 05:27:07.202] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c1eeo30jy2fi]: Consuming argument `t`
+[08Jan2025 05:27:07.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qs2ukpq4wb34]: started parsing
+[08Jan2025 05:27:07.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qs2ukpq4wb34]: Consuming argument `#solid`
+[08Jan2025 05:27:07.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qs2ukpq4wb34]: Consuming argument ``
+[08Jan2025 05:27:07.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tkbjya07i2yu]: started parsing
+[08Jan2025 05:27:07.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tkbjya07i2yu]: Consuming argument `#solid`
+[08Jan2025 05:27:07.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tkbjya07i2yu]: Consuming argument `d`
+[08Jan2025 05:27:07.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16haztx7ezkgw]: started parsing
+[08Jan2025 05:27:07.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16haztx7ezkgw]: Consuming argument `#solid`
+[08Jan2025 05:27:07.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16haztx7ezkgw]: Consuming argument `di`
+[08Jan2025 05:27:08.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v988y2b2uglb]: started parsing
+[08Jan2025 05:27:08.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v988y2b2uglb]: Consuming argument `#solid`
+[08Jan2025 05:27:08.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v988y2b2uglb]: Consuming argument `dia`
+[08Jan2025 05:27:09.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ivusqurkm27t]: started parsing
+[08Jan2025 05:27:09.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ivusqurkm27t]: Consuming argument `#solid`
+[08Jan2025 05:27:09.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ivusqurkm27t]: Consuming argument `diamond_block`
+[08Jan2025 05:27:09.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ivusqurkm27t]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:27:10.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v4pcfsdgejdl]: started parsing
+[08Jan2025 05:27:10.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v4pcfsdgejdl]: Consuming argument `#solid`
+[08Jan2025 05:27:10.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v4pcfsdgejdl]: Consuming argument `diamond_block`
+[08Jan2025 05:27:10.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v4pcfsdgejdl]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:27:10.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ohrpcn4mi0sp]: started parsing
+[08Jan2025 05:27:10.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ohrpcn4mi0sp]: Consuming argument `#solid`
+[08Jan2025 05:27:10.419] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ohrpcn4mi0sp]: Consuming argument `diamond_block`
+[08Jan2025 05:27:10.419] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ohrpcn4mi0sp]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:27:11.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mmmdv11x7y6u]: started parsing
+[08Jan2025 05:27:11.487] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mmmdv11x7y6u]: Finished looking at arguments. Finalizing command.
+[08Jan2025 05:27:37.761] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Charred Stone'/14979, l='ServerLevel[world]', x=1244.70, y=18.62, z=548.57]
+[08Jan2025 05:27:37.761] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Charred Stone'/14979, l='ServerLevel[world]', x=1244.70, y=18.62, z=548.57]
+[08Jan2025 05:27:37.761] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Charred Cobblestone'/14980, l='ServerLevel[world]', x=1244.27, y=20.73, z=546.71]
+[08Jan2025 05:27:37.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Charred Cobblestone'/14980, l='ServerLevel[world]', x=1244.27, y=20.73, z=546.71]
+[08Jan2025 05:28:15.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 blew up
+[08Jan2025 05:28:17.973] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:28:23.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:28:39.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:28:39.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:39.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:28:39.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:39.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:39.455] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:40.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:28:40.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:40.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:28:40.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:28:40.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:40.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:28:40.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:40.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:42.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:28:42.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:42.383] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:28:42.383] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:42.383] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:48.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:28:48.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:48.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:28:48.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:48.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:48.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:51.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:28:51.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:51.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:28:51.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:51.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:54.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:28:54.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:54.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:28:54.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:54.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:57.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:28:57.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:28:57.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:29:09.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 fell into poisonous water whilst fighting Crawler...?
+[08Jan2025 05:29:12.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:29:12.864] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:29:16.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:29:19.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 fell into poisonous water...?
+[08Jan2025 05:29:22.216] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:29:28.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:29:52.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 fell into poisonous water...?
+[08Jan2025 05:29:53.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Jan2025 05:29:53.972] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Jan2025 05:29:54.079] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:29:56.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[08Jan2025 05:30:20.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:30:20.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:30:57.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[08Jan2025 05:31:20.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[08Jan2025 05:31:20.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[08Jan2025 05:31:20.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Jan2025 05:32:17.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel fell out of the world
+[08Jan2025 05:32:17.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Killed rexsel]
+[08Jan2025 05:32:18.952] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 05:33:06.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rexsel> UWU
+[08Jan2025 05:33:13.358] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Disconnected
+[08Jan2025 05:33:13.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
