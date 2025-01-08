@@ -667,3 +667,15 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [08Jan2025 20:18:41.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
 [08Jan2025 20:18:45.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
 [08Jan2025 20:25:11.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Gamerule keepInventory is now set to: false]
+[08Jan2025 20:32:11.344] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@427edd86
+[08Jan2025 20:32:11.358] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/127.188.235.166:50571] logged in with entity id 6860 at (741.6999999880791, 63.0, -478.30000001192093)
+[08Jan2025 20:32:11.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[08Jan2025 20:32:11.378] [Server thread/INFO] [tac/]: PENDING
+[08Jan2025 20:32:53.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a si cierto deje en terminar mi casa
+[08Jan2025 20:34:14.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> en mi casa
+[08Jan2025 20:36:02.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> voy a ver
+[08Jan2025 20:36:10.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ño
+[08Jan2025 20:36:15.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no tengo
+[08Jan2025 20:38:10.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> voy a reiniciar la compu porque ando re lag
+[08Jan2025 20:38:10.972] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Disconnected
+[08Jan2025 20:38:10.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
