@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/hammer_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
@@ -266,6 +272,12 @@
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-01-08 20:54:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/dagger_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -659,6 +671,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/longbow_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/quartz_mine": {
     "criteria": {
       "has_mine": "2025-01-08 21:06:46 +0000"
@@ -737,12 +755,19 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-27 21:38:54 +0000",
       "minecraft:spider": "2024-12-27 21:24:10 +0000",
       "minecraft:creeper": "2024-12-28 22:13:18 +0000",
       "minecraft:phantom": "2025-01-08 21:43:52 +0000",
+      "minecraft:cave_spider": "2025-01-08 22:24:07 +0000",
       "minecraft:enderman": "2025-01-08 21:46:08 +0000",
       "minecraft:zombie": "2024-12-27 22:41:11 +0000",
       "minecraft:drowned": "2024-12-28 23:20:25 +0000"
@@ -893,6 +918,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2025-01-08 21:14:34 +0000"
@@ -1007,6 +1038,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2024-12-27 22:13:25 +0000"
@@ -1070,6 +1107,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
     "criteria": {
       "has_wood": "2024-12-27 22:13:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/lance_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -1241,6 +1284,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-01-08 22:15:33 +0000"
@@ -1268,6 +1317,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_diamond": {
     "criteria": {
       "has_diamond": "2024-12-27 22:13:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/boomerang_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -1638,6 +1693,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/spear_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-27 21:25:47 +0000"
@@ -1653,6 +1714,12 @@
   "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-01-08 20:32:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/pike_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -1800,6 +1867,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2024-12-27 22:13:25 +0000"
@@ -1882,6 +1955,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-28 22:10:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/halberd_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -2125,9 +2204,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/rapier_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/hammer_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-27 23:12:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -2409,6 +2500,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/javelin_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-28 22:44:30 +0000"
@@ -2448,6 +2545,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 22:41:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/greatsword_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -2715,6 +2818,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/scythe_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 21:20:32 +0000"
@@ -2904,6 +3013,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-28 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/glaive_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -3207,6 +3322,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/longsword_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_wood": {
     "criteria": {
       "has_wood": "2024-12-27 22:13:25 +0000"
@@ -3489,6 +3610,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/pike_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-27 23:12:47 +0000"
@@ -3759,6 +3886,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/katana_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-27 22:34:18 +0000"
@@ -3798,6 +3931,12 @@
   "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-01-08 20:49:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/saber_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
@@ -3894,6 +4033,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_steel": {
     "criteria": {
       "has_steel_ingot": "2024-12-27 23:12:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/warhammer_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 22:29:36 +0000"
     },
     "done": true
   },
