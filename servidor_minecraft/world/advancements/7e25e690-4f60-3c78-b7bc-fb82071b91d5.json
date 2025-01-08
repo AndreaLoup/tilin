@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-01-08 21:39:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_wood": {
     "criteria": {
       "has_wood": "2024-12-27 22:13:25 +0000"
@@ -718,6 +724,7 @@
       "minecraft:skeleton": "2024-12-27 21:38:54 +0000",
       "minecraft:spider": "2024-12-27 21:24:10 +0000",
       "minecraft:creeper": "2024-12-28 22:13:18 +0000",
+      "minecraft:phantom": "2025-01-08 21:43:52 +0000",
       "minecraft:zombie": "2024-12-27 22:41:11 +0000",
       "minecraft:drowned": "2024-12-28 23:20:25 +0000"
     },
@@ -3336,6 +3343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-08 21:40:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:13:25 +0000"
@@ -3357,6 +3370,12 @@
   "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-01-08 20:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-01-08 21:39:55 +0000"
     },
     "done": true
   },

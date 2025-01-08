@@ -1589,6 +1589,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-01-08 21:44:45 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:collect_heads": {
     "criteria": {
       "drowned_head": "2025-01-07 03:00:47 +0000",
@@ -4726,6 +4732,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-10 00:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-08 21:44:45 +0000"
     },
     "done": true
   },
