@@ -1,73 +1,50 @@
-[09Jan2025 02:49:27.037] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[09Jan2025 02:49:27.043] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[09Jan2025 02:49:27.672] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[09Jan2025 02:49:27.772] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/tilin/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[09Jan2025 02:49:28.738] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[09Jan2025 02:49:28.904] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[09Jan2025 02:49:28.916] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[09Jan2025 02:49:30.991] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[09Jan2025 02:49:43.636] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[09Jan2025 02:49:43.643] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[09Jan2025 02:49:43.645] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[09Jan2025 02:49:43.645] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[09Jan2025 02:49:45.287] [modloading-worker-1/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[09Jan2025 02:49:45.297] [modloading-worker-1/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
-[09Jan2025 02:49:45.983] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[09Jan2025 02:49:45.983] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[09Jan2025 02:49:50.896] [main/INFO] [Spartan Weaponry/]: Registering items...
-[09Jan2025 02:49:50.904] [main/INFO] [Spartan Weaponry/]: Items Registered!
-[09Jan2025 02:49:51.532] [main/INFO] [Spartan Weaponry/]: Registering Entities
-[09Jan2025 02:49:52.497] [modloading-worker-1/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
-[09Jan2025 02:49:52.508] [modloading-worker-1/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[09Jan2025 02:49:52.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
-[09Jan2025 02:49:53.144] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
-	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2016) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2011) ~[?:?]
-	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2010) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1572) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1556) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:163) ~[forge:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1960) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1556) ~[?:?]
-	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527) ~[?:?]
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
-	... 3 more
-[09Jan2025 02:49:53.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
-[09Jan2025 02:49:53.178] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[09Jan2025 23:36:39.507] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[09Jan2025 23:36:39.516] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[09Jan2025 23:36:41.753] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[09Jan2025 23:36:42.057] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/tilin/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[09Jan2025 23:36:43.829] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Jan2025 23:36:44.094] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Jan2025 23:36:44.105] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[09Jan2025 23:36:47.623] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[09Jan2025 23:37:10.019] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[09Jan2025 23:37:10.026] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[09Jan2025 23:37:10.026] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[09Jan2025 23:37:10.026] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[09Jan2025 23:37:12.483] [modloading-worker-1/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[09Jan2025 23:37:12.492] [modloading-worker-1/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[09Jan2025 23:37:13.475] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[09Jan2025 23:37:13.476] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[09Jan2025 23:37:19.863] [main/INFO] [Spartan Weaponry/]: Registering items...
+[09Jan2025 23:37:19.868] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[09Jan2025 23:37:21.324] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[09Jan2025 23:37:22.991] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.5+57d5ac9) is loaded
+[09Jan2025 23:37:22.997] [modloading-worker-1/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[09Jan2025 23:37:23.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[09Jan2025 23:37:24.682] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Found status: BETA Current: 0.6.3 Target: 0.6.3
+[09Jan2025 23:37:24.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
+[09Jan2025 23:37:24.696] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[09Jan2025 02:49:53.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Jan2025 02:49:53.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[09Jan2025 02:49:53.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[09Jan2025 02:49:53.641] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12 Target: null
-[09Jan2025 02:49:59.913] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Jan2025 02:50:01.114] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09Jan2025 02:50:01.119] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09Jan2025 02:50:01.124] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09Jan2025 02:50:01.128] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09Jan2025 02:50:01.132] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09Jan2025 02:50:01.147] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Zombie Extreme 1.16.5 0.2.4 UNSTABLE VERSION (1).jar, mowziesmobs-1.5.27.jar, obfuscate-0.6.3-1.16.5 (3).jar, tac-release-0.3.14.2-1.16.5 (3).jar, marbledsarsenal-1.16.5-2.1.1.jar, geckolib-forge-1.16.5-3.0.104.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, sophisticatedbackpacks-1.16.5-3.15.16.669.jar, SpartanWeaponry-1.16.5-2.2.2.jar, FallingTree-1.16.5-2.11.7.jar, torohealth-1.16.4-forge-4.jar, jei-1.16.5-7.8.0.1011.jar, born_in_chaos_1.16_1.3.jar, [1.16.5] SecurityCraft v1.9.12.jar, worldedit-mod-7.2.5-dist (1).jar
-[09Jan2025 02:50:04.923] [Worker-Main-2/INFO] [tac/]: YO_DATA_GUN
-[09Jan2025 02:50:05.165] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/legendary as it is missing following references: tac:legendary_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[09Jan2025 02:50:05.166] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:old_rifle as it is missing following references: tac:kar98 (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[09Jan2025 02:50:05.166] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:module_item as it is missing following references: tac:module_item (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[09Jan2025 02:50:05.166] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/ultimate as it is missing following references: tac:ultimate_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
-[09Jan2025 02:50:05.264] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor_plate
+[09Jan2025 23:37:24.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Jan2025 23:37:25.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[09Jan2025 23:37:25.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[09Jan2025 23:37:25.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.12 Target: null
+[09Jan2025 23:37:35.840] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Jan2025 23:37:37.707] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Jan2025 23:37:37.713] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Jan2025 23:37:37.722] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Jan2025 23:37:37.724] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09Jan2025 23:37:37.726] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09Jan2025 23:37:37.741] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, Zombie Extreme 1.16.5 0.2.4 UNSTABLE VERSION (1).jar, mowziesmobs-1.5.27.jar, obfuscate-0.6.3-1.16.5 (3).jar, tac-release-0.3.14.2-1.16.5 (3).jar, marbledsarsenal-1.16.5-2.1.1.jar, geckolib-forge-1.16.5-3.0.104.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, sophisticatedbackpacks-1.16.5-3.15.16.669.jar, SpartanWeaponry-1.16.5-2.2.2.jar, FallingTree-1.16.5-2.11.7.jar, torohealth-1.16.4-forge-4.jar, jei-1.16.5-7.8.0.1011.jar, born_in_chaos_1.16_1.3.jar, [1.16.5] SecurityCraft v1.9.12.jar, worldedit-mod-7.2.5-dist (1).jar
+[09Jan2025 23:37:44.014] [Worker-Main-2/INFO] [tac/]: YO_DATA_GUN
+[09Jan2025 23:37:44.411] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/legendary as it is missing following references: tac:legendary_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[09Jan2025 23:37:44.413] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:old_rifle as it is missing following references: tac:kar98 (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[09Jan2025 23:37:44.414] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:module_item as it is missing following references: tac:module_item (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[09Jan2025 23:37:44.414] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldn't load item tag tac:certificates/ultimate as it is missing following references: tac:ultimate_certificate (from tac-release-0.3.14.2-1.16.5 (3).jar)
+[09Jan2025 23:37:44.605] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor_plate
 com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -113,7 +90,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.270] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:medium_steel_armor
+[09Jan2025 23:37:44.629] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:medium_steel_armor
 com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -159,7 +136,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.310] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:rare_material
+[09Jan2025 23:37:44.813] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:rare_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -201,7 +178,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.371] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:legendary_material
+[09Jan2025 23:37:44.860] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:legendary_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -243,7 +220,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.412] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor
+[09Jan2025 23:37:44.885] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:light_armor
 com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -289,7 +266,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.424] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:ultimate_material
+[09Jan2025 23:37:44.901] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:ultimate_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -331,7 +308,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.441] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:module_item
+[09Jan2025 23:37:44.912] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:module_item
 com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -377,7 +354,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.445] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:steel_sheet_pressing
+[09Jan2025 23:37:44.915] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:steel_sheet_pressing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
 	at net.minecraft.item.crafting.RecipeManager.func_241449_a_(RecipeManager.java:140) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -420,7 +397,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.447] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:epic_material
+[09Jan2025 23:37:44.916] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:epic_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -462,7 +439,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.453] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:hardened_steel_sheet_pressing
+[09Jan2025 23:37:44.920] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe marbledsarsenal:hardened_steel_sheet_pressing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
 	at net.minecraft.item.crafting.RecipeManager.func_241449_a_(RecipeManager.java:140) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -505,7 +482,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.464] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:uncommon_material
+[09Jan2025 23:37:44.928] [Worker-Main-2/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe tac:uncommon_material
 com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at net.minecraft.util.JSONUtils.func_151200_h(SourceFile:111) ~[?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:138) ~[?:?]
@@ -547,140 +524,144 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[09Jan2025 02:50:05.469] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
-[09Jan2025 02:50:06.324] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[09Jan2025 02:50:06.377] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[09Jan2025 02:50:06.589] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[09Jan2025 02:50:06.966] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.967] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[14].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.967] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.967] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.968] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.968] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.968] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.969] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[18].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.969] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.969] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.970] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[17].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.970] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.970] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decaying_zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.970] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.971] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.971] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.971] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.971] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.972] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.980] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_bomb}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.980] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.980] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.981] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.981] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[13].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.981] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.982] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.982] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.982] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.982] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.983] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.983] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/firelight_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.983] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.984] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.984] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.984] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[16].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.985] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.991] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.992] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.992] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_bomb}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.993] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[12].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.993] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.994] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.995] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.995] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:06.996] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.002] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.004] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[15].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.005] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.005] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/fallen_chaos_knight}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.006] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[10].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.006] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.007] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.007] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[11].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.009] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.010] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.010] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.011] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.011] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.012] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.013] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.014] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.015] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/fallen_chaos_knight}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.015] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/diamond_thermite}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.016] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.017] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.018] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.019] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/firelight}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.020] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.020] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.021] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.021] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.022] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[30].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.023] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.024] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.025] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.025] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.025] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.026] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.026] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[31].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.026] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.027] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/pumpkin_spirit}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.027] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.028] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.029] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.029] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decaying_zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.030] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[09Jan2025 02:50:07.316] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2067 advancements
-[09Jan2025 02:50:12.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[09Jan2025 02:50:12.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Jan2025 02:50:12.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Jan2025 02:50:12.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Jan2025 02:50:12.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Jan2025 02:50:12.804] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[09Jan2025 02:50:13.003] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Jan2025 02:50:13.004] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Jan2025 02:50:13.004] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Jan2025 02:50:13.005] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Jan2025 02:50:13.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Jan2025 02:50:13.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Jan2025 02:50:16.055] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Jan2025 02:50:16.057] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Jan2025 02:50:16.059] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Jan2025 02:50:16.060] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Jan2025 02:50:16.062] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Jan2025 02:50:16.181] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[09Jan2025 02:50:16.704] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 57%
-[09Jan2025 02:50:17.248] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3568 ms
-[09Jan2025 02:50:17.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.226s)! For help, type "help"
-[09Jan2025 02:50:17.440] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
-[09Jan2025 02:50:18.863] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@198d148c]
-[09Jan2025 02:50:20.445] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[09Jan2025 02:50:22.543] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[09Jan2025 02:50:22.543] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[09Jan2025 02:51:40.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a9aa91a
-[09Jan2025 02:51:40.685] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.55.205.9:55401] logged in with entity id 29 at (830.7658500932307, 79.0, -403.79558857391856)
-[09Jan2025 02:51:40.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
-[09Jan2025 02:51:40.781] [Server thread/INFO] [tac/]: PENDING
-[09Jan2025 02:52:09.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[09Jan2025 02:52:09.844] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
-[09Jan2025 02:52:09.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[09Jan2025 02:52:09.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[09Jan2025 02:52:09.954] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Server closed
-[09Jan2025 02:52:09.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
-[09Jan2025 02:52:10.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[09Jan2025 02:52:10.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09Jan2025 02:52:14.305] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09Jan2025 02:52:14.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09Jan2025 02:52:14.308] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09Jan2025 02:52:14.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09Jan2025 02:52:14.312] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09Jan2025 02:52:14.402] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09Jan2025 02:52:14.413] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09Jan2025 02:52:14.414] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jan2025 23:37:44.935] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
+[09Jan2025 23:37:46.067] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[09Jan2025 23:37:46.154] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[09Jan2025 23:37:46.498] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[09Jan2025 23:37:47.129] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.130] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[14].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.130] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.131] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.131] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.131] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.131] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.131] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[18].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.132] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.132] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.132] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[17].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.132] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.133] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decaying_zombie}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.133] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.133] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.133] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.134] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.134] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.134] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.134] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_bomb}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.134] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.135] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.135] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.135] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[13].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.137] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.137] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.137] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/seared_spirit}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.137] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.137] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.137] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.137] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/firelight_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.138] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.138] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.138] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.138] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[16].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.138] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.139] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.139] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.139] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_bomb}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.141] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[12].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.141] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.141] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.141] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.141] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.142] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decrepit_skeleton_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.142] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.142] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[15].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.142] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.142] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/fallen_chaos_knight}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.142] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[10].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.145] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.145] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.145] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[11].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.145] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.145] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.145] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.146] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.146] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.146] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.146] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.146] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.146] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/fallen_chaos_knight}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.147] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/diamond_thermite}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.148] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/supreme_bonescaller_s_2}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.149] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.149] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.149] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/firelight}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.149] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.149] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.149] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.149] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.149] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[30].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.157] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.157] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.157] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.157] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.158] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher_n}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.158] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bonescaller}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.158] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombiesina_barrel}.pools[0].entries[31].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.158] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/bone_imp}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.158] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/pumpkin_spirit}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.159] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/restless_spirit_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.159] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/nightmare_stalker_n}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.159] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/zombieswith_door_n}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.159] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/decaying_zombie}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.159] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {born_in_chaos_v1:entities/skeleton_thrasher}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[09Jan2025 23:37:47.665] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2067 advancements
+[09Jan2025 23:37:55.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[09Jan2025 23:37:55.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Jan2025 23:37:55.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Jan2025 23:37:55.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Jan2025 23:37:55.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Jan2025 23:37:55.776] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[09Jan2025 23:37:56.257] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Jan2025 23:37:56.258] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Jan2025 23:37:56.259] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Jan2025 23:37:56.263] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Jan2025 23:37:56.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Jan2025 23:37:57.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Jan2025 23:38:02.040] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.041] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.041] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.042] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.042] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.044] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.045] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.047] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.047] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.047] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:02.252] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[09Jan2025 23:38:03.217] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 23%
+[09Jan2025 23:38:03.261] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 23%
+[09Jan2025 23:38:03.838] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6588 ms
+[09Jan2025 23:38:03.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.515s)! For help, type "help"
+[09Jan2025 23:38:03.961] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[09Jan2025 23:38:05.624] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1d109add]
+[09Jan2025 23:38:08.077] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[09Jan2025 23:38:10.015] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[09Jan2025 23:38:10.015] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[09Jan2025 23:38:34.259] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2448bbc8
+[09Jan2025 23:38:34.438] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:51149] logged in with entity id 30 at (839.8918456979401, 85.0, -399.7065959259323)
+[09Jan2025 23:38:34.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
+[09Jan2025 23:38:34.735] [Server thread/INFO] [tac/]: PENDING
+[09Jan2025 23:38:37.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[09Jan2025 23:39:01.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9779ms or 195 ticks behind
+[09Jan2025 23:42:35.208] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3c567db4
+[09Jan2025 23:42:35.237] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/127.188.235.166:46813] logged in with entity id 1922 at (893.1791234299177, 65.0, -718.6429752059491)
+[09Jan2025 23:42:35.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[09Jan2025 23:42:35.251] [Server thread/INFO] [tac/]: PENDING
+[09Jan2025 23:43:25.210] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 moved too quickly! -0.11222641339293205,-1.5114165368308647,-10.150970315966958
+[09Jan2025 23:43:25.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[09Jan2025 23:43:31.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> fua que lag
+[09Jan2025 23:43:36.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> mejor reinico la compu
+[09Jan2025 23:43:37.983] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Disconnected
+[09Jan2025 23:43:37.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[09Jan2025 23:45:57.523] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Disconnected
+[09Jan2025 23:45:57.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
