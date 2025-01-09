@@ -665,3 +665,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [09Jan2025 23:43:37.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
 [09Jan2025 23:45:57.523] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Disconnected
 [09Jan2025 23:45:57.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
+[09Jan2025 23:50:57.937] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3498e48
+[09Jan2025 23:50:57.949] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:38663] logged in with entity id 3622 at (1009.8363714089719, 63.0, -463.2949098093972)
+[09Jan2025 23:50:57.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
+[09Jan2025 23:50:57.964] [Server thread/INFO] [tac/]: PENDING
