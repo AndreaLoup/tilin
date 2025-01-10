@@ -4592,3 +4592,90 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 04:14:49.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [10Jan2025 04:16:12.469] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Jan2025 04:16:12.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 04:18:08.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> los culotes
+[10Jan2025 04:18:50.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 04:20:45.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:20:46.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:20:46.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:20:46.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:20:46.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:21:12.289] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:21:12.297] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 04:21:15.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:18.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:18.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:19.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:19.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:21:19.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:19.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:21:20.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:22.191] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:23.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:21:23.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:23.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:21:34.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:21:34.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:21:34.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:22:04.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:05.942] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:06.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:07.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:09.656] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 04:22:11.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> yo quiero ir tambien
+[10Jan2025 04:22:13.052] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 04:22:13.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 04:22:35.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:22:35.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:35.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:22:36.655] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 04:22:38.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:38.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:38.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:39.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:39.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:39.387] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:40.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:22:40.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:22:40.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:22:46.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya termine de deforestar una parte
+[10Jan2025 04:22:47.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 04:23:07.531] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:23:08.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:23:27.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:24:14.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> yo siempre voy a ir atras
+[10Jan2025 04:24:19.585] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=119, y=90, z=-76} BlockPos{x=118, y=86, z=-60}
+[10Jan2025 04:24:24.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ora
+[10Jan2025 04:24:28.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> que suena
+[10Jan2025 04:24:58.467] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.517] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.567] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.617] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.668] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.717] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.768] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.818] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:25:11.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> pa no perdernos
+[10Jan2025 04:25:36.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=123, y=93, z=-56} BlockPos{x=118, y=90, z=-69}
+[10Jan2025 04:25:41.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> perate we me ando comiendo mi sandwich
+[10Jan2025 04:25:45.338] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=79, y=85, z=52} BlockPos{x=66, y=83, z=68}
+[10Jan2025 04:25:45.376] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=79, y=85, z=52} BlockPos{x=66, y=83, z=68}
+[10Jan2025 04:25:45.417] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=79, y=85, z=52} BlockPos{x=66, y=83, z=68}
+[10Jan2025 04:25:45.468] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=79, y=85, z=52} BlockPos{x=66, y=83, z=68}
+[10Jan2025 04:25:49.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:25:49.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:25:50.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:25:50.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:25:50.818] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=61, y=83, z=75} BlockPos{x=60, y=84, z=77}
+[10Jan2025 04:25:50.868] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=61, y=83, z=75} BlockPos{x=60, y=84, z=77}
+[10Jan2025 04:25:50.921] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=61, y=83, z=75} BlockPos{x=60, y=84, z=77}
+[10Jan2025 04:25:55.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xddd
+[10Jan2025 04:26:09.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> 95 91 -98
+[10Jan2025 04:26:12.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:26:12.486] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 04:26:12.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> la lava se expande mas
+[10Jan2025 04:26:14.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> waos
+[10Jan2025 04:26:35.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:26:39.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:26:40.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:26:40.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:26:40.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!

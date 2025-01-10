@@ -814,3 +814,38 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 04:08:52.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a
 [10Jan2025 04:08:56.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y tu edu?
 [10Jan2025 04:09:21.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tenqiu
+[10Jan2025 04:18:08.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> los culotes
+[10Jan2025 04:18:50.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 04:22:09.656] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 04:22:11.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> yo quiero ir tambien
+[10Jan2025 04:22:13.052] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 04:22:13.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 04:22:36.655] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 04:22:46.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya termine de deforestar una parte
+[10Jan2025 04:22:47.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 04:24:14.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> yo siempre voy a ir atras
+[10Jan2025 04:24:19.585] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=119, y=90, z=-76} BlockPos{x=118, y=86, z=-60}
+[10Jan2025 04:24:24.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ora
+[10Jan2025 04:24:28.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> que suena
+[10Jan2025 04:24:58.467] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.517] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.567] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.617] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.668] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.717] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.768] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:24:58.818] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=116, y=82, z=-12} BlockPos{x=116, y=81, z=-13}
+[10Jan2025 04:25:11.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> pa no perdernos
+[10Jan2025 04:25:36.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=123, y=93, z=-56} BlockPos{x=118, y=90, z=-69}
+[10Jan2025 04:25:41.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> perate we me ando comiendo mi sandwich
+[10Jan2025 04:25:45.338] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=79, y=85, z=52} BlockPos{x=66, y=83, z=68}
+[10Jan2025 04:25:45.376] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=79, y=85, z=52} BlockPos{x=66, y=83, z=68}
+[10Jan2025 04:25:45.417] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=79, y=85, z=52} BlockPos{x=66, y=83, z=68}
+[10Jan2025 04:25:45.468] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=79, y=85, z=52} BlockPos{x=66, y=83, z=68}
+[10Jan2025 04:25:50.818] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=61, y=83, z=75} BlockPos{x=60, y=84, z=77}
+[10Jan2025 04:25:50.868] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=61, y=83, z=75} BlockPos{x=60, y=84, z=77}
+[10Jan2025 04:25:50.921] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=61, y=83, z=75} BlockPos{x=60, y=84, z=77}
+[10Jan2025 04:25:55.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xddd
+[10Jan2025 04:26:09.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> 95 91 -98
+[10Jan2025 04:26:12.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> la lava se expande mas
+[10Jan2025 04:26:14.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> waos
