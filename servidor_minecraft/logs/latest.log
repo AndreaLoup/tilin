@@ -655,3 +655,33 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 02:21:09.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
 [10Jan2025 02:21:09.127] [Server thread/INFO] [tac/]: PENDING
 [10Jan2025 02:21:11.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[10Jan2025 02:28:23.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[10Jan2025 02:28:25.220] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 02:30:32.775] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4d492a1b
+[10Jan2025 02:30:32.788] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: tiliaso_01[/127.101.245.30:56043] logged in with entity id 1490 at (757.7000300698659, 81.5, -784.0151202740852)
+[10Jan2025 02:30:32.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tiliaso_01 joined the game
+[10Jan2025 02:30:32.798] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 02:30:57.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Jan2025 02:31:37.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to tiliaso_01]
+[10Jan2025 02:32:31.728] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5bd13699
+[10Jan2025 02:32:31.741] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/127.188.235.166:58413] logged in with entity id 2374 at (741.6999999880791, 63.5625, -479.30000001192093)
+[10Jan2025 02:32:31.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[10Jan2025 02:32:31.763] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 02:32:44.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> me estaba haciendo una payita
+[10Jan2025 02:32:45.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> dea
+[10Jan2025 02:32:54.087] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[10Jan2025 02:33:34.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[10Jan2025 02:33:44.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Jan2025 02:33:47.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Spectator Mode]
+[10Jan2025 02:34:05.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> q es eso
+[10Jan2025 02:34:16.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y tu nueva arma w?
+[10Jan2025 02:34:20.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Jan2025 02:34:25.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> huy
+[10Jan2025 02:34:27.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[10Jan2025 02:34:28.857] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Disconnected
+[10Jan2025 02:34:28.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[10Jan2025 02:34:32.675] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69498770
+[10Jan2025 02:34:32.692] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/127.188.235.166:51555] logged in with entity id 3404 at (739.0057922716793, 63.0, -483.8322407641994)
+[10Jan2025 02:34:32.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[10Jan2025 02:34:32.713] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 02:34:39.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
