@@ -5826,3 +5826,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 06:26:12.059] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Jan2025 06:26:12.067] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Jan2025 06:28:56.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Rotten to the Core]
+[10Jan2025 06:31:11.894] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 06:31:11.901] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 06:36:11.915] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 06:36:11.923] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

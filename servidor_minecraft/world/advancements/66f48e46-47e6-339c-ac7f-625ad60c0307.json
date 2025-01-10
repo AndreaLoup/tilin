@@ -4574,6 +4574,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-01-10 06:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 22:05:19 +0000"
