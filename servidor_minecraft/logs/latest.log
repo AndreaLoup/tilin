@@ -808,3 +808,9 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 04:03:15.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> de?
 [10Jan2025 04:03:21.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a
 [10Jan2025 04:03:26.282] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel moved wrongly!
+[10Jan2025 04:08:18.102] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=742, y=72, z=-835} BlockPos{x=742, y=72, z=-836}
+[10Jan2025 04:08:43.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> rexsel
+[10Jan2025 04:08:48.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tienes lapi lazuli?
+[10Jan2025 04:08:52.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a
+[10Jan2025 04:08:56.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y tu edu?
+[10Jan2025 04:09:21.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tenqiu

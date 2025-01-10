@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-10 04:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-10 05:29:33 +0000"
@@ -1017,6 +1023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-10 04:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-08 23:26:31 +0000"
@@ -1050,6 +1062,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-01-08 23:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-10 04:09:45 +0000"
     },
     "done": true
   },
@@ -1305,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-10 04:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 04:12:26 +0000"
@@ -1332,6 +1356,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-01-10 04:08:23 +0000"
     },
     "done": true
   },
@@ -2805,6 +2835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 04:09:45 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2024-12-28 00:17:36 +0000"
@@ -3564,6 +3600,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-27 20:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-10 04:09:45 +0000"
     },
     "done": true
   },

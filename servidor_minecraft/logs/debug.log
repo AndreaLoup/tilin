@@ -4213,3 +4213,382 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 04:06:33.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
 [10Jan2025 04:06:33.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [10Jan2025 04:06:33.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:06:39.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:06:39.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:06:39.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:06:39.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:06:39.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:06:39.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:08.131] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:08.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:08.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:08.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:08.132] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:08.132] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:09.520] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:09.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:09.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:09.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:09.520] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:09.520] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:11.142] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:11.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:11.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:11.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:11.142] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:11.142] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:12.781] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:12.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:12.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:12.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:12.781] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:12.781] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:13.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:13.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:13.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:14.522] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:14.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:14.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:14.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:14.522] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:14.523] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:15.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:15.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:15.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:15.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:15.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:15.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:16.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:16.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:16.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:16.504] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:16.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:16.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:16.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:16.504] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:16.504] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:17.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:17.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:17.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:17.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:17.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:17.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:18.117] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:18.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:18.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:18.117] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:18.117] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:18.117] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:19.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:19.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:19.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:19.769] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:19.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:19.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:19.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:19.769] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:19.770] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:20.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:20.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:20.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:20.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:20.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:20.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:21.354] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:21.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:21.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:21.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:21.355] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:21.355] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:22.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:22.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:22.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:22.656] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:22.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:22.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:22.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:22.656] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:22.657] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:22.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:22.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:22.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:24.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:24.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:24.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:24.422] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:24.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:24.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:24.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:24.423] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:24.423] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:24.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:24.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:24.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:26.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:26.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:26.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:26.104] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:26.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:26.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:26.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:26.105] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:26.105] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:26.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:26.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:26.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:27.617] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:27.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:27.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:27.618] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:27.618] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:27.619] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:28.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:28.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:28.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:29.139] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:29.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:29.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:29.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:29.139] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:29.140] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:30.661] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:30.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:30.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:30.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:30.661] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:30.661] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:31.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:31.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:31.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:32.102] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:32.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:32.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:32.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:32.103] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:32.103] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:33.558] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:33.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:33.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:33.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:33.558] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:33.558] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:34.959] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Demolisher
+[10Jan2025 04:07:34.959] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:34.959] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:34.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:34.960] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:34.960] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:35.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:35.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:35.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:36.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:36.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:36.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:36.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:36.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:36.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:39.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:39.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:39.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:39.927] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:42.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:42.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:42.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:43.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:43.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:43.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:45.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:45.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:45.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:49.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:50.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:53.488] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Door Knight
+[10Jan2025 04:07:53.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:53.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:53.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:53.489] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:53.489] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:55.161] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Door Knight
+[10Jan2025 04:07:55.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:55.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:55.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:55.162] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:55.162] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:56.654] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Door Knight
+[10Jan2025 04:07:56.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:56.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:56.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:56.655] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:56.655] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:56.685] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:57.818] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Door Knight
+[10Jan2025 04:07:57.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:07:57.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:57.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:07:57.818] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:07:57.819] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:07:57.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:58.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:59.741] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Door Knight
+[10Jan2025 04:07:59.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:07:59.741] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:08:00.903] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Door Knight
+[10Jan2025 04:08:00.903] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:08:00.903] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:08:00.903] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:08:00.903] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:08:00.903] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:08:02.084] [Server thread/DEBUG] [Spartan Weaponry/]: Victim of attack: Door Knight
+[10Jan2025 04:08:02.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:08:02.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:08:02.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:08:02.085] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:08:02.085] [Server thread/DEBUG] [Spartan Weaponry/]: Attacking victim!
+[10Jan2025 04:08:02.992] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:08:02.992] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:08:02.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:08:02.995] [Server thread/DEBUG] [Spartan Weaponry/]: Damage: 7.0 - Magnitude: 1.0 - Overridden sweep damage ratio to 0.85714287
+[10Jan2025 04:08:18.102] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=742, y=72, z=-835} BlockPos{x=742, y=72, z=-836}
+[10Jan2025 04:08:25.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:08:25.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:08:25.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:08:43.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> rexsel
+[10Jan2025 04:08:48.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tienes lapi lazuli?
+[10Jan2025 04:08:52.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a
+[10Jan2025 04:08:56.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y tu edu?
+[10Jan2025 04:09:01.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:02.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:04.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:04.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:09:04.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:04.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:09:11.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:19.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:21.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tenqiu
+[10Jan2025 04:09:39.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:40.475] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:41.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:42.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:43.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:44.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:54.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:55.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:09:56.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:15.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:20.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:10:20.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:20.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:10:29.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:31.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:34.069] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:35.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:35.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:49.850] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:50.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:50.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:52.852] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:55.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:10:56.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:11:02.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:11:03.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:11:03.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:11:03.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:11:03.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:11:03.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:11:03.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:11:04.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:11:05.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:11:05.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:11:05.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:11:12.106] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:11:12.113] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 04:12:17.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:17.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:17.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:17.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:18.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:18.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:18.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:20.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:20.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:20.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:21.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:21.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:21.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:21.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:21.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:21.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:22.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:22.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:22.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:22.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:22.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:22.670] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:24.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:24.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:24.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:24.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:25.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:25.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:25.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:25.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:25.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:25.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:27.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:27.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:27.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:27.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:27.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:27.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:12:52.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:12:52.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:52.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:53.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:54.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:55.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:55.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:56.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:57.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:57.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:58.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:12:59.357] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:01.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:03.378] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:04.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:13:04.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:04.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:13:08.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:40.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:13:40.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:40.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:13:41.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:13:41.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:41.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:13:41.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:13:41.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:41.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:13:42.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:13:42.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:42.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:13:42.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:44.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:47.905] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:49.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:51.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:51.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:13:51.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:52.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:13:52.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:13:52.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:14:17.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:14:23.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:14:24.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:14:25.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:14:49.332] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:14:49.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:14:49.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:14:49.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 04:14:49.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 04:14:49.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 04:16:12.469] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:16:12.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
