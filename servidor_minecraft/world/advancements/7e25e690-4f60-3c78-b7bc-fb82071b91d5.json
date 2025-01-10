@@ -3058,6 +3058,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-10 05:56:25 +0000",
       "minecraft:skeleton": "2024-12-27 21:38:54 +0000",
       "minecraft:spider": "2024-12-27 21:24:10 +0000",
       "minecraft:piglin_brute": "2025-01-10 04:35:42 +0000",
@@ -3143,6 +3144,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-10 05:56:25 +0000"
     },
     "done": true
   },
