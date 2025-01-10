@@ -893,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-10 03:58:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:13:25 +0000"
@@ -3038,6 +3044,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-28 22:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 03:58:04 +0000"
     },
     "done": true
   },

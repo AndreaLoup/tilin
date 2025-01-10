@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/club_studded": {
+    "criteria": {
+      "has_club": "2025-01-10 03:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-27 22:50:33 +0000"
@@ -632,6 +638,12 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:club": {
+    "criteria": {
+      "has_club": "2025-01-10 03:59:15 +0000"
     },
     "done": true
   },
