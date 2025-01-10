@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-01-10 00:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2025-01-08 23:46:31 +0000"
@@ -1094,6 +1100,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2024-12-27 23:23:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-01-10 00:48:45 +0000"
     },
     "done": true
   },
@@ -4347,6 +4359,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_diamond": {
     "criteria": {
       "has_diamond": "2024-12-27 22:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-01-10 00:44:33 +0000"
     },
     "done": true
   },
