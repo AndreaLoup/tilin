@@ -756,3 +756,15 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 03:33:25.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> hay mas
 [10Jan2025 03:33:37.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> hay mas pollos
 [10Jan2025 03:35:31.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> HAY PTA PARA QUE TIRE EL STACK DE HILO
+[10Jan2025 03:39:06.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> rexsel porque no le dices a tu hermana que se meta y que el edu le meta 30 tiros a la cabeza?
+[10Jan2025 03:40:02.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> conejito mareado
+[10Jan2025 03:40:07.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 03:41:02.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> temazo
+[10Jan2025 03:41:12.477] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Disconnected
+[10Jan2025 03:41:12.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
+[10Jan2025 03:43:32.160] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2a76cb3b[id=<null>,name=Eduardo171,properties={},legacy=false] (/127.179.46.36:44135) lost connection: Disconnected
+[10Jan2025 03:43:39.021] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@406ab6e9
+[10Jan2025 03:43:39.041] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Eduardo171[/127.179.46.36:36935] logged in with entity id 25615 at (720.0996528896382, 46.0, -692.9431616721855)
+[10Jan2025 03:43:39.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 joined the game
+[10Jan2025 03:43:39.045] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 03:46:07.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> sabe

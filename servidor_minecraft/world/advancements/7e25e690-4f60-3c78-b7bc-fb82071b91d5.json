@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-10 03:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-01-10 03:10:36 +0000"
@@ -1236,6 +1242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-10 03:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-27 22:15:34 +0000"
@@ -1671,6 +1683,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_diamond": {
     "criteria": {
       "has_diamond": "2024-12-27 22:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-10 03:33:08 +0000"
     },
     "done": true
   },
@@ -3936,7 +3954,8 @@
       "cooked_beef": "2025-01-08 21:05:42 +0000",
       "beef": "2024-12-27 21:40:53 +0000",
       "bread": "2025-01-09 00:17:20 +0000",
-      "golden_apple": "2025-01-09 01:37:25 +0000"
+      "golden_apple": "2025-01-09 01:37:25 +0000",
+      "melon_slice": "2025-01-10 03:32:10 +0000"
     },
     "done": false
   },

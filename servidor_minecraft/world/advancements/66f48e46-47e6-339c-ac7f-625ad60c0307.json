@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 23:45:22 +0000"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 22:05:19 +0000"
@@ -410,6 +422,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-01-08 22:15:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -488,6 +506,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-01-08 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-01-10 03:32:20 +0000"
     },
     "done": true
   },
@@ -614,6 +638,12 @@
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2024-12-28 01:08:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -839,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-01-10 03:32:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-01-07 01:41:03 +0000"
@@ -938,6 +974,12 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-01-09 00:31:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -1115,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-10 03:32:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-28 22:36:58 +0000"
@@ -1130,6 +1178,12 @@
   "spartanweaponry:parrying_dagger": {
     "criteria": {
       "has_parrying_dagger": "2025-01-07 03:23:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -1712,6 +1766,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:collect_heads": {
     "criteria": {
       "drowned_head": "2025-01-07 03:00:47 +0000",
@@ -1954,6 +2014,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_purple_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 23:45:22 +0000"
@@ -1993,6 +2059,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 23:45:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_white_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -2362,6 +2434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-01-10 03:32:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 01:42:24 +0000"
@@ -2503,6 +2581,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 22:08:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -2674,9 +2758,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_brown_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-28 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -2821,6 +2917,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-08 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -4037,6 +4139,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_orange_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-01-08 20:22:18 +0000"
@@ -4088,6 +4196,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 23:45:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
     },
     "done": true
   },
@@ -4620,6 +4734,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_gray_carpet": {
+    "criteria": {
+      "has_wool": "2025-01-10 03:31:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-06 01:42:24 +0000"
@@ -4923,6 +5043,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-28 00:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-01-10 03:32:20 +0000"
     },
     "done": true
   },
