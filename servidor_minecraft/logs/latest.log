@@ -1129,3 +1129,4 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 06:25:18.463] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Disconnected
 [10Jan2025 06:25:18.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
 [10Jan2025 06:28:56.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Rotten to the Core]
+[10Jan2025 06:41:56.463] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
