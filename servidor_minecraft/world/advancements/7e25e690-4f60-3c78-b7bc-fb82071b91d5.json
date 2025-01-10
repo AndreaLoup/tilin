@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-10 03:10:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-27 23:22:19 +0000"
@@ -560,6 +566,12 @@
   "securitycraft:recipes/securitycraft/iron_mine": {
     "criteria": {
       "has_mine": "2025-01-08 21:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-10 03:10:36 +0000"
     },
     "done": true
   },
@@ -2487,6 +2499,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-27 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-10 03:10:36 +0000"
     },
     "done": true
   },
