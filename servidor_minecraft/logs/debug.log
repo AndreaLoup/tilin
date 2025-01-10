@@ -3115,3 +3115,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 01:28:43.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
 [10Jan2025 01:28:53.822] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Disconnected
 [10Jan2025 01:28:53.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
+[10Jan2025 01:33:31.382] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:33:31.394] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 01:38:31.377] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:38:31.382] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
