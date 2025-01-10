@@ -1515,6 +1515,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 03:26:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-10 04:18:33 +0000"
@@ -2877,6 +2883,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-01-10 03:21:36 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_leather": {
     "criteria": {
       "has_leather": "2024-12-27 22:22:12 +0000"
@@ -4212,6 +4224,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-27 23:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-10 03:21:36 +0000"
     },
     "done": true
   },

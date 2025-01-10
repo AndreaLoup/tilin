@@ -875,6 +875,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-10 03:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-01-08 22:04:56 +0000"
@@ -4165,6 +4171,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:17:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-10 03:28:38 +0000"
     },
     "done": true
   },
