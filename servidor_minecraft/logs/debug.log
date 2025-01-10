@@ -5777,3 +5777,36 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [10Jan2025 06:08:42.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [10Jan2025 06:08:42.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [10Jan2025 06:08:43.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 06:09:05.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> yo me vodi pa mi casa
+[10Jan2025 06:09:25.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> eso si, te recuerdo que pongas el keep inv para que no vuelvan a pasar ese tipo de cosas porfavor
+[10Jan2025 06:09:43.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> si un poco
+[10Jan2025 06:09:46.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> dea
+[10Jan2025 06:10:16.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no es que sea puto si no por el bien de los otros
+[10Jan2025 06:10:18.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 06:10:18.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 06:10:35.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Creative Mode]
+[10Jan2025 06:10:45.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y aparte mas lo que le paso al tilin
+[10Jan2025 06:10:59.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> que para nada fue mi culpa y queda entre nosotros 2
+[10Jan2025 06:11:01.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 06:11:12.242] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 06:11:12.250] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 06:11:29.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 06:11:29.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 06:11:29.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 06:11:29.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 06:11:30.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 06:11:30.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 06:11:30.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 06:12:48.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tengo miedo que el edu venga y me meta la minigun por el hoyo
+[10Jan2025 06:12:59.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya que pue viste
+[10Jan2025 06:15:55.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 06:15:55.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 06:16:12.150] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 06:16:12.158] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 06:16:22.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> rexsel
+[10Jan2025 06:16:43.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no nada, es que te estaba por decir que miraras discord pero neh
+[10Jan2025 06:18:04.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y como vas con lo del pollo p we?
+[10Jan2025 06:18:11.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> a
+[10Jan2025 06:18:32.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[10Jan2025 06:19:03.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[10Jan2025 06:19:03.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
