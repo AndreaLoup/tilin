@@ -35,3 +35,20 @@
 [10Jan2025 01:16:57.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> q
 [10Jan2025 01:17:08.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> no w, asi estoy bien
 [10Jan2025 01:17:16.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ta bueno
+[10Jan2025 01:21:03.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya vengo
+[10Jan2025 01:21:07.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> voy a jugar otra cosa
+[10Jan2025 01:21:09.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[10Jan2025 01:21:13.830] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Disconnected
+[10Jan2025 01:21:13.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[10Jan2025 01:25:55.251] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@eed3fd8
+[10Jan2025 01:25:55.283] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rexsel[/127.55.205.9:49495] logged in with entity id 40099 at (891.5265428055961, 65.0, -728.8369769357699)
+[10Jan2025 01:25:55.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel joined the game
+[10Jan2025 01:25:55.326] [Server thread/INFO] [tac/]: PENDING
+[10Jan2025 01:26:34.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[10Jan2025 01:28:25.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Set own game mode to Survival Mode]
+[10Jan2025 01:28:39.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Eduardo171> ya vuelvo
+[10Jan2025 01:28:40.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Removed every effect from 2 targets]
+[10Jan2025 01:28:43.423] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Disconnected
+[10Jan2025 01:28:43.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
+[10Jan2025 01:28:53.822] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rexsel lost connection: Disconnected
+[10Jan2025 01:28:53.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel left the game
