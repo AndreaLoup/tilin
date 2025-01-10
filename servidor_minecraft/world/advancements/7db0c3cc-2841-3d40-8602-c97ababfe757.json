@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 03:18:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_steel": {
     "criteria": {
       "has_steel_ingot": "2025-01-07 02:43:54 +0000"
