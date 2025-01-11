@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-11 06:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-28 21:54:08 +0000"
@@ -743,6 +749,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-11 06:22:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-10 04:03:59 +0000"
@@ -860,6 +872,12 @@
   "securitycraft:recipes/securitycraft/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-01-08 21:07:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-11 06:20:45 +0000"
     },
     "done": true
   },
@@ -1225,6 +1243,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 06:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-10 04:03:59 +0000"
@@ -1387,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-11 07:26:05 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/saber_wood": {
     "criteria": {
       "has_wood": "2024-12-27 22:20:39 +0000"
@@ -1396,6 +1426,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2024-12-27 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-11 06:50:21 +0000"
     },
     "done": true
   },
@@ -1586,6 +1622,18 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/farmersdelight/egg_sandwich": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 07:13:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-01-11 06:59:21 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_leather": {
     "criteria": {
       "has_leather": "2024-12-27 22:22:12 +0000"
@@ -1631,6 +1679,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 04:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-11 07:26:05 +0000"
     },
     "done": true
   },
@@ -1691,6 +1745,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 04:42:49 +0000"
     },
     "done": true
   },
@@ -1760,6 +1820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-11 06:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-28 01:15:31 +0000"
@@ -1769,6 +1835,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-10 04:05:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-11 03:23:35 +0000"
     },
     "done": true
   },
@@ -1811,6 +1883,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 22:22:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-11 03:23:35 +0000"
     },
     "done": true
   },
@@ -2042,6 +2120,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-01-11 07:20:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 23:13:04 +0000"
@@ -2252,6 +2336,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-01-11 06:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2024-12-10 05:29:33 +0000"
@@ -2261,6 +2351,18 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-10 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 03:23:35 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-11 03:23:35 +0000"
     },
     "done": true
   },
@@ -2333,6 +2435,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-27 23:23:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 04:43:08 +0000"
     },
     "done": true
   },
@@ -2480,6 +2588,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-11 06:13:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-10 04:23:25 +0000"
@@ -2531,6 +2645,18 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-01-11 04:57:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-11 03:23:35 +0000"
     },
     "done": true
   },
@@ -2840,6 +2966,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-01-11 06:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-10 04:03:58 +0000"
@@ -2902,6 +3034,7 @@
       "minecraft:piglin_brute": "2025-01-10 04:41:54 +0000",
       "minecraft:creeper": "2024-12-27 22:48:08 +0000",
       "minecraft:phantom": "2024-12-27 22:25:06 +0000",
+      "minecraft:witch": "2025-01-11 06:42:02 +0000",
       "minecraft:wither_skeleton": "2025-01-07 03:00:17 +0000",
       "minecraft:husk": "2025-01-08 05:10:14 +0000",
       "minecraft:cave_spider": "2024-12-28 21:41:04 +0000",
@@ -2933,6 +3066,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-10 05:17:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-11 06:20:45 +0000"
     },
     "done": true
   },
@@ -3449,6 +3588,7 @@
       "minecraft:desert_hills": "2025-01-08 05:11:40 +0000",
       "minecraft:taiga_hills": "2025-01-07 01:59:36 +0000",
       "minecraft:desert": "2025-01-08 05:09:48 +0000",
+      "minecraft:birch_forest": "2025-01-11 06:43:14 +0000",
       "minecraft:beach": "2024-12-10 03:56:42 +0000",
       "minecraft:dark_forest": "2025-01-07 02:05:00 +0000",
       "minecraft:river": "2024-12-10 04:05:04 +0000",
@@ -3456,6 +3596,7 @@
       "minecraft:wooded_mountains": "2024-12-28 21:06:04 +0000",
       "minecraft:wooded_hills": "2024-12-10 04:11:05 +0000",
       "minecraft:stone_shore": "2024-12-28 21:04:27 +0000",
+      "minecraft:swamp": "2025-01-11 06:41:33 +0000",
       "minecraft:plains": "2024-12-10 03:56:15 +0000"
     },
     "done": false
@@ -3649,6 +3790,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-01-10 04:28:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-11 03:23:35 +0000"
     },
     "done": true
   },
@@ -3992,6 +4139,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-11 06:22:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-07 01:34:28 +0000"
@@ -4184,6 +4337,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-11 04:42:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-27 23:23:31 +0000"
@@ -4255,6 +4414,16 @@
       "has_mossy_stone_bricks": "2025-01-08 23:03:09 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2025-01-11 07:41:33 +0000",
+      "beetroot": "2025-01-11 07:42:18 +0000",
+      "sugar_cane": "2025-01-11 07:22:06 +0000",
+      "wheat": "2025-01-11 06:18:30 +0000",
+      "carrot": "2025-01-11 07:42:36 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
@@ -4454,6 +4623,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-11 03:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-10 04:41:41 +0000"
@@ -4640,6 +4815,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-11 07:20:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/halberd_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:08:20 +0000"
@@ -4649,6 +4830,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 04:12:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 06:20:45 +0000"
     },
     "done": true
   },
