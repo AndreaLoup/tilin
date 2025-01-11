@@ -679,3 +679,14 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [11Jan2025 02:59:50.167] [Server thread/INFO] [tac/]: PENDING
 [11Jan2025 02:59:56.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> lag
 [11Jan2025 02:59:58.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> pta
+[11Jan2025 03:00:13.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> aver creo que ya
+[11Jan2025 03:00:20.277] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Timed out
+[11Jan2025 03:00:20.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[11Jan2025 03:00:42.288] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@57d42415
+[11Jan2025 03:00:42.306] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: elikernomamahuev[/127.188.235.166:33765] logged in with entity id 2273 at (740.4693018481555, 63.0, -482.2725901290596)
+[11Jan2025 03:00:42.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev joined the game
+[11Jan2025 03:00:42.311] [Server thread/INFO] [tac/]: PENDING
+[11Jan2025 03:01:12.392] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: elikernomamahuev lost connection: Timed out
+[11Jan2025 03:01:12.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev left the game
+[11Jan2025 03:05:07.818] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Eduardo171 lost connection: Disconnected
+[11Jan2025 03:05:07.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Eduardo171 left the game
