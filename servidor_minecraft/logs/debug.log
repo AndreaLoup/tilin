@@ -2411,3 +2411,69 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [11Jan2025 21:24:27.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [11Jan2025 21:25:15.861] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [11Jan2025 21:25:17.861] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:26:05.116] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 23
+[11Jan2025 21:26:05.129] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.inventory.DoubleSidedInventory@5e10c6a4=InventoryMapping{i=net.minecraft.inventory.DoubleSidedInventory@5e10c6a4, c=net.minecraft.inventory.container.ChestContainer@185a696f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.ChestContainer@185a696f, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.ChestContainer@185a696f, b=81, e=89}}
+[11Jan2025 21:26:05.129] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.inventory.DoubleSidedInventory@5e10c6a4, c=net.minecraft.inventory.container.ChestContainer@185a696f, b=0, e=53}
+[11Jan2025 21:26:05.568] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[11Jan2025 21:26:05.569] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.inventory.DoubleSidedInventory@5e10c6a4=InventoryMapping{i=net.minecraft.inventory.DoubleSidedInventory@5e10c6a4, c=net.minecraft.inventory.container.ChestContainer@185a696f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.ChestContainer@185a696f, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.ChestContainer@185a696f, b=81, e=89}}
+[11Jan2025 21:26:05.569] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.inventory.DoubleSidedInventory@5e10c6a4, c=net.minecraft.inventory.container.ChestContainer@185a696f, b=0, e=53}
+[11Jan2025 21:26:10.652] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 49
+[11Jan2025 21:26:10.653] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.inventory.DoubleSidedInventory@5e10c6a4=InventoryMapping{i=net.minecraft.inventory.DoubleSidedInventory@5e10c6a4, c=net.minecraft.inventory.container.ChestContainer@185a696f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.ChestContainer@185a696f, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.ChestContainer@185a696f, b=81, e=89}}
+[11Jan2025 21:26:10.653] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.inventory.DoubleSidedInventory@5e10c6a4, c=net.minecraft.inventory.container.ChestContainer@185a696f, b=0, e=53}
+[11Jan2025 21:26:10.654] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[11Jan2025 21:26:10.654] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.inventory.DoubleSidedInventory@5e10c6a4=InventoryMapping{i=net.minecraft.inventory.DoubleSidedInventory@5e10c6a4, c=net.minecraft.inventory.container.ChestContainer@185a696f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.ChestContainer@185a696f, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.ChestContainer@185a696f, b=81, e=89}}
+[11Jan2025 21:26:10.654] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.inventory.DoubleSidedInventory@5e10c6a4, c=net.minecraft.inventory.container.ChestContainer@185a696f, b=0, e=53}
+[11Jan2025 21:26:46.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> aver pe
+[11Jan2025 21:26:48.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tp tp
+[11Jan2025 21:26:54.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ando en la quinta verga
+[11Jan2025 21:26:54.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[11Jan2025 21:27:11.255] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:27:11.280] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Jan2025 21:27:17.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> nomames que hiciste la misma base del servidor pasado xd?
+[11Jan2025 21:28:39.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> voy a poner una pilongilla para dejar marca
+[11Jan2025 21:28:40.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[11Jan2025 21:29:00.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> ya
+[11Jan2025 21:29:38.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> tengo semillas para el huerto
+[11Jan2025 21:29:44.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y mas cosas
+[11Jan2025 21:29:47.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> deja te las doy
+[11Jan2025 21:30:04.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rexsel has made the advancement [Crops of the Wild]
+[11Jan2025 21:30:28.857] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 98
+[11Jan2025 21:30:28.857] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29eb376a, b=108, e=134}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29eb376a, b=0, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29eb376a, b=135, e=143}}
+[11Jan2025 21:30:28.858] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29eb376a, b=0, e=107}
+[11Jan2025 21:30:28.929] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 98
+[11Jan2025 21:30:28.930] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29eb376a, b=108, e=134}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29eb376a, b=0, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29eb376a, b=135, e=143}}
+[11Jan2025 21:30:28.930] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@29eb376a, b=0, e=107}
+[11Jan2025 21:31:39.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:31:40.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[11Jan2025 21:31:40.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:31:41.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:31:45.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[11Jan2025 21:31:45.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:31:45.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Jan2025 21:31:45.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:31:45.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:31:47.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[11Jan2025 21:31:47.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:31:47.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Jan2025 21:32:10.751] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:32:10.781] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Jan2025 21:32:15.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> huy pe
+[11Jan2025 21:32:16.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> phantoms
+[11Jan2025 21:32:41.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:32:49.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elikernomamahuev has made the advancement [Ambush]
+[11Jan2025 21:33:58.092] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 90
+[11Jan2025 21:33:58.093] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=108, e=134}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=0, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=135, e=143}}
+[11Jan2025 21:33:58.093] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=0, e=107}
+[11Jan2025 21:33:58.190] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 90
+[11Jan2025 21:33:58.191] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=108, e=134}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=0, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=135, e=143}}
+[11Jan2025 21:33:58.191] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=0, e=107}
+[11Jan2025 21:33:58.238] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 90
+[11Jan2025 21:33:58.238] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=108, e=134}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=0, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=135, e=143}}
+[11Jan2025 21:33:58.238] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3b02ae83, b=0, e=107}
+[11Jan2025 21:34:20.221] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/4496, l='ServerLevel[world]', x=734.80, y=84.00, z=-834.80]
+[11Jan2025 21:34:20.222] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/4496, l='ServerLevel[world]', x=734.80, y=84.00, z=-834.80]
+[11Jan2025 21:35:00.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xdxdxdxdxxxddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddxxxxddddddddddddddddddddddddddddddddddddddddd
+[11Jan2025 21:35:28.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> y el tilin y el edu? haciendose otra yapita como de costumbr
+[11Jan2025 21:35:31.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> nonoonon
+[11Jan2025 21:36:07.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> me gustaria decirles pero no se puede pe
+[11Jan2025 21:36:19.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> porque son bien adictos
