@@ -2477,3 +2477,39 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [11Jan2025 21:35:31.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> nonoonon
 [11Jan2025 21:36:07.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> me gustaria decirles pero no se puede pe
 [11Jan2025 21:36:19.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> porque son bien adictos
+[11Jan2025 21:37:10.757] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:37:10.784] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Jan2025 21:37:45.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> que fue aca
+[11Jan2025 21:37:47.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> huy huy
+[11Jan2025 21:38:29.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> huy huy, aver la tierra es plana?
+[11Jan2025 21:38:56.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:38:57.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:39:18.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> la mujer si es mas inteligente mas plana sera
+[11Jan2025 21:39:20.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> dea
+[11Jan2025 21:39:20.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[11Jan2025 21:39:34.008] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=747, y=72, z=-727} BlockPos{x=759, y=72, z=-715}
+[11Jan2025 21:40:40.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> yo como puedo saber si una mejora de arma le quedara a mi arma?
+[11Jan2025 21:41:06.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> es que yo hice una mira para la M24 y no le quedo
+[11Jan2025 21:41:07.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> xd
+[11Jan2025 21:42:10.769] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Jan2025 21:42:10.800] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Jan2025 21:43:36.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elikernomamahuev> me void pa mi casa
+[11Jan2025 21:45:14.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 13
+[11Jan2025 21:45:14.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.inventory.CraftResultInventory@79c00480=InventoryMapping{i=net.minecraft.inventory.CraftResultInventory@79c00480, c=net.minecraft.inventory.container.PlayerContainer@5f29add7, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.PlayerContainer@5f29add7, b=45, e=45}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.PlayerContainer@5f29add7, b=9, e=35}, net.minecraft.inventory.CraftingInventory@6a542f99=InventoryMapping{i=net.minecraft.inventory.CraftingInventory@6a542f99, c=net.minecraft.inventory.container.PlayerContainer@5f29add7, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.inventory.container.PlayerContainer@5f29add7, b=36, e=44}}
+[11Jan2025 21:45:14.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.inventory.container.PlayerContainer@5f29add7, b=9, e=35}
+[11Jan2025 21:45:39.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:45:39.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:45:39.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:45:41.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:45:42.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:45:56.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:45:57.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:45:58.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:46:01.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:46:04.855] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:46:06.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:46:07.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:46:08.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:46:09.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:46:10.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 21:46:11.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
